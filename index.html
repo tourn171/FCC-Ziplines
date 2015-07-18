@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en" ng-app = 'fccApp' ng-controller="mainCtrl">
+  <head>
+  	<meta charset="utf-8">
+		<link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap.css">
+		<link rel="stylesheet" href="node_modules/font-awesome/css/font-awesome.min.css">
+		<link rel="stylesheet" href="css/index.css">
+		<link rel="stylesheet" href="css/main.css">
+		<script src="node_modules/jquery/dist/jquery.js"></script>
+		<script src="scripts/mediator.js"></script>
+		<script src="scripts/keyRing.js"></script>
+  </head>
+	<body >
+			<div>
+		<div class="container navBar">
+	<div class="row">
+		<div class="col-md-2 col-md-sm-12 title-box"><a href="index.html" class="title-link"><h3>FCC Ziplines</h3></a></div>
+		<ul class="col-md-6 container row" id="test">
+			<a class="col-md-3" href="weather.html"><li>Weather Forecast</li></a>
+			<a class="col-md-3" href="quote.html"><li>90's Random Quote Generator</li></a>
+			<a class="col-md-3" href="twitch.html"><li>Twitch.tv JSON API</li></a>
+			<a class="col-md-3" href="index.html"><li>Camper News</li></a>
+			<a class="col-md-3" href="index.html"><li>WikiPedia Viewer</li></a>
+			<a class="col-md-3" href="index.html"><li>Pomodoro Clock</li></a>
+			<a class="col-md-3" href="index.html"><li>Javascipt Calculator</li></a>
+			<a class="col-md-3" href="index.html"><li>Tic Tac Toe Game</li></a>
+		</ul>
+	</div>
+</div>
+		</div>
+			<div class="wrapper">
+				<div class="injectArea" ng-view></div>
+
+
+
+
+
+<div class="containerMain clearfix">
+
+
+	<div class="jumbotron">
+
+	<h1>Free Code Camp Ziplines</h1>
+	<h4>This site is a live repository of my project solutions for the ziplines section of Free Code Camp</h4>
+</div>
+	
+	
+	<div class="row row1">
+	<div class = "camper col-md-4 col-sm-12 "><img class="img img-responsive fcc" src="http://tourn171.github.io/FCC-Ziplines/resources/main/AK29YaTf.png"/></div>
+
+	<div class="summary col-md-4 col-sm-12">
+
+	<p>If you are not aware of what <a href="http://www.freecodecamp.com/">Free Code Camp</a> is it is a Javascript centric web development course. It focuses on helping people learn to be full stack web designers using HTML5, CSS3, Bootstrap, Javascript, Jquery, Angular, and NodeJs. On top of the course work Free Code Camp also helps out non-profit organizations and helps new developers strengthen their portfolio and experince by matching the two together. Though relatively new, at the time of this writing (07/16/15) less than a year old, the site already boasts several thousand members (affectionatly called campers by the site). The ciriculum is continuously improved as the site grows and it is a wonderful learning resource. The following projects I have made really have been thanks to this site. Feel free to look around and check out the various projects if you are interested in my personal profile for Free Code Camp a link is supplied below as well as links to other projects and sites related to my coding work.</p>
+		
+		
+		
+		
+		</div>
+	</div>
+
+	<div class="container sites">
+		<h2>Want to know more about me?</h2>
+		<p>Here are some other places that you can find out more about me and my work</p>
+		<div class="row links">
+			<div class="col-md-6 col-sm-12">
+				<ul>
+					<a href="https://www.linkedin.com/pub/brett-flanders/a5/69b/868"><div class= "link"><i class="fa fa-linkedin-square"></i><li>Linked In</li></div></a>
+					<a href="https://github.com/tourn171"><div class="link"><i class="fa fa-github-square"></i><li>github</li></div></a>
+				</ul>
+			</div>
+			<div class="col-md-6 col-sm-12">
+				<ul>
+					<a href="http://codepen.io/tourn171/"><div class= "link"><i class="fa fa-codepen"></i><li>Codepen</li></div></a>
+					<a href="http://www.freecodecamp.com/tourn"><div class= "link"><i class="fa fa-code"></i><li>Free Code Camp</li></div></a>
+				</ul>
+			</div>
+			
+		</div>
+	
+	</div>
+
+
+
+</div>
+
+<div class="footer">
+	&copy 2015 Brett Flanders: Developer Artist Human
+</div>
+
+		<div class="box"><div class="info"><button class="close">x</button><div></div></div></div>
+<!--  <script src="../node_modules/angular/angular.js"></script>-->
+  <script src="app/app.js"></script>
+<!--	<script src="../app/Controllers/navController.js"></script>-->
+	</body>          
+</html>				

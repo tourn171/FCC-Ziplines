@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en" ng-app = 'fccApp' ng-controller="mainCtrl">
+  <head>
+  	<meta charset="utf-8">
+		<link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap.css">
+		<link rel="stylesheet" href="node_modules/font-awesome/css/font-awesome.min.css">
+		<link rel="stylesheet" href="css/index.css">
+		<link rel="stylesheet" href="css/weather.css">
+		<script src="node_modules/jquery/dist/jquery.js"></script>
+		<script src="scripts/mediator.js"></script>
+		<script src="scripts/keyRing.js"></script>
+  </head>
+	<body >
+			<div>
+		<div class="container navBar">
+	<div class="row">
+		<div class="col-md-2 col-md-sm-12 title-box"><a href="index.html" class="title-link"><h3>FCC Ziplines</h3></a></div>
+		<ul class="col-md-6 container row" id="test">
+			<a class="col-md-3" href="weather.html"><li>Weather Forecast</li></a>
+			<a class="col-md-3" href="quote.html"><li>90's Random Quote Generator</li></a>
+			<a class="col-md-3" href="twitch.html"><li>Twitch.tv JSON API</li></a>
+			<a class="col-md-3" href="index.html"><li>Camper News</li></a>
+			<a class="col-md-3" href="index.html"><li>WikiPedia Viewer</li></a>
+			<a class="col-md-3" href="index.html"><li>Pomodoro Clock</li></a>
+			<a class="col-md-3" href="index.html"><li>Javascipt Calculator</li></a>
+			<a class="col-md-3" href="index.html"><li>Tic Tac Toe Game</li></a>
+		</ul>
+	</div>
+</div>
+		</div>
+			<div class="wrapper">
+				<div class="injectArea" ng-view></div>
+
+
+
+<div class = "content clearfix">
+		<div class="options" id="options">
+	<button id="toggle">Toggle Celcius or Farenheit</button>
+</div>
+	<div class="tab">||| Options |||</div>
+		<div class = title>
+			<h1>Free Code Camp</h1>
+			<h2>Local Weather App</h2>
+		</div>
+		<!--<div class = "clock"></div> Potentially implemnt later-->
+		<div class = "weatherTray container">
+				<div class="errorMe">
+					<ul>
+					</ul>
+				</div>
+			<div class = "row">
+			<div class = "location col-md-6 pull-left">--- , --</div>
+				<div class="weatherIcon col-md-4 pull-right"><img class="img img-responsive" /></div>
+				<div class = "temp col-me-4 pull-right"><span id="temp">--</span>&deg<span id=grad></span></div>
+			</div>
+			<div class = "extras row">
+			  <div class="extraCard col-md-3 pull-left"> 
+					<p><span id="chance">--<span> </p>
+						<p> Wind: <span id="wind">20</span>MPH <span id='bearing'>NE</span></p>
+						<p>Cloud Cover: <span id="clouds">----</span></p>
+				</div>
+				<div class="extraCard col-md-3 pull-left">
+					<p>Tonights Moon: <span id="phase">---</span></p>
+					<p>Humidity: <span id="humid">--</span>%</p>
+					<p>Visibility up to: <span id="vis">--</span>mi</p>
+				</div>
+					<div class="extraCard col-md-3 pull-left">
+						<p>High Today: <span id="hi">--</span>&deg</p>
+						<p>At around <span id = "hiTime">---</span></p>
+						<p>Sunrise <span id="sunrise">-----</span></p>						
+					</div>
+					<div class="extraCard col-md-3 pull-left">
+						<p>Low Today: <span id="low">--</span>&deg</p>
+						<p>At around <span id = "lowTime">----</span></p>
+						<p>Sunset <span id="sunset">----</span></p>						
+					</div>
+			</div>
+			<div class="extended row">
+			</div>
+		</div>
+	</div>
+<div class="infoBar container">
+	
+  	<h3>Powered By:</h3>
+	<div class="row">
+		<div class = "col-xs-12 col-sm-4 col-md-4 col-lg-4">
+		  <p><a href="http://forcast.io">Forcast.Io</a></p>
+
+		</div>
+		<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+			<p><a href="https://developers.google.com/maps/documentation/javascript/">Google Maps Js</a></p>
+						<p><a href="https://github.com/pasnox/oxygen-icons-png">Oxygen Icons Icon Set</a></p>
+		</div>
+		<div class = "col-xs-12 col-sm-4 col-md-4 col-lg-4">
+			<p><a href="http://getbootstrap.com/">Bootstrap</a></p>
+		</div>
+	</div>	
+</div>
+
+
+
+<script type="text/javascript" src="scripts/weather.js"></script>		
+<script type="text/javascript">
+	if(typeof google === 'undefined'){
+	var script = document.createElement('script');
+	if(keyRing.loaded){
+		
+
+			script.src = keyRing.data.googleMaps + "&callback=isNaN";
+			document.body.appendChild(script);
+			startWeather();
+	}
+	else{
+		
+
+		keyRing.on("loadkeys", function(){
+			
+			console.log("in keyring callback");
+			script.src = keyRing.data.googleMaps +"&callback=isNaN";
+			document.body.appendChild(script);			
+			startWeather();
+		});
+	}
+	keyRing.loadKeys();
+}
+</script>
+	
+	
+
+<div class="footer">
+	&copy 2015 Brett Flanders: Developer Artist Human
+</div>
+
+		<div class="box"><div class="info"><button class="close">x</button><div></div></div></div>
+  <script src="scripts/app.js"></script
+	</body>          
+</html>				

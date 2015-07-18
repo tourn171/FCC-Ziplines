@@ -1,0 +1,95 @@
+
+ul{
+	list-style-type: none;
+}
+
+a{
+	text-decoration: none;
+}
+
+.fa{
+	font-size: 5em;
+}
+
+.containerMain{
+	height: auto;
+	width: 100%;
+}
+
+.jumbotron{
+	text-align: center;
+}
+
+.summary{
+	margin-top: 2%;
+	width: 60%;
+	height: auto;
+	padding-right: 2%;
+	padding-bottom: 5%;
+	margin-bottom: 20px;
+	float: right;
+}
+
+.row1{
+	margin-bottom: 10px;
+	padding 2%;
+}
+
+.fcc{
+	width: 400px;
+	height: 400px;
+}
+
+.camper{
+	padding-left: 5%;
+	float: left;
+}
+
+
+.sites{
+	margin-top: 5%;
+	text-align: center;
+}
+
+/*
+.link{
+	border: 1px outset black;
+	border-radius: 25px;
+}
+
+.link:hover{
+	border: 1px inset black;
+}
+*/
+
+.links{
+	margin-top: 20px;
+}
+
+.link i{
+	color: firebrick;
+}
+
+.links a{
+	color: black;
+}
+
+
+
+@media screen and (max-width: 992px){
+	.summary{
+		margin: 30px auto;
+		float: none;
+	}
+	
+	.camper{
+		margin: 0 auto;
+		float: none;
+		padding-left: 0;
+	}
+	
+	.camper img{
+		margin: 0 auto;
+	}
+	
+}
