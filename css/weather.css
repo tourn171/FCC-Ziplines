@@ -1,266 +1,231 @@
-
-
 .content {
-		background: url(https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRi7Je76Bf60mai-BZghk7lJES8h9sHrJbvmkjHHM9uH1UFX5HG);
-		background-size: cover;
-		width: 100%;
-		margin: 0 auto;
-		height: auto;
-		padding-top: 5%;
-		padding-bottom: 5%;
+	background: url(https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRi7Je76Bf60mai-BZghk7lJES8h9sHrJbvmkjHHM9uH1UFX5HG);
+	background-size: cover;
+	width: 100%;
+	margin: 0 auto;
+	height: auto;
+	padding-top: 5%;
+	padding-bottom: 5%;
 }
-
 .title {
-		padding: 1%;
-		border-bottom: 1px dashed #000;
-		width: 50%;
-		margin: 0 auto;
-		margin-bottom: 1%;
-		background: rgba(0, 0, 0, 0.8);
-		border: 1px solid gray;
-		border-radius: 25px;
+	padding: 1%;
+	border-bottom: 1px dashed #000;
+	width: 50%;
+	margin: 0 auto;
+	margin-bottom: 1%;
+	background: rgba(0, 0, 0, 0.8);
+	border: 1px solid gray;
+	border-radius: 25px;
 }
-
-.title h1{
-		color: transparent;
-		text-shadow: 0px 0px 0px #FFF, 0px 0px 10px #FFF, 0px 0px 20px #FFF, 0px 0px 30px #FFF, 0px 0px 10px #66F, 0px 0px 20px #66F, 0px 0px 30px #66F, 0px 0px 80px #66F;
+.title h1 {
+	color: transparent;
+	text-shadow: 0px 0px 0px #FFF, 0px 0px 10px #FFF, 0px 0px 20px #FFF, 0px 0px 30px #FFF, 0px 0px 10px #66F, 0px 0px 20px #66F, 0px 0px 30px #66F, 0px 0px 80px #66F;
 }
-
 .weatherTray {
-		width: 90%;
-		height: 90%;
-		background: rgba(0, 0, 0, 0.5);
-		//border: 1px solid gray;
-		border-radius: 25px;
-		margin: 0 auto;
-		color: #DDD;
-	
+	width: 90%;
+	height: 90%;
+	background: rgba(0, 0, 0, 0.5);
+	//border: 1px solid gray;
+	border-radius: 25px;
+	margin: 0 auto;
+	color: #DDD;
 }
-
 .currentRow {
 	height: 30%;
 }
-
 .location {
-		font-size: 5em;
-		float: left;
-		margin-top: 2%;
-		//border: 1px solid white;
+	font-size: 5em;
+	float: left;
+	margin-top: 2%;
+	//border: 1px solid white;
 }
-
 .weatherIcon {
-		width: 20%;
-		margin-top: 2%;
-		min-height: 100%;
-		//border: 1px solid white;
-		//border-radius: 100%;
+	width: 20%;
+	margin-top: 2%;
+	min-height: 100%;
+	//border: 1px solid white;
+	//border-radius: 100%;
 }
-
 .weatherIcon div {
-		width: 74px;
-		height: 100%;
-		background: url('../resources/weezle___weather_icons.jpg');
-		background-position: 32px 90px;
+	width: 74px;
+	height: 100%;
+	background: url('../resources/weezle___weather_icons.jpg');
+	background-position: 32px 90px;
 }
-
 .temp {
-		//border: 1px solid white;
-		font-size: 5em;
-		margin-top: 2%;
-		float: right;
+	//border: 1px solid white;
+	font-size: 5em;
+	margin-top: 2%;
+	float: right;
 }
-
 .extras {
-		height: 30%;
-		padding-top: 2%;
-		padding-left: 2%;
-		padding-bottom: 2%;
-		//border: 1px solid white;
-		border-top: 1px inset white;
-		border-bottom: 1px outset white;
+	height: 30%;
+	padding-top: 2%;
+	padding-left: 2%;
+	padding-bottom: 2%;
+	//border: 1px solid white;
+	border-top: 1px inset white;
+	border-bottom: 1px outset white;
 }
-
 .extraCard {
-		text-align: center;
-		border-right: 1px solid white;
-		border-top: 1px solid transparent;
+	text-align: center;
+	border-right: 1px solid white;
+	border-top: 1px solid transparent;
 }
-
 .extended {
-		height: 40%;
-		//padding-left: 25%;
-		//border: 1px solid white;
-		border-bottom-left-radius: 25px;
-		border-bottom-right-radius: 25px;
+	height: 40%;
+	//padding-left: 25%;
+	//border: 1px solid white;
+	border-bottom-left-radius: 25px;
+	border-bottom-right-radius: 25px;
 }
-
 .extraCard {
-		height: 100%;
-		//border: 1px solid white;
+	height: 100%;
+	//border: 1px solid white;
 }
-
 .extraCard:last-of-type {
-		border: none;
+	border: none;
 }
-
 .day {
-		text-align: center;
-		height: 100%;
-		padding-left: 25px;
-		padding-right: 25px;
-		border-right: 1px solid white;
-		border-top: 30px solid transparent;
-		border-bottom: 30px solid transparent;
-		//background: red;
+	text-align: center;
+	height: 100%;
+	padding-left: 25px;
+	padding-right: 25px;
+	border-right: 1px solid white;
+	border-top: 30px solid transparent;
+	border-bottom: 30px solid transparent;
+	//background: red;
 }
-
 .day:last-of-type {
-		border: none;
-		border-top: 30px solid transparent;
+	border: none;
+	border-top: 30px solid transparent;
 }
-
 .smlTemp {
-		text-align: center;
-		margin-top: 2px;
+	text-align: center;
+	margin-top: 2px;
 }
-
 .smlWeatherIcon {
-		margin-bottom: 10px;
+	margin-bottom: 10px;
 }
-
 .smlWeatherIcon img {
-		margin: 0 auto;
-		width: 50px;
+	margin: 0 auto;
+	width: 50px;
 }
-
 .options {
-		display: none;
-		position: fixed;
-		bottom: 0;
-		right: 0;
-		width: 25%;
-		height: 10%;
-		padding: 10px;
-		background: rgba(255, 255, 255, 0.2);
-		text-align: center;
-		border-bottom-right-radius: 10px;
+	display: none;
+	position: fixed;
+	bottom: 0;
+	right: 0;
+	width: 25%;
+	height: 10%;
+	padding: 10px;
+	background: rgba(255, 255, 255, 0.2);
+	text-align: center;
+	border-bottom-right-radius: 10px;
 }
-
 .options button {
-		border-radius: 25px;
-		padding: 2%;
-		background: #09F;
-		border-color: #09F;
+	border-radius: 25px;
+	padding: 2%;
+	background: #09F;
+	border-color: #09F;
 }
-
 .tab {
-		position: fixed;
-		bottom: 0;
-		right: 5%;
-		background: rgba(255, 255, 255, 0.2);
-		padding: 5px;
-		color: white;
-		cursor: pointer;
-		border-top-left-radius: 10px;
-		border-top-right-radius: 10px;
+	position: fixed;
+	bottom: 0;
+	right: 5%;
+	background: rgba(255, 255, 255, 0.2);
+	padding: 5px;
+	color: white;
+	cursor: pointer;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
 }
-
-.infoBar{
+.infoBar {
 	//position: absolute;
 	//bottom: 0;
 	width: 100%;
 	background: black;
 	padding-bottom: 2%;
 }
-
-.infoBar div{
+.infoBar div {
 	text-align: center;
 	color: #CCC;
 }
-
-.errorMe{
+.errorMe {
 	display: none;
 	position: relative;
 	top: 0;
 	left: -15px;
 	text-align: center;
 	width: calc(100% + 30px);
-	background: rgba(150,0,0,0.3);
+	background: rgba(150, 0, 0, 0.3);
 	color: #F00;
 	font-size: 1.2em;
 	border-top-left-radius: 25px;
 	border-top-right-radius: 25px;
 }
-
-.errorMe ul{
+.errorMe ul {
 	margin: 0;
 	padding: 0;
 	list-style-type: none;
-	
 }
-
-.more{
+.more {
 	background: transparent;
 	border: none;
 	color: cornflowerblue
 }
-
-.info-block{
-}
-
-
+.info-block {}
 @media screen and (max-width: 992px) {
-		.wrapper {
-				height: auto;
-		}
-		.content {
-				width: 100%;
-		}
-		.weatherTray {
-				width: 100%;
-		}
-		.extraCard {
-				width: 50%;
-				border: none;
-				text-align: center;
-		}
-		.extended {
-				padding: 0;
-		}
-		.day {
-				width: 50%;
-				border: none;
-				text-align: center;
-				padding: none;
-				margin-top: 10px;
-		}
-		.day:last-of-type {
-				border: none;
-		}
+	.wrapper {
+		height: auto;
+	}
+	.content {
+		width: 100%;
+	}
+	.weatherTray {
+		width: 100%;
+	}
+	.extraCard {
+		width: 50%;
+		border: none;
+		text-align: center;
+	}
+	.extended {
+		padding: 0;
+	}
+	.day {
+		width: 50%;
+		border: none;
+		text-align: center;
+		padding: none;
+		margin-top: 10px;
+	}
+	.day:last-of-type {
+		border: none;
+	}
 }
-
 @media screen and (max-width: 768px) {
-		.extraCard {
-				width: 100%;
-				text-align: center;
-				border: none;
-		}
-		.extended {
-				padding: 0;
-		}
-		.day {
-				padding-top: 10px;
-				width: 100%;
-				text-align: center;
-				border: none;
-				border-bottom: 1px solid white;
-				border-left: 50px solid transparent;
-				border-right: 50px solid transparent;
-		}
-		.tab {
-				left: 0;
-		}
-		.options {
-				width: 40%;
-		}
+	.extraCard {
+		width: 100%;
+		text-align: center;
+		border: none;
+	}
+	.extended {
+		padding: 0;
+	}
+	.day {
+		padding-top: 10px;
+		width: 100%;
+		text-align: center;
+		border: none;
+		border-bottom: 1px solid white;
+		border-left: 50px solid transparent;
+		border-right: 50px solid transparent;
+	}
+	.tab {
+		left: 0;
+	}
+	.options {
+		width: 40%;
+	}
 }
