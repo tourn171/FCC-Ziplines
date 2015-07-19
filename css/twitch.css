@@ -1,0 +1,96 @@
+body {
+	min-height: 100vh;
+}
+.wrapper {
+	height: 100%;
+	min-height: 100vh;
+}
+ul {
+	list-style-type: none;
+}
+.injectArea {
+	background: #F79F94;
+	height: auto;
+	padding: 10px;
+	min-height: 100vh;
+}
+.twitchTray {
+	width: 23%;
+	background: white;
+	margin: 0 auto;
+	border: 1px solid salmon;
+	padding: 0;
+}
+.statusBar {
+	background: salmon;
+	text-align: center;
+}
+.statusBar li {
+	display: inline-block;
+	border-right: 1px solid white;
+	padding: 5px;
+	cursor: pointer;
+	color: white;
+}
+.statusBar li:last-of-type {
+	border: none;
+}
+.statusBar li:hover {
+	background: #EE9089;
+}
+.selected:after {
+	position: absolute;
+	top: 100%;
+	left: 50%;
+	content: "";
+	width: 30px;
+	height: 5px;
+	border-left: 15px solid transparent;
+	border-right: 15px solid transparent;
+	border-top: 15px solid salmon;
+}
+.searchArea {
+	padding-top: 20px;
+	padding-bottom: 20px;
+	border-bottom: 1px solid #E4E0E1;
+}
+.searchBar {
+	width: 90%;
+	border: 1px solid #E4E0E1;
+	border-radius: 25px;
+	margin: 0 auto;
+	padding: 2px;
+}
+.searchBar i {
+	margin-left: 1%;
+	color: #E4E0E1;
+}
+.searchBar input[type="text"] {
+	border: none;
+	width: 90%;
+}
+.stream a {
+	text-decoration: none;
+}
+.logo {
+	width: 50px;
+	height: 50px;
+	border-radius: 50%;
+}
+.name {
+	display: inline-block;
+	width: 13%;
+	color: salmon;
+	padding: 0;
+}
+.status {
+	font-size: 10px;
+}
+.red {
+	color: #F47564;
+}
+.green {
+	color: #8FD7D6;
+}
+
+}

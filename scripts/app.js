@@ -1,6 +1,7 @@
-$('.close').on('click',function(){
-	
-	$('.box').css({'display':"none"});
-	
-});
+$('.close').on('click', function () {
 
+	$('.box').css({
+		'display': "none"
+	});
+
+});
