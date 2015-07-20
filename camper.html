@@ -1,12 +1,13 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" ng-app='camperApp' ng-controller="campCtrl">
 
 <head>
 	<meta charset="utf-8">
 	<link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap.css">
 	<link rel="stylesheet" href="node_modules/font-awesome/css/font-awesome.min.css">
 	<link rel="stylesheet" href="css/index.css">
-	<link rel="stylesheet" href="css/quote.css">
+	<link href='http://fonts.googleapis.com/css?family=Slabo+27px' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" href="css/camper.css">
 	<script src="node_modules/jquery/dist/jquery.js"></script>
 	<script src="scripts/mediator.js"></script>
 	<script src="scripts/keyRing.js"></script>
@@ -49,48 +50,45 @@
 		<!--End navBar-->
 	</div>
 	<div class="wrapper">
-		<div class="injectArea">
-			<div class="qwrapper clearfix">
-				<marquee><pre>Can you handle this much 90's                                                                          Way Over the legal limit of awesome</pre></marquee>
-				<h1>Totally Wicked Awesome 90's Quote Generator</h1>
-				<div class="center">
-					<div class="quote"></div>
-					<div class="button" id="button">Click To Generate a Random Quote</div>
-				</div>
-				<div class="qserved">Quotes Served to date:</div>
-				<div id=counter></div>
+		<div class="injectArea container row" ng-view>
+			<div class="titleBlock">
+				<h1>freeCodeCamp</h1>
+				<h2>Hot news stories</h2>
 			</div>
 
-			<a id="twitterButton" class="twitter-share-button" data-size="large">
-Tweet Me</a>
+			<div class="storiesContainer">
 
-			<script>
-				window.twttr = (function(d, s, id) {
-					var js, fjs = d.getElementsByTagName(s)[0],
-						t = window.twttr || {};
-					if (d.getElementById(id)) return t;
-					js = d.createElement(s);
-					js.id = id;
-					js.src = "https://platform.twitter.com/widgets.js";
-					fjs.parentNode.insertBefore(js, fjs);
+				<ul class="stories">
 
-					t._e = [];
-					t.ready = function(f) {
-						t._e.push(f);
-					};
+					<li class="story" ng-repeat="story in stories">
+						<a ng-href="{{ story.link }}">
+							<img ng-src="{{ getImage(story) }}" />
+							<div class="additionalInfo">
+								<span class="headline">{{ story.headline }}</span>
+								<div>
+									<span><a ng-href="{{ story.link }}#comments">{{ story.comments.length }} Comments</a></span>
+									<br />
+									<span>{{ story.upVotes.length }} Up Votes</span>
+								</div>
 
-					return t;
-				}(document, "script", "twitter-wjs"));
+							</div>
+						</a>
+					</li>
 
-			</script>
+				</ul>
 
-			<script type="text/javascript" src="scripts/quote.js"></script>
+			</div>
 
 		</div>
 		<!--End injectArea-->
 
+
 	</div>
 	<!--End wrapper-->
+
+
+
+
 
 
 	<div class="footer">
@@ -103,7 +101,9 @@ Tweet Me</a>
 			<div></div>
 		</div>
 	</div>
+	<script src="node_modules/angular/angular.js"></script>
 	<script src="scripts/app.js"></script>
+	<script src="scripts/camper.js"></script>
 </body>
 
 </html>
