@@ -1,0 +1,63 @@
+html {
+	min-height: 100vh;
+	height: auto;
+}
+body {
+	min-height: 100vh;
+	height: auto;
+}
+ul {
+	list-style-type: none;
+}
+.wrapper {
+	height: 100%;
+	min-height: 100vh;
+}
+.injectArea {
+	height: auto;
+	background: #949494;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.titleBlock {
+	margin-bottom: 10px;
+}
+.titleBlock h1 {
+	font-family: "Slabo 27px", serif;
+}
+.titleBlock h2 {
+	color: darkslategrey;
+}
+.storiesContainer {
+	width: 60%;
+	margin: 0 auto;
+}
+.storiesContainer ul {
+	-moz-column-count: 4;
+	-mox-column-gap: 0px;
+	-webkit-column-count: 4;
+	-webkit-column-gap: 0px;
+	column-count: 4;
+	column-gap: 0px;
+	width: 100%;
+}
+.story {
+	display: inline-block;
+	margin: 5px;
+	width: 100%;
+}
+.story img {
+	width: 100%;
+	max-height: 150px;
+}
+.additionalInfo {
+	background: #E4E4E4;
+	padding: 10px;
+}
+.story .headline {
+	color: black;
+	font-size: 0.8em;
+}
+.stories a {
+	text-decoration: none;
+}

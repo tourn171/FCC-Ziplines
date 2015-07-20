@@ -1,0 +1,3668 @@
+// http://www.freecodecamp.com/stories/hotStories
+
+[{
+	"_id": "55abb2bed6a21a1856252072",
+	"headline": "How to Get Your Site Online For Free With Github Pages",
+	"link": "http://learntocodewith.me/tutorials/github-pages/",
+	"description": "Nice step by step guide for using GitHub pages",
+	"author": {
+		"picture": "http://i.imgur.com/PpTeWGE.jpg",
+		"userId": "54ff8231502b5b0b00ab8cf3",
+		"username": "danielraley",
+		"email": "danielraleydev@gmail.com"
+	},
+	"__v": 5,
+	"storyLink": "how to get your site online for free with github pages",
+	"image": "http://learntocodewith.me/wp-content/uploads/2015/02/github-pages-fblink.jpg",
+	"comments": [],
+	"upVotes": [{
+		"upVotedBy": "54ff8231502b5b0b00ab8cf3",
+		"upVotedByUsername": "danielraley"
+	}, {
+		"upVotedByUsername": "jlbalsamo",
+		"upVotedBy": "558383e99d07bf482d854cd0"
+	}, {
+		"upVotedByUsername": "patrickthecoder",
+		"upVotedBy": "54b85ea417b7e60c001a292b"
+	}, {
+		"upVotedByUsername": "michael",
+		"upVotedBy": "54fe05dc61db280b0051df92"
+	}, {
+		"upVotedByUsername": "nmarlowe",
+		"upVotedBy": "554284f9ec657dde23cb95d1"
+	}, {
+		"upVotedByUsername": "ashpitz",
+		"upVotedBy": "55ac281d4ddecfa6477543b5"
+	}],
+	"rank": 6,
+	"originalStoryAuthorEmail": "danielraleydev@gmail.com",
+	"metaDescription": "In 8 steps I'll show how to get your site online using Github Pages. This guide has been created for beginners: no previous Github experience necessary.",
+	"timePosted": 1437315774652
+}, {
+	"_id": "55aa58077e19adb178c2e6e0",
+	"headline": "50 Free Books for Web Designers &amp; Developers",
+	"link": "http://speckyboy.com/2015/01/12/free-web-design-ebooks-2014/",
+	"description": "",
+	"author": {
+		"picture": "https://pbs.twimg.com/profile_images/378800000633719904/e83f3f74cae11010d32397e94b8bc09b_400x400.jpeg",
+		"userId": "559c1ec15c8414021fa328bf",
+		"username": "bugron",
+		"email": "bugron@mail.ru"
+	},
+	"__v": 17,
+	"storyLink": "50 free books for web designers developers",
+	"image": "http://speckycdn.sdm.netdna-cdn.com/wp-content/uploads/2015/01/free_ebook_thumb.png",
+	"comments": ["55aadf4f57e2f6eb2a760d1c", "55abad64e176bc2f56632da5", "55abc37ad6a21a1856252087"],
+	"upVotes": [{
+		"upVotedBy": "559c1ec15c8414021fa328bf",
+		"upVotedByUsername": "bugron"
+	}, {
+		"upVotedByUsername": "jombard",
+		"upVotedBy": "553959aa4551c6f76fb40bc1"
+	}, {
+		"upVotedByUsername": "jlbalsamo",
+		"upVotedBy": "558383e99d07bf482d854cd0"
+	}, {
+		"upVotedByUsername": "polycasur",
+		"upVotedBy": "55aac6617e19adb178c2e75c"
+	}, {
+		"upVotedByUsername": "wulkan",
+		"upVotedBy": "558dad696788ab3b45d4c9c6"
+	}, {
+		"upVotedByUsername": "cberjano",
+		"upVotedBy": "55aae3ef57e2f6eb2a760d24"
+	}, {
+		"upVotedByUsername": "know2code",
+		"upVotedBy": "54d4fbd135f9990900325127"
+	}, {
+		"upVotedByUsername": "nmarlowe",
+		"upVotedBy": "554284f9ec657dde23cb95d1"
+	}, {
+		"upVotedByUsername": "mitchdoogle",
+		"upVotedBy": "555dbb586b38baaf7e21f810"
+	}, {
+		"upVotedByUsername": "beanmac",
+		"upVotedBy": "55a9cb1f7e19adb178c2e65a"
+	}, {
+		"upVotedByUsername": "darumah",
+		"upVotedBy": "55a0bb45dba49b590b828097"
+	}, {
+		"upVotedByUsername": "fallcky",
+		"upVotedBy": "559fb7973eb191577f54a742"
+	}, {
+		"upVotedByUsername": "michael",
+		"upVotedBy": "54fe05dc61db280b0051df92"
+	}, {
+		"upVotedByUsername": "sonnytron",
+		"upVotedBy": "55abdf35e176bc2f56632de0"
+	}, {
+		"upVotedByUsername": "brothergeronimo",
+		"upVotedBy": "55abfe81d6a21a18562520c7"
+	}],
+	"rank": 15,
+	"originalStoryAuthorEmail": "bugron@mail.ru",
+	"metaDescription": "We've collected 50 of our favorite FREE web design and development books. Topics include CSS, HTML, JS, WordPress, UX, Git, and much more.",
+	"timePosted": 1437227015635
+}, {
+	"_id": "55ab129057e2f6eb2a760d48",
+	"headline": "Programming Achievements: How to Level Up as a Developer ",
+	"link": "http://jasonrudolph.com/blog/2011/08/09/programming-achievements-how-to-level-up-as-a-developer/",
+	"description": "",
+	"author": {
+		"picture": "https://lh4.googleusercontent.com/-DpFkNnvd6Uk/AAAAAAAAAAI/AAAAAAAAAEg/YTE7r7JCyak/photo.jpg",
+		"userId": "54a4baa6975bfc0b0030b667",
+		"username": "elliescode",
+		"email": "arttaielli@gmail.com"
+	},
+	"__v": 3,
+	"storyLink": "programming achievements how to level up as a developer",
+	"image": "",
+	"comments": [],
+	"upVotes": [{
+		"upVotedBy": "54a4baa6975bfc0b0030b667",
+		"upVotedByUsername": "elliescode"
+	}, {
+		"upVotedByUsername": "jlbalsamo",
+		"upVotedBy": "558383e99d07bf482d854cd0"
+	}, {
+		"upVotedByUsername": "michael",
+		"upVotedBy": "54fe05dc61db280b0051df92"
+	}, {
+		"upVotedByUsername": "jombard",
+		"upVotedBy": "553959aa4551c6f76fb40bc1"
+	}],
+	"rank": 4,
+	"originalStoryAuthorEmail": "arttaielli@gmail.com",
+	"metaDescription": "Jason Rudolph - Programmer, consultant, speaker, and author specializing in Ruby, Rails, and Clojure",
+	"timePosted": 1437274768580
+}, {
+	"_id": "55aa58997e19adb178c2e6e2",
+	"headline": "The 10 Most Common Bootstrap Mistakes",
+	"link": "http://www.toptal.com/twitter-bootstrap/the-10-most-common-bootstrap-mistakes",
+	"description": "",
+	"author": {
+		"picture": "https://pbs.twimg.com/profile_images/378800000633719904/e83f3f74cae11010d32397e94b8bc09b_400x400.jpeg",
+		"userId": "559c1ec15c8414021fa328bf",
+		"username": "bugron",
+		"email": "bugron@mail.ru"
+	},
+	"__v": 6,
+	"storyLink": "the 10 most common bootstrap mistakes",
+	"image": "http://assets.toptal.io/uploads/blog/post_image/90182/61tomislav-01-aed3828552141380768a3b7ce764bbc1.jpg",
+	"comments": [],
+	"upVotes": [{
+		"upVotedBy": "559c1ec15c8414021fa328bf",
+		"upVotedByUsername": "bugron"
+	}, {
+		"upVotedByUsername": "jombard",
+		"upVotedBy": "553959aa4551c6f76fb40bc1"
+	}, {
+		"upVotedByUsername": "michael",
+		"upVotedBy": "54fe05dc61db280b0051df92"
+	}, {
+		"upVotedByUsername": "jlbalsamo",
+		"upVotedBy": "558383e99d07bf482d854cd0"
+	}, {
+		"upVotedByUsername": "rafconrad",
+		"upVotedBy": "5563c7aec5995b84283a6a02"
+	}, {
+		"upVotedByUsername": "techtheory",
+		"upVotedBy": "55aaf05357e2f6eb2a760d30"
+	}, {
+		"upVotedByUsername": "bsaus",
+		"upVotedBy": "55aa1a46dc345ceb789b5ef0"
+	}],
+	"rank": 7,
+	"originalStoryAuthorEmail": "bugron@mail.ru",
+	"metaDescription": "Bootstrap is a powerful toolkit. It comes bundled with basic HTML and CSS design templates that include many common UI components. Most of the important pitfalls are mentioned in the Bootstrap documentation, but still some mistakes are pretty subtle, or have ambiguous causes.\r\n\r\nIn this article, Toptal engineer Tomislav Bacinger discusses ten common mistakes, problems, and misconceptions that Bootstrap developers have.",
+	"timePosted": 1437227161120
+}, {
+	"_id": "55aa583f7e19adb178c2e6e1",
+	"headline": "12 Time-Saving Bootstrap Examples",
+	"link": "http://tutorialzine.com/2015/06/12-time-saving-bootstrap-examples/",
+	"description": "",
+	"author": {
+		"picture": "https://pbs.twimg.com/profile_images/378800000633719904/e83f3f74cae11010d32397e94b8bc09b_400x400.jpeg",
+		"userId": "559c1ec15c8414021fa328bf",
+		"username": "bugron",
+		"email": "bugron@mail.ru"
+	},
+	"__v": 5,
+	"storyLink": "12 timesaving bootstrap examples",
+	"image": "",
+	"comments": [],
+	"upVotes": [{
+		"upVotedBy": "559c1ec15c8414021fa328bf",
+		"upVotedByUsername": "bugron"
+	}, {
+		"upVotedByUsername": "buildmysite1",
+		"upVotedBy": "54a4b3973acc760b00a54fff"
+	}, {
+		"upVotedByUsername": "michael",
+		"upVotedBy": "54fe05dc61db280b0051df92"
+	}, {
+		"upVotedByUsername": "jlbalsamo",
+		"upVotedBy": "558383e99d07bf482d854cd0"
+	}, {
+		"upVotedByUsername": "lollydaggle",
+		"upVotedBy": "55aa90277e19adb178c2e71d"
+	}, {
+		"upVotedByUsername": "jombard",
+		"upVotedBy": "553959aa4551c6f76fb40bc1"
+	}],
+	"rank": 6,
+	"originalStoryAuthorEmail": "bugron@mail.ru",
+	"metaDescription": "A dozen of free Bootstrap powered HTML snippets and examples, which you can drop into any project and save time.",
+	"timePosted": 1437227071725
+}, {
+	"_id": "55a8812e7e19adb178c2e494",
+	"headline": "7 Unspoken Advantages of Being a New Developer — Medium",
+	"link": "https://medium.com/@learntocodewithme/7-unspoken-advantages-of-being-a-new-developer-3c41e5070e74",
+	"description": "Came across this the night following a similar conversation at our local FreeCodeCamp Campsite event, good points!",
+	"author": {
+		"picture": "http://i.imgur.com/PpTeWGE.jpg",
+		"userId": "54ff8231502b5b0b00ab8cf3",
+		"username": "danielraley",
+		"email": "danielraleydev@gmail.com"
+	},
+	"__v": 26,
+	"storyLink": "7 unspoken advantages of being a new developer medium",
+	"image": "https://d262ilb51hltx0.cloudfront.net/max/800/1*48iE-qyalCtfgzyqeonXKQ.jpeg",
+	"comments": ["55a9b145dc345ceb789b5e98"],
+	"upVotes": [{
+		"upVotedBy": "54ff8231502b5b0b00ab8cf3",
+		"upVotedByUsername": "danielraley"
+	}, {
+		"upVotedByUsername": "jlbalsamo",
+		"upVotedBy": "558383e99d07bf482d854cd0"
+	}, {
+		"upVotedByUsername": "gipsitana",
+		"upVotedBy": "554123d1d89a393f4f8974b5"
+	}, {
+		"upVotedByUsername": "turtleman",
+		"upVotedBy": "5579907e8d4088434095f18f"
+	}, {
+		"upVotedByUsername": "nmarlowe",
+		"upVotedBy": "554284f9ec657dde23cb95d1"
+	}, {
+		"upVotedByUsername": "mmm_code",
+		"upVotedBy": "55a847c3dc345ceb789b5ced"
+	}, {
+		"upVotedByUsername": "ahayder",
+		"upVotedBy": "558dbece6788ab3b45d4c9d7"
+	}, {
+		"upVotedByUsername": "cakleimeier",
+		"upVotedBy": "555ce62dfa58683d6e32aec7"
+	}, {
+		"upVotedByUsername": "michael",
+		"upVotedBy": "54fe05dc61db280b0051df92"
+	}, {
+		"upVotedByUsername": "frown",
+		"upVotedBy": "55083393a87b1e0b0002065d"
+	}, {
+		"upVotedByUsername": "sorsimmanis",
+		"upVotedBy": "55837c2babe649512dec9019"
+	}, {
+		"upVotedByUsername": "chriskimmet",
+		"upVotedBy": "55a946e27e19adb178c2e59d"
+	}, {
+		"upVotedByUsername": "griphook",
+		"upVotedBy": "559fccc53eb191577f54a85e"
+	}, {
+		"upVotedByUsername": "sarahemalek",
+		"upVotedBy": "55a6faf91eee7e241648b5ba"
+	}, {
+		"upVotedByUsername": "collinr",
+		"upVotedBy": "559f3d873eb191577f54a1a5"
+	}, {
+		"upVotedByUsername": "akiralaine",
+		"upVotedBy": "553dc6e60cd9d50d775acd4f"
+	}, {
+		"upVotedByUsername": "duttakapil",
+		"upVotedBy": "5497f7a1e356230b001acec8"
+	}, {
+		"upVotedByUsername": "wulkan",
+		"upVotedBy": "558dad696788ab3b45d4c9c6"
+	}, {
+		"upVotedByUsername": "sudeepto",
+		"upVotedBy": "54ca8d4b3d30070a007d4b02"
+	}, {
+		"upVotedByUsername": "saakuffo",
+		"upVotedBy": "55aac7a057e2f6eb2a760d03"
+	}, {
+		"upVotedByUsername": "wundertunge",
+		"upVotedBy": "55aa5fd5dc345ceb789b5f27"
+	}, {
+		"upVotedByUsername": "cberjano",
+		"upVotedBy": "55aae3ef57e2f6eb2a760d24"
+	}, {
+		"upVotedByUsername": "know2code",
+		"upVotedBy": "54d4fbd135f9990900325127"
+	}, {
+		"upVotedByUsername": "ae3co",
+		"upVotedBy": "5529e57364da9c0b00fc45fc"
+	}, {
+		"upVotedByUsername": "gildara",
+		"upVotedBy": "5540390e0402bf4838f2f398"
+	}, {
+		"upVotedByUsername": "macorn63",
+		"upVotedBy": "55a685e91eee7e241648b525"
+	}],
+	"rank": 26,
+	"originalStoryAuthorEmail": "danielraleydev@gmail.com",
+	"metaDescription": "For beginners who feel behind and like they’ll never catch up.",
+	"timePosted": 1437106478057
+}, {
+	"_id": "55ab4744ff107ba63634818b",
+	"headline": "Hacking Contest",
+	"link": "https://ctf.mcpa-stl.org/",
+	"description": "A Contest for actually hacking. Free if you use the terms in this videos description https://www.youtube.com/watch?v=rqOmVOVLzlc ",
+	"author": {
+		"picture": "https://lh5.googleusercontent.com/-yg0hmzuw8Us/AAAAAAAAAAI/AAAAAAAAACQ/oQG6gEuLruQ/photo.jpg",
+		"userId": "5485c81bafdb6e0b001bc8ec",
+		"username": "matthewharames",
+		"email": "matthew.harames@gmail.com"
+	},
+	"__v": 1,
+	"storyLink": "hacking contest",
+	"image": "",
+	"comments": [],
+	"upVotes": [{
+		"upVotedBy": "5485c81bafdb6e0b001bc8ec",
+		"upVotedByUsername": "matthewharames"
+	}, {
+		"upVotedByUsername": "jlbalsamo",
+		"upVotedBy": "558383e99d07bf482d854cd0"
+	}],
+	"rank": 2,
+	"originalStoryAuthorEmail": "matthew.harames@gmail.com",
+	"metaDescription": "",
+	"timePosted": 1437288260866
+}, {
+	"_id": "55aa592a7e19adb178c2e6e3",
+	"headline": "15 CSS Questions to Test Your Knowledge",
+	"link": "http://sixrevisions.com/css/css-questions/",
+	"description": "",
+	"author": {
+		"picture": "https://pbs.twimg.com/profile_images/378800000633719904/e83f3f74cae11010d32397e94b8bc09b_400x400.jpeg",
+		"userId": "559c1ec15c8414021fa328bf",
+		"username": "bugron",
+		"email": "bugron@mail.ru"
+	},
+	"__v": 3,
+	"storyLink": "15 css questions to test your knowledge",
+	"image": "http://cdn.sixrevisions.com/0519-02-css-questions.jpg",
+	"comments": [],
+	"upVotes": [{
+		"upVotedBy": "559c1ec15c8414021fa328bf",
+		"upVotedByUsername": "bugron"
+	}, {
+		"upVotedByUsername": "michael",
+		"upVotedBy": "54fe05dc61db280b0051df92"
+	}, {
+		"upVotedByUsername": "jlbalsamo",
+		"upVotedBy": "558383e99d07bf482d854cd0"
+	}, {
+		"upVotedByUsername": "cberjano",
+		"upVotedBy": "55aae3ef57e2f6eb2a760d24"
+	}],
+	"rank": 4,
+	"originalStoryAuthorEmail": "bugron@mail.ru",
+	"metaDescription": "How well do you know CSS? Test your knowledge by trying to answer the CSS questions in this post.",
+	"timePosted": 1437227306029
+}, {
+	"_id": "55aa55ccdc345ceb789b5f1d",
+	"headline": "jQuery UI Events Cheatsheet",
+	"link": "http://bitsofco.de/2015/jquery-ui-events/",
+	"description": "",
+	"author": {
+		"picture": "https://pbs.twimg.com/profile_images/378800000633719904/e83f3f74cae11010d32397e94b8bc09b_400x400.jpeg",
+		"userId": "559c1ec15c8414021fa328bf",
+		"username": "bugron",
+		"email": "bugron@mail.ru"
+	},
+	"__v": 3,
+	"storyLink": "jquery ui events cheatsheet",
+	"image": "",
+	"comments": [],
+	"upVotes": [{
+		"upVotedBy": "559c1ec15c8414021fa328bf",
+		"upVotedByUsername": "bugron"
+	}, {
+		"upVotedByUsername": "michael",
+		"upVotedBy": "54fe05dc61db280b0051df92"
+	}, {
+		"upVotedByUsername": "scobie86",
+		"upVotedBy": "559f69593eb191577f54a3bf"
+	}, {
+		"upVotedByUsername": "jlbalsamo",
+		"upVotedBy": "558383e99d07bf482d854cd0"
+	}],
+	"rank": 4,
+	"originalStoryAuthorEmail": "bugron@mail.ru",
+	"metaDescription": "Bits of Code is a blog for self-taught web developers such as myself.  It is a platform to explore the theory behind bits of code that we all write, and gain a more well rounded knowledge of web development.\n",
+	"timePosted": 1437226444913
+}, {
+	"_id": "55abe8f9d6a21a18562520b0",
+	"headline": "hall of api shame: boolean trap \t\t",
+	"link": "http://ariya.ofilabs.com/2011/08/hall-of-api-shame-boolean-trap.html",
+	"description": "Sadly once you know this you can't *not* see it everywhere (hopefully that will stop you from doing it yourself though ) ",
+	"author": {
+		"picture": "https://lh5.googleusercontent.com/-bHpQGcVcPYE/AAAAAAAAAAI/AAAAAAAAOmA/t8acenej9zw/photo.jpg",
+		"userId": "559ecb01dd542fe9756c2a40",
+		"username": "cparrish",
+		"email": "carl.parrish@gmail.com"
+	},
+	"__v": 0,
+	"storyLink": "hall of api shame boolean trap",
+	"image": "http://upload.wikimedia.org/wikipedia/commons/6/6c/George_Boole.jpg",
+	"comments": [],
+	"upVotes": [{
+		"upVotedBy": "559ecb01dd542fe9756c2a40",
+		"upVotedByUsername": "cparrish"
+	}],
+	"rank": 1,
+	"originalStoryAuthorEmail": "carl.parrish@gmail.com",
+	"metaDescription": "",
+	"timePosted": 1437329657165
+}, {
+	"_id": "55abd49ce176bc2f56632dce",
+	"headline": "99 tech terms you need to know when you're new to tech",
+	"link": "http://skillcrush.com/2015/03/26/99-tech-terms/",
+	"description": "",
+	"author": {
+		"picture": "https://graph.facebook.com/10152863784027163/picture?type=large",
+		"userId": "55a0bb45dba49b590b828097",
+		"username": "darumah",
+		"email": "robynwade@gmail.com"
+	},
+	"__v": 0,
+	"storyLink": "99 tech terms you need to know when youre new to tech",
+	"image": "http://skillcrush.com/wp-content/uploads/2015/03/99-tech-terms.png",
+	"comments": [],
+	"upVotes": [{
+		"upVotedBy": "55a0bb45dba49b590b828097",
+		"upVotedByUsername": "darumah"
+	}],
+	"rank": 1,
+	"originalStoryAuthorEmail": "robynwade@gmail.com",
+	"metaDescription": "Learn the most important tech terms today with these 99 simple and easy-to-understand definitions",
+	"timePosted": 1437324444386
+}, {
+	"_id": "55abd2e4e176bc2f56632dcb",
+	"headline": " » The Commandments of Good Code according to Zach™ Advance the world",
+	"link": "http://zachgoldberg.com/2015/07/15/the-commandments-of-good-code-according-to-zach/",
+	"description": "",
+	"author": {
+		"picture": "https://lh5.googleusercontent.com/-bHpQGcVcPYE/AAAAAAAAAAI/AAAAAAAAOmA/t8acenej9zw/photo.jpg",
+		"userId": "559ecb01dd542fe9756c2a40",
+		"username": "cparrish",
+		"email": "carl.parrish@gmail.com"
+	},
+	"__v": 0,
+	"storyLink": "the commandments of good code according to zach advance the world",
+	"image": "",
+	"comments": [],
+	"upVotes": [{
+		"upVotedBy": "559ecb01dd542fe9756c2a40",
+		"upVotedByUsername": "cparrish"
+	}],
+	"rank": 1,
+	"originalStoryAuthorEmail": "carl.parrish@gmail.com",
+	"metaDescription": "Advance the world - The Commandments of Good Code according to Zach™",
+	"timePosted": 1437324004708
+}, {
+	"_id": "55abb855d6a21a1856252076",
+	"headline": "11 JavaScript Code Snippets for Dynamic Web Projects - Web Design Ledger",
+	"link": "http://webdesignledger.com/tips/javascript-code-snippets",
+	"description": "Some handy stuff.",
+	"author": {
+		"picture": "https://graph.facebook.com/10152951686083199/picture?type=large",
+		"userId": "55a1422cd9e6d9240c6a381a",
+		"username": "dugbus",
+		"email": "dave@dugbus.com"
+	},
+	"__v": 0,
+	"storyLink": "11 javascript code snippets for dynamic web projects web design ledger",
+	"image": "http://webdesignledgercom.c.presscdn.com/wp-content/uploads/2012/12/featured-image-javascript-coders-developers.jpg",
+	"comments": [],
+	"upVotes": [{
+		"upVotedBy": "55a1422cd9e6d9240c6a381a",
+		"upVotedByUsername": "dugbus"
+	}],
+	"rank": 1,
+	"originalStoryAuthorEmail": "dave@dugbus.com",
+	"metaDescription": "",
+	"timePosted": 1437317205010
+}, {
+	"_id": "55a997877e19adb178c2e606",
+	"headline": "8 Regular Expressions You Should Know",
+	"link": "http://code.tutsplus.com/tutorials/8-regular-expressions-you-should-know--net-6149",
+	"description": "Are your favorite on this list?",
+	"author": {
+		"picture": "https://lh5.googleusercontent.com/-bHpQGcVcPYE/AAAAAAAAAAI/AAAAAAAAOmA/t8acenej9zw/photo.jpg",
+		"userId": "559ecb01dd542fe9756c2a40",
+		"username": "cparrish",
+		"email": "carl.parrish@gmail.com"
+	},
+	"__v": 5,
+	"storyLink": "8 regular expressions you should know",
+	"image": "",
+	"comments": [],
+	"upVotes": [{
+		"upVotedBy": "559ecb01dd542fe9756c2a40",
+		"upVotedByUsername": "cparrish"
+	}, {
+		"upVotedByUsername": "michael",
+		"upVotedBy": "54fe05dc61db280b0051df92"
+	}, {
+		"upVotedByUsername": "iorch",
+		"upVotedBy": "55a9b12a7e19adb178c2e636"
+	}, {
+		"upVotedByUsername": "elfosardo",
+		"upVotedBy": "55aa594cdc345ceb789b5f22"
+	}, {
+		"upVotedByUsername": "bobfromsales",
+		"upVotedBy": "55aa53517e19adb178c2e6d8"
+	}, {
+		"upVotedByUsername": "frown",
+		"upVotedBy": "55083393a87b1e0b0002065d"
+	}],
+	"rank": 6,
+	"originalStoryAuthorEmail": "carl.parrish@gmail.com",
+	"metaDescription": "",
+	"timePosted": 1437177735798
+}, {
+	"_id": "55aa57ab7e19adb178c2e6df",
+	"headline": "Top 12 Tools for Creating Animations with HTML5",
+	"link": "http://codecondo.com/tools-for-creating-animations-with-html5/",
+	"description": "",
+	"author": {
+		"picture": "https://pbs.twimg.com/profile_images/378800000633719904/e83f3f74cae11010d32397e94b8bc09b_400x400.jpeg",
+		"userId": "559c1ec15c8414021fa328bf",
+		"username": "bugron",
+		"email": "bugron@mail.ru"
+	},
+	"__v": 2,
+	"storyLink": "top 12 tools for creating animations with html5",
+	"image": "",
+	"comments": [],
+	"upVotes": [{
+		"upVotedBy": "559c1ec15c8414021fa328bf",
+		"upVotedByUsername": "bugron"
+	}, {
+		"upVotedByUsername": "know2code",
+		"upVotedBy": "54d4fbd135f9990900325127"
+	}, {
+		"upVotedByUsername": "darumah",
+		"upVotedBy": "55a0bb45dba49b590b828097"
+	}],
+	"rank": 3,
+	"originalStoryAuthorEmail": "bugron@mail.ru",
+	"metaDescription": "There are many animation tools available in the market and we have come up with a list of best 12 tools available.",
+	"timePosted": 1437226923062
+}, {
+	"_id": "55aa55ff7e19adb178c2e6dc",
+	"headline": "Overcoming JavaScript Framework Fatigue",
+	"link": "http://teropa.info/blog/2015/07/15/overcoming-javascript-framework-fatigue.html",
+	"description": "",
+	"author": {
+		"picture": "https://pbs.twimg.com/profile_images/378800000633719904/e83f3f74cae11010d32397e94b8bc09b_400x400.jpeg",
+		"userId": "559c1ec15c8414021fa328bf",
+		"username": "bugron",
+		"email": "bugron@mail.ru"
+	},
+	"__v": 3,
+	"storyLink": "overcoming javascript framework fatigue",
+	"image": "",
+	"comments": ["55aac9b37e19adb178c2e760"],
+	"upVotes": [{
+		"upVotedBy": "559c1ec15c8414021fa328bf",
+		"upVotedByUsername": "bugron"
+	}, {
+		"upVotedByUsername": "michael",
+		"upVotedBy": "54fe05dc61db280b0051df92"
+	}, {
+		"upVotedByUsername": "jlbalsamo",
+		"upVotedBy": "558383e99d07bf482d854cd0"
+	}],
+	"rank": 3,
+	"originalStoryAuthorEmail": "bugron@mail.ru",
+	"metaDescription": "Tero Parviainen",
+	"timePosted": 1437226495897
+}, {
+	"_id": "55aa1018dc345ceb789b5ee8",
+	"headline": "Algorithms - GeeksforGeeks",
+	"link": "http://www.geeksforgeeks.org/fundamentals-of-algorithms/",
+	"description": "",
+	"author": {
+		"picture": "https://scontent-fra.xx.fbcdn.net/hphotos-xpf1/v/t1.0-9/10514703_10152775444974883_454114983350361738_n.jpg?oh=7767cc879985cee0a840b8e5375e6f60&oe=559F79D5",
+		"userId": "55367c70c616590b00f18372",
+		"username": "kmiasko",
+		"email": "kmiasko@gmail.com"
+	},
+	"__v": 2,
+	"storyLink": "algorithms geeksforgeeks",
+	"image": "",
+	"comments": [],
+	"upVotes": [{
+		"upVotedBy": "55367c70c616590b00f18372",
+		"upVotedByUsername": "kmiasko"
+	}, {
+		"upVotedByUsername": "jlbalsamo",
+		"upVotedBy": "558383e99d07bf482d854cd0"
+	}, {
+		"upVotedByUsername": "michael",
+		"upVotedBy": "54fe05dc61db280b0051df92"
+	}],
+	"rank": 3,
+	"originalStoryAuthorEmail": "kmiasko@gmail.com",
+	"metaDescription": "",
+	"timePosted": 1437208600902
+}, {
+	"_id": "55aa56a07e19adb178c2e6de",
+	"headline": "Why Responsive Design is More Important Than Ever",
+	"link": "http://www.convinceandconvert.com/mobile/responsive-design/",
+	"description": "",
+	"author": {
+		"picture": "https://pbs.twimg.com/profile_images/378800000633719904/e83f3f74cae11010d32397e94b8bc09b_400x400.jpeg",
+		"userId": "559c1ec15c8414021fa328bf",
+		"username": "bugron",
+		"email": "bugron@mail.ru"
+	},
+	"__v": 1,
+	"storyLink": "why responsive design is more important than ever",
+	"image": "",
+	"comments": [],
+	"upVotes": [{
+		"upVotedBy": "559c1ec15c8414021fa328bf",
+		"upVotedByUsername": "bugron"
+	}, {
+		"upVotedByUsername": "know2code",
+		"upVotedBy": "54d4fbd135f9990900325127"
+	}],
+	"rank": 2,
+	"originalStoryAuthorEmail": "bugron@mail.ru",
+	"metaDescription": "The benefits of keeping your web properties mobile-friendly, not to mention the penalties for resisting responsive design, are on the rise.",
+	"timePosted": 1437226656229
+}, {
+	"_id": "55a9ca597e19adb178c2e659",
+	"headline": "Art of the Hack - Who Are Those Guys?",
+	"link": "http://theartofthehack.com/who-are-those-guys/",
+	"description": "",
+	"author": {
+		"picture": "https://lh4.googleusercontent.com/-DpFkNnvd6Uk/AAAAAAAAAAI/AAAAAAAAAEg/YTE7r7JCyak/photo.jpg",
+		"userId": "54a4baa6975bfc0b0030b667",
+		"username": "elliescode",
+		"email": "arttaielli@gmail.com"
+	},
+	"__v": 2,
+	"storyLink": "art of the hack who are those guys",
+	"image": "http://theartofthehack.com/wp-content/uploads/2015/04/article-art-of-the-hack_nohed.jpg",
+	"comments": [],
+	"upVotes": [{
+		"upVotedBy": "54a4baa6975bfc0b0030b667",
+		"upVotedByUsername": "elliescode"
+	}, {
+		"upVotedByUsername": "know2code",
+		"upVotedBy": "54d4fbd135f9990900325127"
+	}, {
+		"upVotedByUsername": "rencemontanes",
+		"upVotedBy": "559f0e987c55ed707db7b60e"
+	}],
+	"rank": 3,
+	"originalStoryAuthorEmail": "arttaielli@gmail.com",
+	"metaDescription": "Early exploits of hackers were once rationalized as benefiting the greater good. But the threat landscape has shifted toward far darker shades of cybercrime.",
+	"timePosted": 1437190745555
+}, {
+	"_id": "55aae6bd7e19adb178c2e77e",
+	"headline": "Advanced Voice-Control | Program With Your Voice",
+	"link": "http://voicecode.io/",
+	"description": "",
+	"author": {
+		"picture": "http://i.imgur.com/m9SbBKs.png",
+		"userId": "558dad696788ab3b45d4c9c6",
+		"username": "wulkan",
+		"email": "alexanderwulkan@hotmail.com"
+	},
+	"__v": 0,
+	"storyLink": "advanced voicecontrol program with your voice",
+	"image": "",
+	"comments": [],
+	"upVotes": [{
+		"upVotedBy": "558dad696788ab3b45d4c9c6",
+		"upVotedByUsername": "wulkan"
+	}],
+	"rank": 1,
+	"originalStoryAuthorEmail": "alexanderwulkan@hotmail.com",
+	"metaDescription": "VoiceCode voice command software + comprehensive command set doubles your productivity, eliminates RSI. Code by voice, Eliminate typing pain, Automate your Mac.",
+	"timePosted": 1437263549637
+}, {
+	"_id": "55aae50f7e19adb178c2e77a",
+	"headline": "topcoder",
+	"link": "http://www.topcoder.com/",
+	"description": "",
+	"author": {
+		"picture": "http://i.imgur.com/MdOzBC3.jpge-placeholder.png",
+		"userId": "54fe05dc61db280b0051df92",
+		"username": "michael",
+		"email": "mkemo8870@yahoo.com"
+	},
+	"__v": 0,
+	"storyLink": "topcoder",
+	"image": "",
+	"comments": [],
+	"upVotes": [{
+		"upVotedBy": "54fe05dc61db280b0051df92",
+		"upVotedByUsername": "michael"
+	}],
+	"rank": 1,
+	"originalStoryAuthorEmail": "mkemo8870@yahoo.com",
+	"metaDescription": "",
+	"timePosted": 1437263119968
+}, {
+	"_id": "55aac7207e19adb178c2e75d",
+	"headline": "How to Create and Publish Your First Node.js Module — Medium",
+	"link": "https://medium.com/@jdaudier/how-to-create-and-publish-your-first-node-js-module-444e7585b738",
+	"description": "",
+	"author": {
+		"picture": "http://i.imgur.com/MdOzBC3.jpge-placeholder.png",
+		"userId": "54fe05dc61db280b0051df92",
+		"username": "michael",
+		"email": "mkemo8870@yahoo.com"
+	},
+	"__v": 0,
+	"storyLink": "how to create and publish your first nodejs module medium",
+	"image": "https://d262ilb51hltx0.cloudfront.net/max/800/1*2TwgcgPMqbflx_AdDPPHOw.png",
+	"comments": [],
+	"upVotes": [{
+		"upVotedBy": "54fe05dc61db280b0051df92",
+		"upVotedByUsername": "michael"
+	}],
+	"rank": 1,
+	"originalStoryAuthorEmail": "mkemo8870@yahoo.com",
+	"metaDescription": "What is npm?",
+	"timePosted": 1437255456585
+}, {
+	"_id": "55aac68b57e2f6eb2a760d02",
+	"headline": "Auto-formatting JavaScript Code Style — Medium",
+	"link": "https://medium.com/@addyosmani/auto-formatting-javascript-code-style-fe0f98a923b8",
+	"description": "",
+	"author": {
+		"picture": "http://i.imgur.com/MdOzBC3.jpge-placeholder.png",
+		"userId": "54fe05dc61db280b0051df92",
+		"username": "michael",
+		"email": "mkemo8870@yahoo.com"
+	},
+	"__v": 0,
+	"storyLink": "autoformatting javascript code style medium",
+	"image": "https://d262ilb51hltx0.cloudfront.net/max/800/1*KLFQyME1EhxoWNsqk6Od8Q.gif",
+	"comments": [],
+	"upVotes": [{
+		"upVotedBy": "54fe05dc61db280b0051df92",
+		"upVotedByUsername": "michael"
+	}],
+	"rank": 1,
+	"originalStoryAuthorEmail": "mkemo8870@yahoo.com",
+	"metaDescription": "Today, we’re going to look at the powerful new auto-formatting feature in JSCS for automatically applying style guide ru…",
+	"timePosted": 1437255307316
+}, {
+	"_id": "55a8a1ca7e19adb178c2e4c4",
+	"headline": "Don’t Be Afraid to Go at Your Own Pace",
+	"link": "http://www.scotthyoung.com/blog/2015/07/16/go-your-own-pace/",
+	"description": "Just a little bit of encouragement on going slow...",
+	"author": {
+		"picture": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/2/000/11c/019/267a3a6.jpg",
+		"userId": "55a7865fdc345ceb789b5bd0",
+		"username": "garysmeade",
+		"email": "garysmeade@gmail.com"
+	},
+	"__v": 5,
+	"storyLink": "dont be afraid to go at your own pace",
+	"image": "",
+	"comments": [],
+	"upVotes": [{
+		"upVotedBy": "55a7865fdc345ceb789b5bd0",
+		"upVotedByUsername": "garysmeade"
+	}, {
+		"upVotedByUsername": "michael",
+		"upVotedBy": "54fe05dc61db280b0051df92"
+	}, {
+		"upVotedByUsername": "sarahemalek",
+		"upVotedBy": "55a6faf91eee7e241648b5ba"
+	}, {
+		"upVotedByUsername": "know2code",
+		"upVotedBy": "54d4fbd135f9990900325127"
+	}, {
+		"upVotedByUsername": "ejruiz74",
+		"upVotedBy": "5599fe98d7e9864f54ee9849"
+	}, {
+		"upVotedByUsername": "patrickthecoder",
+		"upVotedBy": "54b85ea417b7e60c001a292b"
+	}],
+	"rank": 6,
+	"originalStoryAuthorEmail": "garysmeade@gmail.com",
+	"metaDescription": "",
+	"timePosted": 1437114826191
+}, {
+	"_id": "55a6fb6e1eee7e241648b5bb",
+	"headline": "CSS Diner - A game that helps you practice CSS selectors.",
+	"link": "http://flukeout.github.io/",
+	"description": "",
+	"author": {
+		"picture": "http://johnirle.com/wp-content/uploads/2015/01/cropped-cropped-wp.jpg",
+		"userId": "559f8b863eb191577f54a541",
+		"username": "irlejohn",
+		"email": "irlejohn@gmail.com"
+	},
+	"__v": 31,
+	"storyLink": "css diner a game that helps you practice css selectors",
+	"image": "",
+	"comments": ["55a7a9627e19adb178c2e323", "55a866f7dc345ceb789b5d0f", "55a9228c7e19adb178c2e568", "55a9e54c7e19adb178c2e67e", "55a9f4607e19adb178c2e693", "55aa4b687e19adb178c2e6d0", "55aa6a6157e2f6eb2a760cac", "55aaece957e2f6eb2a760d2a"],
+	"upVotes": [{
+		"upVotedBy": "559f8b863eb191577f54a541",
+		"upVotedByUsername": "irlejohn"
+	}, {
+		"upVotedByUsername": "michael",
+		"upVotedBy": "54fe05dc61db280b0051df92"
+	}, {
+		"upVotedByUsername": "bugron",
+		"upVotedBy": "559c1ec15c8414021fa328bf"
+	}, {
+		"upVotedByUsername": "jlbalsamo",
+		"upVotedBy": "558383e99d07bf482d854cd0"
+	}, {
+		"upVotedByUsername": "billhedge",
+		"upVotedBy": "55a513ff47815afc643c6cd7"
+	}, {
+		"upVotedByUsername": "k8hoover",
+		"upVotedBy": "557abf7abd289dce76da1cf3"
+	}, {
+		"upVotedByUsername": "levib",
+		"upVotedBy": "5582f32ce72b30d8014f2ae0"
+	}, {
+		"upVotedByUsername": "alidaca",
+		"upVotedBy": "5566151e87823dea4076ca5c"
+	}, {
+		"upVotedByUsername": "lmjr_",
+		"upVotedBy": "559f8d3d3eb191577f54a554"
+	}, {
+		"upVotedByUsername": "darumah",
+		"upVotedBy": "55a0bb45dba49b590b828097"
+	}, {
+		"upVotedByUsername": "akiralaine",
+		"upVotedBy": "553dc6e60cd9d50d775acd4f"
+	}, {
+		"upVotedByUsername": "alexandro",
+		"upVotedBy": "55a6cb2b23a0ad32166b3cec"
+	}, {
+		"upVotedByUsername": "bluebonnet75",
+		"upVotedBy": "55a32e6b84045eb44df9b014"
+	}, {
+		"upVotedByUsername": "carltonhurdle",
+		"upVotedBy": "55a73a7075f6789f3e33b912"
+	}, {
+		"upVotedByUsername": "sarahemalek",
+		"upVotedBy": "55a6faf91eee7e241648b5ba"
+	}, {
+		"upVotedByUsername": "mgrunenwald",
+		"upVotedBy": "55a9d93edc345ceb789b5ebf"
+	}, {
+		"upVotedByUsername": "jombard",
+		"upVotedBy": "553959aa4551c6f76fb40bc1"
+	}, {
+		"upVotedByUsername": "kuzvs",
+		"upVotedBy": "55a698ef23a0ad32166b3c9d"
+	}, {
+		"upVotedByUsername": "kimstill",
+		"upVotedBy": "55a81ab5dc345ceb789b5cba"
+	}, {
+		"upVotedByUsername": "buildmysite1",
+		"upVotedBy": "54a4b3973acc760b00a54fff"
+	}, {
+		"upVotedByUsername": "lonnv",
+		"upVotedBy": "55aa91d457e2f6eb2a760ccc"
+	}, {
+		"upVotedByUsername": "lollydaggle",
+		"upVotedBy": "55aa90277e19adb178c2e71d"
+	}, {
+		"upVotedByUsername": "cberjano",
+		"upVotedBy": "55aae3ef57e2f6eb2a760d24"
+	}, {
+		"upVotedByUsername": "ae3co",
+		"upVotedBy": "5529e57364da9c0b00fc45fc"
+	}],
+	"rank": 24,
+	"originalStoryAuthorEmail": "irlejohn@gmail.com",
+	"metaDescription": "",
+	"timePosted": 1437006702866
+}, {
+	"_id": "55a936b77e19adb178c2e582",
+	"headline": "Jan Prachar: The Dark Side of JavaScript - Testomato Blog",
+	"link": "http://blog.testomato.com/dark-side-javascript/",
+	"description": "",
+	"author": {
+		"picture": "https://lh4.googleusercontent.com/-DpFkNnvd6Uk/AAAAAAAAAAI/AAAAAAAAAEg/YTE7r7JCyak/photo.jpg",
+		"userId": "54a4baa6975bfc0b0030b667",
+		"username": "elliescode",
+		"email": "arttaielli@gmail.com"
+	},
+	"__v": 2,
+	"storyLink": "jan prachar the dark side of javascript testomato blog",
+	"image": "http://blog.testomato.com/wp-admin/wp-content/uploads/sites/3/2014/07/2378867408_4cc90791d6_z-300x225.jpg",
+	"comments": [],
+	"upVotes": [{
+		"upVotedBy": "54a4baa6975bfc0b0030b667",
+		"upVotedByUsername": "elliescode"
+	}, {
+		"upVotedByUsername": "michael",
+		"upVotedBy": "54fe05dc61db280b0051df92"
+	}, {
+		"upVotedByUsername": "know2code",
+		"upVotedBy": "54d4fbd135f9990900325127"
+	}],
+	"rank": 3,
+	"originalStoryAuthorEmail": "arttaielli@gmail.com",
+	"metaDescription": "Even if you’ve been using JavaScript for many years, you probably still have surprising moments where you come across areas that are still not completely understandable.",
+	"timePosted": 1437152951553
+}, {
+	"_id": "55aa6ac87e19adb178c2e6f8",
+	"headline": "Hire Freelance Software Developers from the Top 3%",
+	"link": "http://www.toptal.com/",
+	"description": "There is a button on the main page where you can apply to be a Full-time, Part-time, or Hourly Developer to be hired.",
+	"author": {
+		"picture": "http://i.imgur.com/PpTeWGE.jpg",
+		"userId": "54ff8231502b5b0b00ab8cf3",
+		"username": "danielraley",
+		"email": "danielraleydev@gmail.com"
+	},
+	"__v": 0,
+	"storyLink": "hire freelance software developers from the top 3",
+	"image": "",
+	"comments": [],
+	"upVotes": [{
+		"upVotedBy": "54ff8231502b5b0b00ab8cf3",
+		"upVotedByUsername": "danielraley"
+	}],
+	"rank": 1,
+	"originalStoryAuthorEmail": "danielraleydev@gmail.com",
+	"metaDescription": "Toptal connects start-ups, businesses, and organizations to a growing network of the best custom software developers in the world. Our engineers are available full-time, part-time, or hourly and are able to seamlessly integrate into your team.",
+	"timePosted": 1437231816081
+}, {
+	"_id": "55a65b22a14be28d0db18cc1",
+	"headline": "9 GIFs That Explain Responsive Design Brilliantly",
+	"link": "http://www.fastcodesign.com/3038367/9-gifs-that-explain-responsive-design-brilliantly",
+	"description": "",
+	"author": {
+		"picture": "https://pbs.twimg.com/profile_images/378800000633719904/e83f3f74cae11010d32397e94b8bc09b_400x400.jpeg",
+		"userId": "559c1ec15c8414021fa328bf",
+		"username": "bugron",
+		"email": "bugron@mail.ru"
+	},
+	"__v": 34,
+	"storyLink": "9 gifs that explain responsive design brilliantly",
+	"image": "http://a.fastcompany.net/multisite_files/fastcompany/imagecache/620x350/poster/2014/11/3038367-poster-p-1-9-gifs-that-explain-responsive-design-brilliantly-01responsive-vs-adaptive.gif",
+	"comments": ["55a6dc6d23a0ad32166b3d01", "55a82298dc345ceb789b5cc8"],
+	"upVotes": [{
+		"upVotedBy": "559c1ec15c8414021fa328bf",
+		"upVotedByUsername": "bugron"
+	}, {
+		"upVotedByUsername": "jlbalsamo",
+		"upVotedBy": "558383e99d07bf482d854cd0"
+	}, {
+		"upVotedByUsername": "shinypants",
+		"upVotedBy": "55a4dd9fe58f7205652ef3dd"
+	}, {
+		"upVotedByUsername": "nancyj",
+		"upVotedBy": "54b5c8dfb4c6190b00382c20"
+	}, {
+		"upVotedByUsername": "stevenkw",
+		"upVotedBy": "5480fda9f549e00b000213a5"
+	}, {
+		"upVotedByUsername": "michael",
+		"upVotedBy": "54fe05dc61db280b0051df92"
+	}, {
+		"upVotedByUsername": "simonjenkinson",
+		"upVotedBy": "55a21eb8160558ca0902a465"
+	}, {
+		"upVotedByUsername": "avambo",
+		"upVotedBy": "558dad696788ab3b45d4c9c6"
+	}, {
+		"upVotedByUsername": "p3rand0r",
+		"upVotedBy": "559fe8843eb191577f54a97d"
+	}, {
+		"upVotedByUsername": "malyuhu",
+		"upVotedBy": "55a131bcd9e6d9240c6a37e8"
+	}, {
+		"upVotedByUsername": "peer2stay",
+		"upVotedBy": "559cf3d9d0f832f91e27a1d9"
+	}, {
+		"upVotedByUsername": "jeremicz",
+		"upVotedBy": "55a7789c7e19adb178c2e2ea"
+	}, {
+		"upVotedByUsername": "billhedge",
+		"upVotedBy": "55a513ff47815afc643c6cd7"
+	}, {
+		"upVotedByUsername": "ger_det",
+		"upVotedBy": "55a79e427e19adb178c2e319"
+	}, {
+		"upVotedByUsername": "deepusnath",
+		"upVotedBy": "55a695bc1eee7e241648b542"
+	}, {
+		"upVotedByUsername": "jillrenee",
+		"upVotedBy": "559ed437f2e6ff4577d2bfd2"
+	}, {
+		"upVotedByUsername": "kellyexton",
+		"upVotedBy": "55a28301160558ca0902a51a"
+	}, {
+		"upVotedByUsername": "jwalton",
+		"upVotedBy": "55a7fc19dc345ceb789b5c83"
+	}, {
+		"upVotedByUsername": "soulstrop",
+		"upVotedBy": "55a7fe1d7e19adb178c2e3b9"
+	}, {
+		"upVotedByUsername": "alidaca",
+		"upVotedBy": "5566151e87823dea4076ca5c"
+	}, {
+		"upVotedByUsername": "drmauck",
+		"upVotedBy": "559ee6c27c55ed707db7b38d"
+	}, {
+		"upVotedByUsername": "jackytai",
+		"upVotedBy": "559b69d99402f6750fd2c17c"
+	}, {
+		"upVotedByUsername": "loishaight",
+		"upVotedBy": "55a80750dc345ceb789b5c98"
+	}, {
+		"upVotedByUsername": "jhalls",
+		"upVotedBy": "559ed273f2e6ff4577d2bf9a"
+	}, {
+		"upVotedByUsername": "caniscrator",
+		"upVotedBy": "55a816ebdc345ceb789b5cb4"
+	}, {
+		"upVotedByUsername": "pete0061",
+		"upVotedBy": "5582f4b185d50e3e5de5a418"
+	}, {
+		"upVotedByUsername": "tomroca",
+		"upVotedBy": "55a8db85dc345ceb789b5d95"
+	}, {
+		"upVotedByUsername": "bavarianbob",
+		"upVotedBy": "55a90f3f7e19adb178c2e551"
+	}, {
+		"upVotedByUsername": "bluebonnet75",
+		"upVotedBy": "55a32e6b84045eb44df9b014"
+	}, {
+		"upVotedByUsername": "andre1810",
+		"upVotedBy": "55a820b4dc345ceb789b5cc2"
+	}, {
+		"upVotedByUsername": "warkentien2",
+		"upVotedBy": "55a978ebdc345ceb789b5e51"
+	}, {
+		"upVotedByUsername": "know2code",
+		"upVotedBy": "54d4fbd135f9990900325127"
+	}, {
+		"upVotedByUsername": "alvinlin",
+		"upVotedBy": "55a52c1c47815afc643c6d2d"
+	}],
+	"rank": 33,
+	"originalStoryAuthorEmail": "bugron@mail.ru",
+	"metaDescription": "Can't tell a responsive website from a merely adaptive one? These GIFs courtesy of Froont will turn you into a pedant in no time.",
+	"timePosted": 1436965666603
+}, {
+	"_id": "55a5addda78818927d0edc87",
+	"headline": "One Tactic To Keep You Motivated While Learning To Code | Devjuic",
+	"link": "http://www.devjuic.com/posts/one-tactic-for-staying-laser-focused-and-reaching-your-goals",
+	"description": "",
+	"author": {
+		"picture": "https://lh5.googleusercontent.com/-TKL87JhXn-g/AAAAAAAAAAI/AAAAAAAACqU/0tVLA-DV-gY/photo.jpg",
+		"userId": "5497f7a1e356230b001acec8",
+		"username": "duttakapil",
+		"email": "kapil.dutta28@gmail.com"
+	},
+	"__v": 56,
+	"storyLink": "one tactic to keep you motivated while learning to code devjuic",
+	"image": "",
+	"comments": ["55a68a5923a0ad32166b3c8a", "55a6a72c1eee7e241648b558", "55a7e7ebdc345ceb789b5c64", "55a7f88edc345ceb789b5c7d", "55a84febdc345ceb789b5cfa", "55a86a33dc345ceb789b5d18", "55a89fb4dc345ceb789b5d5b", "55a8bc01dc345ceb789b5d79", "55a9dab6dc345ceb789b5ec1", "55aac2457e19adb178c2e756", "55aafad77e19adb178c2e797", "55abbdfad6a21a185625207d"],
+	"upVotes": [{
+		"upVotedBy": "5497f7a1e356230b001acec8",
+		"upVotedByUsername": "duttakapil"
+	}, {
+		"upVotedByUsername": "chris_ipanaque",
+		"upVotedBy": "55a4f3fb47815afc643c6c84"
+	}, {
+		"upVotedByUsername": "michael",
+		"upVotedBy": "54fe05dc61db280b0051df92"
+	}, {
+		"upVotedByUsername": "driftingarrow",
+		"upVotedBy": "55a36935ad5254ab4dc4e177"
+	}, {
+		"upVotedByUsername": "livingforgod1991",
+		"upVotedBy": "55a5dc69416d27f97c5a008c"
+	}, {
+		"upVotedByUsername": "peer2stay",
+		"upVotedBy": "559cf3d9d0f832f91e27a1d9"
+	}, {
+		"upVotedByUsername": "bugron",
+		"upVotedBy": "559c1ec15c8414021fa328bf"
+	}, {
+		"upVotedByUsername": "6220119",
+		"upVotedBy": "559f31cfca9d98e27da16077"
+	}, {
+		"upVotedByUsername": "toufeeqt",
+		"upVotedBy": "55a644f087bcfb840dc1565c"
+	}, {
+		"upVotedByUsername": "jlbalsamo",
+		"upVotedBy": "558383e99d07bf482d854cd0"
+	}, {
+		"upVotedByUsername": "lastleg",
+		"upVotedBy": "55a52493e58f7205652ef476"
+	}, {
+		"upVotedByUsername": "jfrigo",
+		"upVotedBy": "55a6575ba14be28d0db18cbd"
+	}, {
+		"upVotedByUsername": "onemoreround",
+		"upVotedBy": "55a3ce54ad5254ab4dc4e22f"
+	}, {
+		"upVotedByUsername": "srbm20",
+		"upVotedBy": "55a5b6ac416d27f97c5a004e"
+	}, {
+		"upVotedByUsername": "bandilab",
+		"upVotedBy": "55a6856a1eee7e241648b524"
+	}, {
+		"upVotedByUsername": "deepusnath",
+		"upVotedBy": "55a695bc1eee7e241648b542"
+	}, {
+		"upVotedByUsername": "tlwalston",
+		"upVotedBy": "55a6876a1eee7e241648b52c"
+	}, {
+		"upVotedByUsername": "peteredw",
+		"upVotedBy": "55a68d3323a0ad32166b3c91"
+	}, {
+		"upVotedByUsername": "bitbully",
+		"upVotedBy": "55a0931c8981e72b06c0b911"
+	}, {
+		"upVotedByUsername": "sarahemalek",
+		"upVotedBy": "55a6faf91eee7e241648b5ba"
+	}, {
+		"upVotedByUsername": "buildmysite1",
+		"upVotedBy": "54a4b3973acc760b00a54fff"
+	}, {
+		"upVotedByUsername": "jakopo87",
+		"upVotedBy": "55a736bb23a0ad32166b3d70"
+	}, {
+		"upVotedByUsername": "billhedge",
+		"upVotedBy": "55a513ff47815afc643c6cd7"
+	}, {
+		"upVotedByUsername": "garysmeade",
+		"upVotedBy": "55a7865fdc345ceb789b5bd0"
+	}, {
+		"upVotedByUsername": "frown",
+		"upVotedBy": "55083393a87b1e0b0002065d"
+	}, {
+		"upVotedByUsername": "bybl1k",
+		"upVotedBy": "55a75c780df716c14a5f4cfa"
+	}, {
+		"upVotedByUsername": "franktr",
+		"upVotedBy": "55a7da3fdc345ceb789b5c4d"
+	}, {
+		"upVotedByUsername": "izzycast",
+		"upVotedBy": "55a7cc07dc345ceb789b5c34"
+	}, {
+		"upVotedByUsername": "jackytai",
+		"upVotedBy": "559b69d99402f6750fd2c17c"
+	}, {
+		"upVotedByUsername": "alzheic",
+		"upVotedBy": "55a045938981e72b06c0b79e"
+	}, {
+		"upVotedByUsername": "liamcronin",
+		"upVotedBy": "55a25ae2e60c9c5d41a8e735"
+	}, {
+		"upVotedByUsername": "dmaninaz",
+		"upVotedBy": "54b9b0261b30950c00856589"
+	}, {
+		"upVotedByUsername": "jaredmpugh",
+		"upVotedBy": "55a55dece58f7205652ef4f0"
+	}, {
+		"upVotedByUsername": "coolukere",
+		"upVotedBy": "55a12c278404cb2b0c43dec6"
+	}, {
+		"upVotedByUsername": "robfer",
+		"upVotedBy": "55a863e17e19adb178c2e461"
+	}, {
+		"upVotedByUsername": "runeore",
+		"upVotedBy": "559efbf77c55ed707db7b517"
+	}, {
+		"upVotedByUsername": "santaserpenta",
+		"upVotedBy": "5582e2fc85d50e3e5de5a3b8"
+	}, {
+		"upVotedByUsername": "darktomas",
+		"upVotedBy": "55a8b5627e19adb178c2e4e7"
+	}, {
+		"upVotedByUsername": "gipsitana",
+		"upVotedBy": "554123d1d89a393f4f8974b5"
+	}, {
+		"upVotedByUsername": "miles9659",
+		"upVotedBy": "55a80f82dc345ceb789b5caa"
+	}, {
+		"upVotedByUsername": "griphook",
+		"upVotedBy": "559fccc53eb191577f54a85e"
+	}, {
+		"upVotedByUsername": "bobfromsales",
+		"upVotedBy": "55aa53517e19adb178c2e6d8"
+	}, {
+		"upVotedByUsername": "beast_mode",
+		"upVotedBy": "55a908c37e19adb178c2e546"
+	}, {
+		"upVotedByUsername": "know2code",
+		"upVotedBy": "54d4fbd135f9990900325127"
+	}, {
+		"upVotedByUsername": "kpatel",
+		"upVotedBy": "55ab02767e19adb178c2e7a4"
+	}],
+	"rank": 45,
+	"originalStoryAuthorEmail": "kapil.dutta28@gmail.com",
+	"metaDescription": "",
+	"timePosted": 1436921309972
+}, {
+	"_id": "55a922337e19adb178c2e566",
+	"headline": "Ada Developers Academy,  women looking for tuition-free software development training. ",
+	"link": "http://adadevelopersacademy.org/applicants",
+	"description": "Women looking for tuition-free software development training -- apply to Ada Developers Academy Fall cycle. Scholarships are available!",
+	"author": {
+		"picture": "https://scontent-dfw1-1.xx.fbcdn.net/hphotos-xpf1/v/t1.0-9/206341_217158221627747_2239383_n.jpg?oh=36c5f993a1f9e224a8726bb1c9257b01&oe=56129B11",
+		"userId": "55a32e6b84045eb44df9b014",
+		"username": "bluebonnet75",
+		"email": "mmurphy718@gmail.com"
+	},
+	"__v": 1,
+	"storyLink": "ada developers academy women looking for tuitionfree software development training",
+	"image": "/images/brand-logo-square.png",
+	"comments": [],
+	"upVotes": [{
+		"upVotedBy": "55a32e6b84045eb44df9b014",
+		"upVotedByUsername": "bluebonnet75"
+	}, {
+		"upVotedByUsername": "know2code",
+		"upVotedBy": "54d4fbd135f9990900325127"
+	}],
+	"rank": 2,
+	"originalStoryAuthorEmail": "mmurphy718@gmail.com",
+	"metaDescription": "Ada Developers Academy is an intensive software development training program for women in Seattle.",
+	"timePosted": 1437147699360
+}, {
+	"_id": "55a842a97e19adb178c2e433",
+	"headline": "Five Resons Why Javascript is the Most Important Programming Language to Learn ",
+	"link": "http://blog.learntoprogram.tv/five-resons-javascript-important-programming-language-learn/",
+	"description": "",
+	"author": {
+		"picture": "https://lh4.googleusercontent.com/-DpFkNnvd6Uk/AAAAAAAAAAI/AAAAAAAAAEg/YTE7r7JCyak/photo.jpg",
+		"userId": "54a4baa6975bfc0b0030b667",
+		"username": "elliescode",
+		"email": "arttaielli@gmail.com"
+	},
+	"__v": 4,
+	"storyLink": "five resons why javascript is the most important programming language to learn",
+	"image": "http://blog.learntoprogram.tv/wp-content/uploads/2013/11/image001-300x249.png",
+	"comments": ["55a9c3157e19adb178c2e652"],
+	"upVotes": [{
+		"upVotedBy": "54a4baa6975bfc0b0030b667",
+		"upVotedByUsername": "elliescode"
+	}, {
+		"upVotedByUsername": "michael",
+		"upVotedBy": "54fe05dc61db280b0051df92"
+	}, {
+		"upVotedByUsername": "izzycast",
+		"upVotedBy": "55a7cc07dc345ceb789b5c34"
+	}, {
+		"upVotedByUsername": "know2code",
+		"upVotedBy": "54d4fbd135f9990900325127"
+	}],
+	"rank": 4,
+	"originalStoryAuthorEmail": "arttaielli@gmail.com",
+	"metaDescription": "Today, you cannot be a web developer and not know Javascript. It’s a language a serious web developer must learn and master for the five reasons discussed.",
+	"timePosted": 1437090473796
+}, {
+	"_id": "55a72f1075f6789f3e33b900",
+	"headline": "3 Regrets I have (so far) as a Self-Taught Coder — Medium",
+	"link": "https://medium.com/@learntocodewithme/3-regrets-i-have-so-far-as-a-self-taught-coder-dc299f7ec4b2",
+	"description": "",
+	"author": {
+		"picture": "http://i.imgur.com/PpTeWGE.jpg",
+		"userId": "54ff8231502b5b0b00ab8cf3",
+		"username": "danielraley",
+		"email": "danielraleydev@gmail.com"
+	},
+	"__v": 14,
+	"storyLink": "3 regrets i have so far as a selftaught coder medium",
+	"image": "https://medium2.global.ssl.fastly.net/max/800/1*wTM3QmuVmaWP3swsRXL3yQ.jpeg",
+	"comments": ["55a73a2075f6789f3e33b910", "55a7ccebdc345ceb789b5c37", "55a821efdc345ceb789b5cc6", "55aa52cfdc345ceb789b5f1a", "55aadd007e19adb178c2e76e"],
+	"upVotes": [{
+		"upVotedBy": "54ff8231502b5b0b00ab8cf3",
+		"upVotedByUsername": "danielraley"
+	}, {
+		"upVotedByUsername": "wintersedge",
+		"upVotedBy": "55a45e9728cf57d35ee9dced"
+	}, {
+		"upVotedByUsername": "harrisonprograms",
+		"upVotedBy": "558ded566788ab3b45d4c9eb"
+	}, {
+		"upVotedByUsername": "levib",
+		"upVotedBy": "5582f32ce72b30d8014f2ae0"
+	}, {
+		"upVotedByUsername": "jlbalsamo",
+		"upVotedBy": "558383e99d07bf482d854cd0"
+	}, {
+		"upVotedByUsername": "michael",
+		"upVotedBy": "54fe05dc61db280b0051df92"
+	}, {
+		"upVotedByUsername": "garbagediva",
+		"upVotedBy": "55a81244dc345ceb789b5cac"
+	}, {
+		"upVotedByUsername": "jamesallen1705",
+		"upVotedBy": "559ec34ed0f832f91e27a415"
+	}, {
+		"upVotedByUsername": "know2code",
+		"upVotedBy": "54d4fbd135f9990900325127"
+	}, {
+		"upVotedByUsername": "grahamcressey",
+		"upVotedBy": "55a24c8ce60c9c5d41a8e718"
+	}],
+	"rank": 10,
+	"originalStoryAuthorEmail": "danielraleydev@gmail.com",
+	"metaDescription": "I’ve made lots of mistakes. But these are 3 of my biggest.",
+	"timePosted": 1437019920306
+}, {
+	"_id": "55a99c637e19adb178c2e60d",
+	"headline": "Requiring modules/folders/files in the right way!",
+	"link": "https://www.npmjs.com/package/rooted",
+	"description": "",
+	"author": {
+		"picture": "https://lh6.googleusercontent.com/-hxlkfE6nV8o/AAAAAAAAAAI/AAAAAAAAAIc/FpbHGTD9DAY/photo.jpg",
+		"userId": "54bb06e2d6f6d40c0067f581",
+		"username": "ericdouglas",
+		"email": "eric.douglas.mail@gmail.com"
+	},
+	"__v": 0,
+	"storyLink": "requiring modulesfoldersfiles in the right way",
+	"image": "https://www.npmjs.com/static/images/touch-icons/open-graph.png",
+	"comments": [],
+	"upVotes": [{
+		"upVotedBy": "54bb06e2d6f6d40c0067f581",
+		"upVotedByUsername": "ericdouglas"
+	}],
+	"rank": 1,
+	"originalStoryAuthorEmail": "eric.douglas.mail@gmail.com",
+	"metaDescription": "Requiring modules/folders/files based on your root directory",
+	"timePosted": 1437178979591
+}, {
+	"_id": "55a999be7e19adb178c2e608",
+	"headline": "Can I use... Support tables for HTML5, CSS3, etc",
+	"link": "http://caniuse.com/",
+	"description": "A one stop shop that shows you exactly what HTML/CSS functionality will work with each browser",
+	"author": {
+		"picture": "https://graph.facebook.com/10206680117779153/picture?type=large",
+		"userId": "55a55f40e58f7205652ef4f2",
+		"username": "cruelcoin",
+		"email": "royrentes@hotmail.com"
+	},
+	"__v": 0,
+	"storyLink": "can i use support tables for html5 css3 etc",
+	"image": "",
+	"comments": [],
+	"upVotes": [{
+		"upVotedBy": "55a55f40e58f7205652ef4f2",
+		"upVotedByUsername": "cruelcoin"
+	}],
+	"rank": 1,
+	"originalStoryAuthorEmail": "royrentes@hotmail.com",
+	"metaDescription": "",
+	"timePosted": 1437178302575
+}, {
+	"_id": "55a82c76dc345ceb789b5cd5",
+	"headline": "Cracking the Coding Interview with Author Gayle Laakmann McDowell - YouTube",
+	"link": "https://www.youtube.com/watch?v=aClxtDcdpsQ",
+	"description": "I love this book, here is the author giving some advice for that time when you might be at the whiteboard!",
+	"author": {
+		"picture": "https://pbs.twimg.com/profile_images/612291722853232640/TC0-rFvR.jpg",
+		"userId": "558383e99d07bf482d854cd0",
+		"username": "jlbalsamo",
+		"email": "jbalsamo@cox.net"
+	},
+	"__v": 2,
+	"storyLink": "cracking the coding interview with author gayle laakmann mcdowell youtube",
+	"image": "https://i.ytimg.com/vi/aClxtDcdpsQ/maxresdefault.jpg",
+	"comments": [],
+	"upVotes": [{
+		"upVotedBy": "558383e99d07bf482d854cd0",
+		"upVotedByUsername": "jlbalsamo"
+	}, {
+		"upVotedByUsername": "michael",
+		"upVotedBy": "54fe05dc61db280b0051df92"
+	}, {
+		"upVotedByUsername": "liamcronin",
+		"upVotedBy": "55a25ae2e60c9c5d41a8e735"
+	}],
+	"rank": 3,
+	"originalStoryAuthorEmail": "jbalsamo@cox.net",
+	"metaDescription": "Software engineers typically face a double whammy when it comes to the interview process, they not only have to ace the interview with a company's hiring man...",
+	"timePosted": 1437084790322
+}, {
+	"_id": "55a6b7fe23a0ad32166b3cd0",
+	"headline": "Who Is Mr. Robot? | whoismrrobot.com",
+	"link": "http://www.whoismrrobot.com",
+	"description": "",
+	"author": {
+		"picture": "https://lh5.googleusercontent.com/-TKL87JhXn-g/AAAAAAAAAAI/AAAAAAAACqU/0tVLA-DV-gY/photo.jpg",
+		"userId": "5497f7a1e356230b001acec8",
+		"username": "duttakapil",
+		"email": "kapil.dutta28@gmail.com"
+	},
+	"__v": 10,
+	"storyLink": "who is mr robot whoismrrobotcom",
+	"image": "http://www.whoismrrobot.com/images/fb-share.jpg",
+	"comments": ["55a708f623a0ad32166b3d37"],
+	"upVotes": [{
+		"upVotedBy": "5497f7a1e356230b001acec8",
+		"upVotedByUsername": "duttakapil"
+	}, {
+		"upVotedByUsername": "michael",
+		"upVotedBy": "54fe05dc61db280b0051df92"
+	}, {
+		"upVotedByUsername": "bluebonnet75",
+		"upVotedBy": "55a32e6b84045eb44df9b014"
+	}, {
+		"upVotedByUsername": "ggumz",
+		"upVotedBy": "55a6fdd01eee7e241648b5c0"
+	}, {
+		"upVotedByUsername": "theiseja",
+		"upVotedBy": "555e0f596b38baaf7e21f8d0"
+	}, {
+		"upVotedByUsername": "peer2stay",
+		"upVotedBy": "559cf3d9d0f832f91e27a1d9"
+	}, {
+		"upVotedByUsername": "rianlim",
+		"upVotedBy": "559f19dc00f7ee977d1b46fc"
+	}, {
+		"upVotedByUsername": "enidsera",
+		"upVotedBy": "55a7353175f6789f3e33b90b"
+	}, {
+		"upVotedByUsername": "cberjano",
+		"upVotedBy": "55aae3ef57e2f6eb2a760d24"
+	}, {
+		"upVotedByUsername": "know2code",
+		"upVotedBy": "54d4fbd135f9990900325127"
+	}],
+	"rank": 10,
+	"originalStoryAuthorEmail": "kapil.dutta28@gmail.com",
+	"metaDescription": "",
+	"timePosted": 1436989438019
+}, {
+	"_id": "55a6f73b23a0ad32166b3d25",
+	"headline": "Pair Program with Me",
+	"link": "http://www.pairprogramwith.me/",
+	"description": "",
+	"author": {
+		"picture": "https://lh6.googleusercontent.com/-hxlkfE6nV8o/AAAAAAAAAAI/AAAAAAAAAIc/FpbHGTD9DAY/photo.jpg",
+		"userId": "54bb06e2d6f6d40c0067f581",
+		"username": "ericdouglas",
+		"email": "eric.douglas.mail@gmail.com"
+	},
+	"__v": 8,
+	"storyLink": "pair program with me",
+	"image": "",
+	"comments": ["55a6f98e1eee7e241648b5b7"],
+	"upVotes": [{
+		"upVotedBy": "54bb06e2d6f6d40c0067f581",
+		"upVotedByUsername": "ericdouglas"
+	}, {
+		"upVotedByUsername": "cabralmarco",
+		"upVotedBy": "55a4c0d247815afc643c6c24"
+	}, {
+		"upVotedByUsername": "michael",
+		"upVotedBy": "54fe05dc61db280b0051df92"
+	}, {
+		"upVotedByUsername": "peer2stay",
+		"upVotedBy": "559cf3d9d0f832f91e27a1d9"
+	}, {
+		"upVotedByUsername": "jlbalsamo",
+		"upVotedBy": "558383e99d07bf482d854cd0"
+	}, {
+		"upVotedByUsername": "nmarlowe",
+		"upVotedBy": "554284f9ec657dde23cb95d1"
+	}, {
+		"upVotedByUsername": "r00tsman",
+		"upVotedBy": "55846ef6abe649512dec917e"
+	}, {
+		"upVotedByUsername": "cylocation",
+		"upVotedBy": "54f4d48dc53d560b0030b317"
+	}],
+	"rank": 8,
+	"originalStoryAuthorEmail": "eric.douglas.mail@gmail.com",
+	"metaDescription": "",
+	"timePosted": 1437005627297
+}, {
+	"_id": "55a7101e75f6789f3e33b8d1",
+	"headline": "How I landed my first Javascript Development Job and got 6 figures for it - iLoveCoding",
+	"link": "https://ilovecoding.org/6-figure-developer-job/",
+	"description": "",
+	"author": {
+		"picture": "https://lh4.googleusercontent.com/-DpFkNnvd6Uk/AAAAAAAAAAI/AAAAAAAAAEg/YTE7r7JCyak/photo.jpg",
+		"userId": "54a4baa6975bfc0b0030b667",
+		"username": "elliescode",
+		"email": "arttaielli@gmail.com"
+	},
+	"__v": 6,
+	"storyLink": "how i landed my first javascript development job and got 6 figures for it ilovecoding",
+	"image": "",
+	"comments": [],
+	"upVotes": [{
+		"upVotedBy": "54a4baa6975bfc0b0030b667",
+		"upVotedByUsername": "elliescode"
+	}, {
+		"upVotedByUsername": "akiralaine",
+		"upVotedBy": "553dc6e60cd9d50d775acd4f"
+	}, {
+		"upVotedByUsername": "levib",
+		"upVotedBy": "5582f32ce72b30d8014f2ae0"
+	}, {
+		"upVotedByUsername": "michael",
+		"upVotedBy": "54fe05dc61db280b0051df92"
+	}, {
+		"upVotedByUsername": "pete0061",
+		"upVotedBy": "5582f4b185d50e3e5de5a418"
+	}, {
+		"upVotedByUsername": "jombard",
+		"upVotedBy": "553959aa4551c6f76fb40bc1"
+	}, {
+		"upVotedByUsername": "frown",
+		"upVotedBy": "55083393a87b1e0b0002065d"
+	}],
+	"rank": 7,
+	"originalStoryAuthorEmail": "arttaielli@gmail.com",
+	"metaDescription": "",
+	"timePosted": 1437011998447
+}, {
+	"_id": "55a8f28e7e19adb178c2e529",
+	"headline": "19 Tools To Start Your Podcast From Scratch | TNW",
+	"link": "http://thenextweb.com/insider/2015/07/17/19-tools-to-start-your-podcast-from-scratch/",
+	"description": "",
+	"author": {
+		"picture": "https://lh5.googleusercontent.com/-TKL87JhXn-g/AAAAAAAAAAI/AAAAAAAACqU/0tVLA-DV-gY/photo.jpg",
+		"userId": "5497f7a1e356230b001acec8",
+		"username": "duttakapil",
+		"email": "kapil.dutta28@gmail.com"
+	},
+	"__v": 0,
+	"storyLink": "19 tools to start your podcast from scratch tnw",
+	"image": "http://cdn1.tnwcdn.com/wp-content/blogs.dir/1/files/2015/07/share.png",
+	"comments": [],
+	"upVotes": [{
+		"upVotedBy": "5497f7a1e356230b001acec8",
+		"upVotedByUsername": "duttakapil"
+	}],
+	"rank": 1,
+	"originalStoryAuthorEmail": "kapil.dutta28@gmail.com",
+	"metaDescription": "The podcast world has recently exploded. Since 2008, the number of Americans tuning in each month has doubled—from 9% to 17% in January 2015.",
+	"timePosted": 1437135502409
+}, {
+	"_id": "55a648b687bcfb840dc15663",
+	"headline": "      10 Ways To Improve As A Developer.            | Fractallambda Blog    ",
+	"link": "http://blog.fractallambda.com/post/how-to-improve-as-a-developer",
+	"description": "",
+	"author": {
+		"picture": "https://pbs.twimg.com/profile_images/612291722853232640/TC0-rFvR.jpg",
+		"userId": "558383e99d07bf482d854cd0",
+		"username": "jlbalsamo",
+		"email": "jbalsamo@cox.net"
+	},
+	"__v": 10,
+	"storyLink": "10 ways to improve as a developer fractallambda blog",
+	"image": "http://cdn.images.postach.io/0244d0c0-eba8-4116-a7a7-e813a67df76c/8e23b7df-a244-4d48-ba46-ffcc9d0073f3/30054075-c6ae-499a-b9fd-239bd0ef62c3.png",
+	"comments": ["55ab0e677e19adb178c2e7af"],
+	"upVotes": [{
+		"upVotedBy": "558383e99d07bf482d854cd0",
+		"upVotedByUsername": "jlbalsamo"
+	}, {
+		"upVotedByUsername": "nmarlowe",
+		"upVotedBy": "554284f9ec657dde23cb95d1"
+	}, {
+		"upVotedByUsername": "michael",
+		"upVotedBy": "54fe05dc61db280b0051df92"
+	}, {
+		"upVotedByUsername": "bitbully",
+		"upVotedBy": "55a0931c8981e72b06c0b911"
+	}, {
+		"upVotedByUsername": "queenaryha",
+		"upVotedBy": "559f56513eb191577f54a2ed"
+	}, {
+		"upVotedByUsername": "turtleman",
+		"upVotedBy": "5579907e8d4088434095f18f"
+	}, {
+		"upVotedByUsername": "dmaninaz",
+		"upVotedBy": "54b9b0261b30950c00856589"
+	}, {
+		"upVotedByUsername": "cberjano",
+		"upVotedBy": "55aae3ef57e2f6eb2a760d24"
+	}, {
+		"upVotedByUsername": "elindsay21",
+		"upVotedBy": "55aaeda557e2f6eb2a760d2c"
+	}, {
+		"upVotedByUsername": "know2code",
+		"upVotedBy": "54d4fbd135f9990900325127"
+	}],
+	"rank": 10,
+	"originalStoryAuthorEmail": "jbalsamo@cox.net",
+	"metaDescription": "It's often hard to figure out where the gaps are in our knowledge. As programmers, it's easy to stay within our comfort zones and keep using familiar technologies and skills, especially if we're being well remunerated for it. However, this warm and fuzzy ...",
+	"timePosted": 1436960950057
+}, {
+	"_id": "55a8d64f7e19adb178c2e511",
+	"headline": "DrBoolean/mostly-adequate-guide · GitHub",
+	"link": "https://github.com/DrBoolean/mostly-adequate-guide",
+	"description": "A nice tutorial on functional programming in JavaScript",
+	"author": {
+		"picture": "https://pbs.twimg.com/profile_images/612291722853232640/TC0-rFvR.jpg",
+		"userId": "558383e99d07bf482d854cd0",
+		"username": "jlbalsamo",
+		"email": "jbalsamo@cox.net"
+	},
+	"__v": 0,
+	"storyLink": "drbooleanmostlyadequateguide github",
+	"image": "https://avatars0.githubusercontent.com/u/28562?v=3&s=400",
+	"comments": [],
+	"upVotes": [{
+		"upVotedBy": "558383e99d07bf482d854cd0",
+		"upVotedByUsername": "jlbalsamo"
+	}],
+	"rank": 1,
+	"originalStoryAuthorEmail": "jbalsamo@cox.net",
+	"metaDescription": "mostly-adequate-guide - Mostly adequate guide to FP (in javascript)",
+	"timePosted": 1437128271092
+}, {
+	"_id": "55a8c8ae7e19adb178c2e504",
+	"headline": "Algorithms | Computer science | Khan Academy",
+	"link": "https://www.khanacademy.org/computing/computer-science/algorithms",
+	"description": "",
+	"author": {
+		"picture": "https://pbs.twimg.com/profile_images/612291722853232640/TC0-rFvR.jpg",
+		"userId": "558383e99d07bf482d854cd0",
+		"username": "jlbalsamo",
+		"email": "jbalsamo@cox.net"
+	},
+	"__v": 0,
+	"storyLink": "algorithms computer science khan academy",
+	"image": "https://www.kastatic.org/images/khan-logo-vertical-transparent.png",
+	"comments": [],
+	"upVotes": [{
+		"upVotedBy": "558383e99d07bf482d854cd0",
+		"upVotedByUsername": "jlbalsamo"
+	}],
+	"rank": 1,
+	"originalStoryAuthorEmail": "jbalsamo@cox.net",
+	"metaDescription": "We've partnered with Dartmouth college professors Tom Cormen and Devin Balkcom to teach introductory computer science algorithms, including searching, sorting, recursion, and graph theory. Learn with a combination of articles, visualizations, quizzes, and coding challenges.",
+	"timePosted": 1437124782124
+}, {
+	"_id": "55a6db4923a0ad32166b3cfe",
+	"headline": "12 Little-Known CSS Facts (The Sequel)",
+	"link": "http://www.sitepoint.com/12-little-known-css-facts-the-sequel/",
+	"description": "",
+	"author": {
+		"picture": "http://i.imgur.com/m9SbBKs.png",
+		"userId": "558dad696788ab3b45d4c9c6",
+		"username": "avambo",
+		"email": "alexanderwulkan@hotmail.com"
+	},
+	"__v": 4,
+	"storyLink": "12 littleknown css facts the sequel",
+	"image": "http://www.sitepoint.com/wp-content/themes/sitepoint/assets/images/icon.html-css.png",
+	"comments": [],
+	"upVotes": [{
+		"upVotedBy": "558dad696788ab3b45d4c9c6",
+		"upVotedByUsername": "avambo"
+	}, {
+		"upVotedByUsername": "michael",
+		"upVotedBy": "54fe05dc61db280b0051df92"
+	}, {
+		"upVotedByUsername": "denmch",
+		"upVotedBy": "54e672b697e0870b0029c191"
+	}, {
+		"upVotedByUsername": "jlbalsamo",
+		"upVotedBy": "558383e99d07bf482d854cd0"
+	}, {
+		"upVotedByUsername": "lmjr_",
+		"upVotedBy": "559f8d3d3eb191577f54a554"
+	}],
+	"rank": 5,
+	"originalStoryAuthorEmail": "alexanderwulkan@hotmail.com",
+	"metaDescription": "One of SitePoint's most popular articles of 2014 now has a sequel. Louis Lazaris has compiled another 12 interesting tricks and tidbits on CSS.",
+	"timePosted": 1436998473948
+}, {
+	"_id": "55a8a9e57e19adb178c2e4d6",
+	"headline": "China: 100-year-old woman learns to read and write  - CNN.com",
+	"link": "http://www.cnn.com/2015/07/16/asia/china-old-woman-literacy/index.html?sr=fb071715chinaoldwomanliteracy144aStoryLink",
+	"description": "If you think you are too old to learn to code, read how this 100 year old lady learns how to write her name for the first time.",
+	"author": {
+		"picture": "https://graph.facebook.com/10103566298046953/picture?type=large",
+		"userId": "554bafa07519e2a65dbc55b4",
+		"username": "nelsonlho",
+		"email": "nelsonlho@gmail.com"
+	},
+	"__v": 0,
+	"storyLink": "china 100yearold woman learns to read and write cnncom",
+	"image": "http://i2.cdn.turner.com/cnnnext/dam/assets/150717102350-china-literacy-zhao-shunjin-large-169.jpg",
+	"comments": [],
+	"upVotes": [{
+		"upVotedBy": "554bafa07519e2a65dbc55b4",
+		"upVotedByUsername": "nelsonlho"
+	}],
+	"rank": 1,
+	"originalStoryAuthorEmail": "nelsonlho@gmail.com",
+	"metaDescription": "It's never too late to learn, at least for Chinese great grandmother, Zhao Shunjin. She's just mastered 100 Chinese characters. ",
+	"timePosted": 1437116901558
+}, {
+	"_id": "55a75e3e0df716c14a5f4cfd",
+	"headline": "Page Scroll Effects",
+	"link": "http://codyhouse.co/demo/page-scroll-effects/index-hijacking.html",
+	"description": "",
+	"author": {
+		"picture": "https://pbs.twimg.com/profile_images/378800000633719904/e83f3f74cae11010d32397e94b8bc09b_400x400.jpeg",
+		"userId": "559c1ec15c8414021fa328bf",
+		"username": "bugron",
+		"email": "bugron@mail.ru"
+	},
+	"__v": 2,
+	"storyLink": "page scroll effects",
+	"image": "",
+	"comments": [],
+	"upVotes": [{
+		"upVotedBy": "559c1ec15c8414021fa328bf",
+		"upVotedByUsername": "bugron"
+	}, {
+		"upVotedByUsername": "michael",
+		"upVotedBy": "54fe05dc61db280b0051df92"
+	}, {
+		"upVotedByUsername": "cylocation",
+		"upVotedBy": "54f4d48dc53d560b0030b317"
+	}],
+	"rank": 3,
+	"originalStoryAuthorEmail": "bugron@mail.ru",
+	"metaDescription": "",
+	"timePosted": 1437031998976
+}, {
+	"_id": "55a89f48dc345ceb789b5d5a",
+	"headline": "How To Overcome Procrastination ",
+	"link": "http://personalexcellence.co/blog/procrastination-part-5",
+	"description": "",
+	"author": {
+		"picture": "https://lh5.googleusercontent.com/-TKL87JhXn-g/AAAAAAAAAAI/AAAAAAAACqU/0tVLA-DV-gY/photo.jpg",
+		"userId": "5497f7a1e356230b001acec8",
+		"username": "duttakapil",
+		"email": "kapil.dutta28@gmail.com"
+	},
+	"__v": 0,
+	"storyLink": "how to overcome procrastination",
+	"image": "",
+	"comments": [],
+	"upVotes": [{
+		"upVotedBy": "5497f7a1e356230b001acec8",
+		"upVotedByUsername": "duttakapil"
+	}],
+	"rank": 1,
+	"originalStoryAuthorEmail": "kapil.dutta28@gmail.com",
+	"metaDescription": "This is the last part of a series on How to Overcome Procrastination.  If you have read this far, I assume procrastination is a problem you face and want to address. In this part, you’ll learn how to overcome your procrastination through an introspective exercise. Time to stop procrastinating and get the problem nipped in the bud!",
+	"timePosted": 1437114184598
+}, {
+	"_id": "55a428716f5465665abd7cc1",
+	"headline": "43 free career-advancing courses you can take (and actually finish) this summer",
+	"link": "http://mashable.com/2015/07/05/career-advancing-courses/?utm_cid=mash-com-fb-bus-link",
+	"description": "Never stop learning ",
+	"author": {
+		"picture": "https://s3.amazonaws.com/freecodecamp/camper-image-placeholder.png",
+		"userId": "5555524b9363e30414d98470",
+		"username": "jauregui",
+		"email": "jauregui@mail.usf.edu"
+	},
+	"__v": 55,
+	"storyLink": "43 free careeradvancing courses you can take and actually finish this summer",
+	"image": "http://rack.1.mshcdn.com/media/ZgkyMDE1LzA3LzA4L2NmL29ubGluZWNsYXNzLmNiODNiLmpwZwpwCXRodW1iCTEyMDB4NjI3IwplCWpwZw/b10fd202/f81/online-class.jpg",
+	"comments": ["55a4a7b628cf57d35ee9ddc8", "55a4f32547815afc643c6c82", "55a530b7e58f7205652ef495", "55a56b47e58f7205652ef505", "55a5942be58f7205652ef54c", "55a59976416d27f97c5a002a", "55a6e40d23a0ad32166b3d0b", "55a7439875f6789f3e33b91d", "55a7448c75f6789f3e33b920", "55a9b4da7e19adb178c2e63c"],
+	"upVotes": [{
+		"upVotedBy": "5555524b9363e30414d98470",
+		"upVotedByUsername": "jauregui"
+	}, {
+		"upVotedByUsername": "azlula",
+		"upVotedBy": "55a435f76f5465665abd7ce2"
+	}, {
+		"upVotedByUsername": "michael",
+		"upVotedBy": "54fe05dc61db280b0051df92"
+	}, {
+		"upVotedByUsername": "awbucher",
+		"upVotedBy": "55a3df3184045eb44df9b195"
+	}, {
+		"upVotedByUsername": "engsiang",
+		"upVotedBy": "559f40f03eb191577f54a1d5"
+	}, {
+		"upVotedByUsername": "nihonjinboy85",
+		"upVotedBy": "559ec51ed0f832f91e27a45b"
+	}, {
+		"upVotedByUsername": "bugron",
+		"upVotedBy": "559c1ec15c8414021fa328bf"
+	}, {
+		"upVotedByUsername": "poppo1974",
+		"upVotedBy": "55a50752e58f7205652ef41a"
+	}, {
+		"upVotedByUsername": "jlbalsamo",
+		"upVotedBy": "558383e99d07bf482d854cd0"
+	}, {
+		"upVotedByUsername": "fmerc",
+		"upVotedBy": "558313d285d50e3e5de5a4af"
+	}, {
+		"upVotedByUsername": "kristyr",
+		"upVotedBy": "55a0abd2dba49b590b82805e"
+	}, {
+		"upVotedByUsername": "origamisoup",
+		"upVotedBy": "55a3c9fb84045eb44df9b150"
+	}, {
+		"upVotedByUsername": "siriatma",
+		"upVotedBy": "559feb0edda85b4a7f78c505"
+	}, {
+		"upVotedByUsername": "ghander",
+		"upVotedBy": "558707d4c1efe7451e6c325c"
+	}, {
+		"upVotedByUsername": "doctorcode",
+		"upVotedBy": "55a5734047815afc643c6dce"
+	}, {
+		"upVotedByUsername": "yayyz",
+		"upVotedBy": "55a58998416d27f97c5a000b"
+	}, {
+		"upVotedByUsername": "mariobro",
+		"upVotedBy": "55a3b35aad5254ab4dc4e1ed"
+	}, {
+		"upVotedByUsername": "ckat77",
+		"upVotedBy": "55a5bff9a78818927d0edca6"
+	}, {
+		"upVotedByUsername": "shandraspear",
+		"upVotedBy": "55a5b83ba78818927d0edc9b"
+	}, {
+		"upVotedByUsername": "steveplesha",
+		"upVotedBy": "55a41f3b84045eb44df9b23b"
+	}, {
+		"upVotedByUsername": "d35truct0",
+		"upVotedBy": "559f3bbf3eb191577f54a181"
+	}, {
+		"upVotedByUsername": "jasondemuth",
+		"upVotedBy": "55a4921228cf57d35ee9dd9d"
+	}, {
+		"upVotedByUsername": "mkwilliams21",
+		"upVotedBy": "55a5db21416d27f97c5a008a"
+	}, {
+		"upVotedByUsername": "peer2stay",
+		"upVotedBy": "559cf3d9d0f832f91e27a1d9"
+	}, {
+		"upVotedByUsername": "kitcloudkicker",
+		"upVotedBy": "55a3352984045eb44df9b021"
+	}, {
+		"upVotedByUsername": "renestl",
+		"upVotedBy": "55a4b8f028cf57d35ee9ddf0"
+	}, {
+		"upVotedByUsername": "rrtcastro",
+		"upVotedBy": "559f1ecf00f7ee977d1b4741"
+	}, {
+		"upVotedByUsername": "elizabethmaria",
+		"upVotedBy": "55a3c51584045eb44df9b13f"
+	}, {
+		"upVotedByUsername": "cloudchaser",
+		"upVotedBy": "55a42cb384045eb44df9b254"
+	}, {
+		"upVotedByUsername": "jabo3",
+		"upVotedBy": "55a6aa3623a0ad32166b3cbd"
+	}, {
+		"upVotedByUsername": "darrenthomas5",
+		"upVotedBy": "55a6b69e1eee7e241648b568"
+	}, {
+		"upVotedByUsername": "bluebonnet75",
+		"upVotedBy": "55a32e6b84045eb44df9b014"
+	}, {
+		"upVotedByUsername": "kaschiap",
+		"upVotedBy": "55a6e3f923a0ad32166b3d0a"
+	}, {
+		"upVotedByUsername": "dearmartinez",
+		"upVotedBy": "559f0bfd00f7ee977d1b4637"
+	}, {
+		"upVotedByUsername": "sarahemalek",
+		"upVotedBy": "55a6faf91eee7e241648b5ba"
+	}, {
+		"upVotedByUsername": "samueltu",
+		"upVotedBy": "559f0ce37c55ed707db7b5f7"
+	}, {
+		"upVotedByUsername": "ederguajardo",
+		"upVotedBy": "55a484474bc10e8f64383cf5"
+	}, {
+		"upVotedByUsername": "yawapi",
+		"upVotedBy": "55a11febd9e6d9240c6a37a5"
+	}, {
+		"upVotedByUsername": "j3ffr3yli",
+		"upVotedBy": "559f286aca9d98e27da15fd5"
+	}, {
+		"upVotedByUsername": "melred0726",
+		"upVotedBy": "55a3d4e9ad5254ab4dc4e245"
+	}, {
+		"upVotedByUsername": "kellyexton",
+		"upVotedBy": "55a28301160558ca0902a51a"
+	}, {
+		"upVotedByUsername": "smcquay",
+		"upVotedBy": "5570956ae62261904f689f3b"
+	}, {
+		"upVotedByUsername": "jessiw",
+		"upVotedBy": "549f1422bd0e7f0b0087330f"
+	}, {
+		"upVotedByUsername": "butterflypixels",
+		"upVotedBy": "55a8fe307e19adb178c2e536"
+	}, {
+		"upVotedByUsername": "izzycast",
+		"upVotedBy": "55a7cc07dc345ceb789b5c34"
+	}, {
+		"upVotedByUsername": "know2code",
+		"upVotedBy": "54d4fbd135f9990900325127"
+	}],
+	"rank": 46,
+	"originalStoryAuthorEmail": "jauregui@mail.usf.edu",
+	"metaDescription": "Here are 43 career-advancing courses you can sign up for today.  \r\n",
+	"timePosted": 1436821617800
+}, {
+	"_id": "55a864c7dc345ceb789b5d0b",
+	"headline": "Feature Request: Mozilla's  Open Backpack · Issue #1296",
+	"link": "https://github.com/FreeCodeCamp/freecodecamp/issues/1296#issuecomment-122139553",
+	"description": "Please up vote so the developers will know of your interest in Mozilla's Open Badges and Backpack",
+	"author": {
+		"picture": "https://lh5.googleusercontent.com/-bHpQGcVcPYE/AAAAAAAAAAI/AAAAAAAAOmA/t8acenej9zw/photo.jpg",
+		"userId": "559ecb01dd542fe9756c2a40",
+		"username": "cparrish",
+		"email": "carl.parrish@gmail.com"
+	},
+	"__v": 0,
+	"storyLink": "feature request mozillas open backpack issue 1296",
+	"image": "https://avatars3.githubusercontent.com/u/4809833?v=3&s=400",
+	"comments": [],
+	"upVotes": [{
+		"upVotedBy": "559ecb01dd542fe9756c2a40",
+		"upVotedByUsername": "cparrish"
+	}],
+	"rank": 1,
+	"originalStoryAuthorEmail": "carl.parrish@gmail.com",
+	"metaDescription": "freecodecamp - FreeCodeCamp.com's open-source MEAN web application",
+	"timePosted": 1437099207892
+}, {
+	"_id": "55a653e8a14be28d0db18cb2",
+	"headline": "Writing Good CSS",
+	"link": "http://speckyboy.com/2015/06/17/writing-good-css/",
+	"description": "",
+	"author": {
+		"picture": "https://pbs.twimg.com/profile_images/378800000633719904/e83f3f74cae11010d32397e94b8bc09b_400x400.jpeg",
+		"userId": "559c1ec15c8414021fa328bf",
+		"username": "bugron",
+		"email": "bugron@mail.ru"
+	},
+	"__v": 6,
+	"storyLink": "writing good css",
+	"image": "http://speckycdn.sdm.netdna-cdn.com/wp-content/uploads/2015/06/writing_css_thumb.png",
+	"comments": ["55a6c32723a0ad32166b3ce1"],
+	"upVotes": [{
+		"upVotedBy": "559c1ec15c8414021fa328bf",
+		"upVotedByUsername": "bugron"
+	}, {
+		"upVotedByUsername": "jlbalsamo",
+		"upVotedBy": "558383e99d07bf482d854cd0"
+	}, {
+		"upVotedByUsername": "avambo",
+		"upVotedBy": "558dad696788ab3b45d4c9c6"
+	}, {
+		"upVotedByUsername": "michael",
+		"upVotedBy": "54fe05dc61db280b0051df92"
+	}, {
+		"upVotedByUsername": "bluebonnet75",
+		"upVotedBy": "55a32e6b84045eb44df9b014"
+	}, {
+		"upVotedByUsername": "canovicente",
+		"upVotedBy": "55a599ae416d27f97c5a002b"
+	}],
+	"rank": 6,
+	"originalStoryAuthorEmail": "bugron@mail.ru",
+	"metaDescription": "",
+	"timePosted": 1436963816643
+}, {
+	"_id": "55a84edf7e19adb178c2e443",
+	"headline": "Top 10 Mistakes Node Developers Make",
+	"link": "https://www.airpair.com/node.js/posts/top-10-mistakes-node-developers-make",
+	"description": "",
+	"author": {
+		"picture": "http://i.imgur.com/MdOzBC3.jpge-placeholder.png",
+		"userId": "54fe05dc61db280b0051df92",
+		"username": "michael",
+		"email": "mkemo8870@yahoo.com"
+	},
+	"__v": 0,
+	"storyLink": "top 10 mistakes node developers make",
+	"image": "",
+	"comments": [],
+	"upVotes": [{
+		"upVotedBy": "54fe05dc61db280b0051df92",
+		"upVotedByUsername": "michael"
+	}],
+	"rank": 1,
+	"originalStoryAuthorEmail": "mkemo8870@yahoo.com",
+	"metaDescription": "",
+	"timePosted": 1437093599919
+}, {
+	"_id": "55a84d937e19adb178c2e441",
+	"headline": "Programming problems and Competitions :: HackerRank",
+	"link": "https://www.hackerrank.com/",
+	"description": "",
+	"author": {
+		"picture": "http://i.imgur.com/MdOzBC3.jpge-placeholder.png",
+		"userId": "54fe05dc61db280b0051df92",
+		"username": "michael",
+		"email": "mkemo8870@yahoo.com"
+	},
+	"__v": 0,
+	"storyLink": "programming problems and competitions hackerrank 1",
+	"image": "https://hrcdn.net/hackerrank/assets/hackerrank_default_og.jpg",
+	"comments": [],
+	"upVotes": [{
+		"upVotedBy": "54fe05dc61db280b0051df92",
+		"upVotedByUsername": "michael"
+	}],
+	"rank": 1,
+	"originalStoryAuthorEmail": "mkemo8870@yahoo.com",
+	"metaDescription": "Programming problems and contests in different domains of Computer Science. Solve interesting and challenging programming problems",
+	"timePosted": 1437093267160
+}, {
+	"_id": "55a84d90dc345ceb789b5cf7",
+	"headline": "Building JavaScript Projects with make",
+	"link": "https://blog.jcoglan.com/2014/02/05/building-javascript-projects-with-make/",
+	"description": "",
+	"author": {
+		"picture": "https://lh6.googleusercontent.com/-hxlkfE6nV8o/AAAAAAAAAAI/AAAAAAAAAIc/FpbHGTD9DAY/photo.jpg",
+		"userId": "54bb06e2d6f6d40c0067f581",
+		"username": "ericdouglas",
+		"email": "eric.douglas.mail@gmail.com"
+	},
+	"__v": 0,
+	"storyLink": "building javascript projects with make",
+	"image": "",
+	"comments": [],
+	"upVotes": [{
+		"upVotedBy": "54bb06e2d6f6d40c0067f581",
+		"upVotedByUsername": "ericdouglas"
+	}],
+	"rank": 1,
+	"originalStoryAuthorEmail": "eric.douglas.mail@gmail.com",
+	"metaDescription": "",
+	"timePosted": 1437093264757
+}, {
+	"_id": "55a842177e19adb178c2e432",
+	"headline": "JavaScript Library",
+	"link": "https://learnable.com/topics/javascript",
+	"description": "",
+	"author": {
+		"picture": "https://lh4.googleusercontent.com/-DpFkNnvd6Uk/AAAAAAAAAAI/AAAAAAAAAEg/YTE7r7JCyak/photo.jpg",
+		"userId": "54a4baa6975bfc0b0030b667",
+		"username": "elliescode",
+		"email": "arttaielli@gmail.com"
+	},
+	"__v": 0,
+	"storyLink": "javascript library",
+	"image": "",
+	"comments": [],
+	"upVotes": [{
+		"upVotedBy": "54a4baa6975bfc0b0030b667",
+		"upVotedByUsername": "elliescode"
+	}],
+	"rank": 1,
+	"originalStoryAuthorEmail": "arttaielli@gmail.com",
+	"metaDescription": "JavaScript makes your pages dance, move and interact. For a front-end developer, it’s a fundamental skill.",
+	"timePosted": 1437090327282
+}, {
+	"_id": "55a668851eee7e241648b4e4",
+	"headline": "The God Login",
+	"link": "http://blog.codinghorror.com/the-god-login/",
+	"description": "",
+	"author": {
+		"picture": "https://pbs.twimg.com/profile_images/522052694274367488/KvcnBjmM.png",
+		"userId": "55a5ef12a78818927d0edce7",
+		"username": "justindobbs",
+		"email": "justind@protonmail.com"
+	},
+	"__v": 4,
+	"storyLink": "the god login",
+	"image": "",
+	"comments": [],
+	"upVotes": [{
+		"upVotedBy": "55a5ef12a78818927d0edce7",
+		"upVotedByUsername": "justindobbs"
+	}, {
+		"upVotedByUsername": "levib",
+		"upVotedBy": "5582f32ce72b30d8014f2ae0"
+	}, {
+		"upVotedByUsername": "michael",
+		"upVotedBy": "54fe05dc61db280b0051df92"
+	}, {
+		"upVotedByUsername": "jlbalsamo",
+		"upVotedBy": "558383e99d07bf482d854cd0"
+	}, {
+		"upVotedByUsername": "jombard",
+		"upVotedBy": "553959aa4551c6f76fb40bc1"
+	}],
+	"rank": 5,
+	"originalStoryAuthorEmail": "justind@protonmail.com",
+	"metaDescription": "",
+	"timePosted": 1436969093196
+}, {
+	"_id": "55a6f6b41eee7e241648b5b4",
+	"headline": "Anatomy of a JavaScript MV* Framework",
+	"link": "http://www.sitepoint.com/anatomy-javascript-mv-framework/",
+	"description": "",
+	"author": {
+		"picture": "https://lh4.googleusercontent.com/-DpFkNnvd6Uk/AAAAAAAAAAI/AAAAAAAAAEg/YTE7r7JCyak/photo.jpg",
+		"userId": "54a4baa6975bfc0b0030b667",
+		"username": "elliescode",
+		"email": "arttaielli@gmail.com"
+	},
+	"__v": 2,
+	"storyLink": "anatomy of a javascript mv framework",
+	"image": "http://www.sitepoint.com/wp-content/themes/sitepoint/assets/images/icon.javascript.png",
+	"comments": [],
+	"upVotes": [{
+		"upVotedBy": "54a4baa6975bfc0b0030b667",
+		"upVotedByUsername": "elliescode"
+	}, {
+		"upVotedByUsername": "michael",
+		"upVotedBy": "54fe05dc61db280b0051df92"
+	}, {
+		"upVotedByUsername": "txpeters",
+		"upVotedBy": "55a820b87e19adb178c2e402"
+	}],
+	"rank": 3,
+	"originalStoryAuthorEmail": "arttaielli@gmail.com",
+	"metaDescription": "This article looks at some common features of JavaScript MV* frameworks. Various frameworks are compared and contrasted with respect to these features.",
+	"timePosted": 1437005492147
+}, {
+	"_id": "55a82d17dc345ceb789b5cd6",
+	"headline": "ProgrammableWeb - APIs, Mashups and the Web as Platform",
+	"link": "http://www.programmableweb.com",
+	"description": "When you start your Ziplines and you're not sure which API to use, or where to get them, this is a great resource.",
+	"author": {
+		"picture": "https://pbs.twimg.com/profile_images/612291722853232640/TC0-rFvR.jpg",
+		"userId": "558383e99d07bf482d854cd0",
+		"username": "jlbalsamo",
+		"email": "jbalsamo@cox.net"
+	},
+	"__v": 0,
+	"storyLink": "programmableweb apis mashups and the web as platform",
+	"image": "http://i61.tinypic.com/25a5ajc.png",
+	"comments": [],
+	"upVotes": [{
+		"upVotedBy": "558383e99d07bf482d854cd0",
+		"upVotedByUsername": "jlbalsamo"
+	}],
+	"rank": 1,
+	"originalStoryAuthorEmail": "jbalsamo@cox.net",
+	"metaDescription": "The leading source of news & information about APIs, chronicling the evolution of the global API economy & providing the web’s most relied-on API Directory",
+	"timePosted": 1437084951828
+}, {
+	"_id": "55a7615b0df716c14a5f4d00",
+	"headline": "Free Vector World Maps",
+	"link": "http://sixrevisions.com/freebies/free-vector-world-maps/",
+	"description": "",
+	"author": {
+		"picture": "https://pbs.twimg.com/profile_images/378800000633719904/e83f3f74cae11010d32397e94b8bc09b_400x400.jpeg",
+		"userId": "559c1ec15c8414021fa328bf",
+		"username": "bugron",
+		"email": "bugron@mail.ru"
+	},
+	"__v": 1,
+	"storyLink": "free vector world maps",
+	"image": "http://cdn.sixrevisions.com/0523-01-free-vector-world-maps-lead.png",
+	"comments": [],
+	"upVotes": [{
+		"upVotedBy": "559c1ec15c8414021fa328bf",
+		"upVotedByUsername": "bugron"
+	}, {
+		"upVotedByUsername": "know2code",
+		"upVotedBy": "54d4fbd135f9990900325127"
+	}],
+	"rank": 2,
+	"originalStoryAuthorEmail": "bugron@mail.ru",
+	"metaDescription": "A set of 30 different world maps in scalable vector graphics (SVG) format. You can easily edit and customize the world maps using a vector graphics editor.",
+	"timePosted": 1437032795670
+}, {
+	"_id": "55a81567dc345ceb789b5cb2",
+	"headline": "Best of Fluent 2012: /Reg(exp){2}lained/: Demystifying Regular Expressions - YouTube",
+	"link": "https://www.youtube.com/watch?v=EkluES9Rvak",
+	"description": "Great video about regular expressions that really helped me!",
+	"author": {
+		"picture": "http://lookpic.com/O/i2/587/iDvg9lYy.jpeg",
+		"userId": "55a16229d9e6d9240c6a3872",
+		"username": "azimoto9",
+		"email": "azimoto9@gmail.com"
+	},
+	"__v": 0,
+	"storyLink": "best of fluent 2012 regexp2lained demystifying regular expressions youtube",
+	"image": "https://i.ytimg.com/vi/EkluES9Rvak/maxresdefault.jpg",
+	"comments": [],
+	"upVotes": [{
+		"upVotedBy": "55a16229d9e6d9240c6a3872",
+		"upVotedByUsername": "azimoto9"
+	}],
+	"rank": 1,
+	"originalStoryAuthorEmail": "azimoto9@gmail.com",
+	"metaDescription": "From Fluent 2012: Quick, what does this do: /(\\/\\*?\\\\/)|\\/\\/.*?(\\r?\\n|$)/g? If you're like many developers, you just averted your eyes, and your heart is now...",
+	"timePosted": 1437078887703
+}, {
+	"_id": "55a73c0823a0ad32166b3d76",
+	"headline": "Learning how to Google well",
+	"link": "https://www.reddit.com/r/learnprogramming/comments/3cj4y1/learn_how_to_program_how_about_learning_how_to/",
+	"description": "I a good Reddit thread offering suggestions on how to Google.",
+	"author": {
+		"picture": "https://s3.amazonaws.com/freecodecamp/camper-image-placeholder.png",
+		"userId": "55a45e9728cf57d35ee9dced",
+		"username": "wintersedge",
+		"email": "code@wintersedge.com"
+	},
+	"__v": 1,
+	"storyLink": "learning how to google well",
+	"image": "https://www.redditstatic.com/icon.png",
+	"comments": [],
+	"upVotes": [{
+		"upVotedBy": "55a45e9728cf57d35ee9dced",
+		"upVotedByUsername": "wintersedge"
+	}, {
+		"upVotedByUsername": "cylocation",
+		"upVotedBy": "54f4d48dc53d560b0030b317"
+	}],
+	"rank": 2,
+	"originalStoryAuthorEmail": "code@wintersedge.com",
+	"metaDescription": "Why don't i know how to google well? Because there are tokens and operators and shit that I don't know about that are a part of my search that are...",
+	"timePosted": 1437023240949
+}, {
+	"_id": "55a691f51eee7e241648b53d",
+	"headline": "Truck-Factor by mtov",
+	"link": "https://mtov.github.io/Truck-Factor/",
+	"description": "",
+	"author": {
+		"picture": "https://pbs.twimg.com/profile_images/378800000861615664/XjsRCwBu.jpeg",
+		"userId": "5480fda9f549e00b000213a5",
+		"username": "stevenkw",
+		"email": "stevenkw@gmail.com"
+	},
+	"__v": 3,
+	"storyLink": "truckfactor by mtov",
+	"image": "",
+	"comments": ["55a692131eee7e241648b540"],
+	"upVotes": [{
+		"upVotedBy": "5480fda9f549e00b000213a5",
+		"upVotedByUsername": "stevenkw"
+	}, {
+		"upVotedByUsername": "michael",
+		"upVotedBy": "54fe05dc61db280b0051df92"
+	}, {
+		"upVotedByUsername": "jlbalsamo",
+		"upVotedBy": "558383e99d07bf482d854cd0"
+	}],
+	"rank": 3,
+	"originalStoryAuthorEmail": "stevenkw@gmail.com",
+	"metaDescription": "",
+	"timePosted": 1436979701833
+}, {
+	"_id": "55a6fabe23a0ad32166b3d2a",
+	"headline": "The Web Designer's Guide To Programming",
+	"link": "http://www.sitepoint.com/web-designers-guide-to-programming/",
+	"description": "",
+	"author": {
+		"picture": "https://lh4.googleusercontent.com/-DpFkNnvd6Uk/AAAAAAAAAAI/AAAAAAAAAEg/YTE7r7JCyak/photo.jpg",
+		"userId": "54a4baa6975bfc0b0030b667",
+		"username": "elliescode",
+		"email": "arttaielli@gmail.com"
+	},
+	"__v": 2,
+	"storyLink": "the web designers guide to programming",
+	"image": "http://www.sitepoint.com/wp-content/themes/sitepoint/assets/images/icon.design-ux.png",
+	"comments": ["55a7fc0d7e19adb178c2e3b2"],
+	"upVotes": [{
+		"upVotedBy": "54a4baa6975bfc0b0030b667",
+		"upVotedByUsername": "elliescode"
+	}, {
+		"upVotedByUsername": "izzycast",
+		"upVotedBy": "55a7cc07dc345ceb789b5c34"
+	}],
+	"rank": 2,
+	"originalStoryAuthorEmail": "arttaielli@gmail.com",
+	"metaDescription": "For designers, coding shouldn't be about computers – it should be about creative control. Are you willing to let others paint your masterpiece?",
+	"timePosted": 1437006526589
+}, {
+	"_id": "55a5314be58f7205652ef499",
+	"headline": "25 Best Job Sites for Finding Your First Developer Job",
+	"link": "http://skillcrush.com/2015/07/14/job-sites-to-find-your-first-developer-job/",
+	"description": "",
+	"author": {
+		"picture": "http://i.imgur.com/MdOzBC3.jpge-placeholder.png",
+		"userId": "54fe05dc61db280b0051df92",
+		"username": "michael",
+		"email": "mkemo8870@yahoo.com"
+	},
+	"__v": 8,
+	"storyLink": "25 best job sites for finding your first developer job",
+	"image": "http://skillcrush.com/wp-content/uploads/2015/07/BlogImage_23-top-sites.jpg",
+	"comments": ["55a66a5b23a0ad32166b3c53"],
+	"upVotes": [{
+		"upVotedBy": "54fe05dc61db280b0051df92",
+		"upVotedByUsername": "michael"
+	}, {
+		"upVotedByUsername": "therealramona",
+		"upVotedBy": "559fc1f1dda85b4a7f78c27e"
+	}, {
+		"upVotedByUsername": "peer2stay",
+		"upVotedBy": "559cf3d9d0f832f91e27a1d9"
+	}, {
+		"upVotedByUsername": "jfrigo",
+		"upVotedBy": "55a6575ba14be28d0db18cbd"
+	}, {
+		"upVotedByUsername": "turtleman",
+		"upVotedBy": "5579907e8d4088434095f18f"
+	}, {
+		"upVotedByUsername": "levib",
+		"upVotedBy": "5582f32ce72b30d8014f2ae0"
+	}, {
+		"upVotedByUsername": "bluebonnet75",
+		"upVotedBy": "55a32e6b84045eb44df9b014"
+	}, {
+		"upVotedByUsername": "know2code",
+		"upVotedBy": "54d4fbd135f9990900325127"
+	}],
+	"rank": 8,
+	"originalStoryAuthorEmail": "mkemo8870@yahoo.com",
+	"metaDescription": "Where to find job listings for beginner tech jobs.",
+	"timePosted": 1436889419225
+}, {
+	"_id": "55a462fc28cf57d35ee9dcf5",
+	"headline": "Getting Started as a Software Engineer",
+	"link": "https://jdanger.com/getting-started-as-a-software-engineer.html",
+	"description": "",
+	"author": {
+		"picture": "http://i.imgur.com/MdOzBC3.jpge-placeholder.png",
+		"userId": "54fe05dc61db280b0051df92",
+		"username": "michael",
+		"email": "mkemo8870@yahoo.com"
+	},
+	"__v": 19,
+	"storyLink": "getting started as a software engineer",
+	"image": "",
+	"comments": ["55a465936f5465665abd7d45", "55a4cadf47815afc643c6c37", "55a5305ee58f7205652ef493", "55a5343fe58f7205652ef4a2", "55a595ece58f7205652ef54e"],
+	"upVotes": [{
+		"upVotedBy": "54fe05dc61db280b0051df92",
+		"upVotedByUsername": "michael"
+	}, {
+		"upVotedByUsername": "callmedee",
+		"upVotedBy": "55a04e0d0214a74f06fc56d3"
+	}, {
+		"upVotedByUsername": "jlbalsamo",
+		"upVotedBy": "558383e99d07bf482d854cd0"
+	}, {
+		"upVotedByUsername": "nickstellato",
+		"upVotedBy": "559ecf37d0f832f91e27a5d2"
+	}, {
+		"upVotedByUsername": "shaddyjr",
+		"upVotedBy": "55a4c26247815afc643c6c28"
+	}, {
+		"upVotedByUsername": "saadehmad",
+		"upVotedBy": "54c674639b28470a0023b4c3"
+	}, {
+		"upVotedByUsername": "audiocode",
+		"upVotedBy": "55a03483d840af43064f6067"
+	}, {
+		"upVotedByUsername": "wangaxi",
+		"upVotedBy": "555051c07bb7cef86552a86f"
+	}, {
+		"upVotedByUsername": "trace1394",
+		"upVotedBy": "55a5325b47815afc643c6d3c"
+	}, {
+		"upVotedByUsername": "brettaogden",
+		"upVotedBy": "55a56cf747815afc643c6dc0"
+	}, {
+		"upVotedByUsername": "shirl",
+		"upVotedBy": "559cc3e8d0f832f91e27a1b8"
+	}, {
+		"upVotedByUsername": "codemonkey4",
+		"upVotedBy": "55a57fe7e58f7205652ef52e"
+	}, {
+		"upVotedByUsername": "nmarlowe",
+		"upVotedBy": "554284f9ec657dde23cb95d1"
+	}, {
+		"upVotedByUsername": "zingahart",
+		"upVotedBy": "559ed2ae0d10e93c77e8273d"
+	}, {
+		"upVotedByUsername": "know2code",
+		"upVotedBy": "54d4fbd135f9990900325127"
+	}],
+	"rank": 15,
+	"originalStoryAuthorEmail": "mkemo8870@yahoo.com",
+	"metaDescription": "",
+	"timePosted": 1436836604178
+}, {
+	"_id": "55a75e790df716c14a5f4cfe",
+	"headline": "Understanding the CSS 'content' Property",
+	"link": "http://www.sitepoint.com/understanding-css-content-property/",
+	"description": "",
+	"author": {
+		"picture": "https://pbs.twimg.com/profile_images/378800000633719904/e83f3f74cae11010d32397e94b8bc09b_400x400.jpeg",
+		"userId": "559c1ec15c8414021fa328bf",
+		"username": "bugron",
+		"email": "bugron@mail.ru"
+	},
+	"__v": 0,
+	"storyLink": "understanding the css content property",
+	"image": "http://www.sitepoint.com/wp-content/themes/sitepoint/assets/images/icon.html-css.png",
+	"comments": [],
+	"upVotes": [{
+		"upVotedBy": "559c1ec15c8414021fa328bf",
+		"upVotedByUsername": "bugron"
+	}],
+	"rank": 1,
+	"originalStoryAuthorEmail": "bugron@mail.ru",
+	"metaDescription": "Gajendar Singh breaks down the CSS content property, with descriptions and demos for all the possible values.",
+	"timePosted": 1437032057039
+}, {
+	"_id": "55a75cfa0df716c14a5f4cfc",
+	"headline": "How CSS and JavaScript can affect page rendering",
+	"link": "https://www.youtube.com/watch?v=XeMDXlJ051s",
+	"description": "",
+	"author": {
+		"picture": "https://pbs.twimg.com/profile_images/378800000633719904/e83f3f74cae11010d32397e94b8bc09b_400x400.jpeg",
+		"userId": "559c1ec15c8414021fa328bf",
+		"username": "bugron",
+		"email": "bugron@mail.ru"
+	},
+	"__v": 0,
+	"storyLink": "how css and javascript can affect page rendering",
+	"image": "https://i.ytimg.com/vi/XeMDXlJ051s/maxresdefault.jpg",
+	"comments": [],
+	"upVotes": [{
+		"upVotedBy": "559c1ec15c8414021fa328bf",
+		"upVotedByUsername": "bugron"
+	}],
+	"rank": 1,
+	"originalStoryAuthorEmail": "bugron@mail.ru",
+	"metaDescription": "Part of https://umaar.com/dev-tips/",
+	"timePosted": 1437031674834
+}, {
+	"_id": "55a75ce99117da4d4a3d5233",
+	"headline": "Quantity Ordering With CSS",
+	"link": "http://www.smashingmagazine.com/2015/07/14/quantity-ordering-with-css/",
+	"description": "",
+	"author": {
+		"picture": "https://pbs.twimg.com/profile_images/378800000633719904/e83f3f74cae11010d32397e94b8bc09b_400x400.jpeg",
+		"userId": "559c1ec15c8414021fa328bf",
+		"username": "bugron",
+		"email": "bugron@mail.ru"
+	},
+	"__v": 0,
+	"storyLink": "quantity ordering with css",
+	"image": "",
+	"comments": [],
+	"upVotes": [{
+		"upVotedBy": "559c1ec15c8414021fa328bf",
+		"upVotedByUsername": "bugron"
+	}],
+	"rank": 1,
+	"originalStoryAuthorEmail": "bugron@mail.ru",
+	"metaDescription": "",
+	"timePosted": 1437031657200
+}, {
+	"_id": "55a68aaf1eee7e241648b532",
+	"headline": "HTML Color Picker",
+	"link": "http://www.w3schools.com/tags/ref_colorpicker.asp",
+	"description": "Here is a good color selector if you need to get Hex Values Quickly and are not using a tool on your computer.",
+	"author": {
+		"picture": "https://lh5.googleusercontent.com/-sbWTFpjNejw/AAAAAAAAAAI/AAAAAAAAARM/NUk268VXxZ8/photo.jpg",
+		"userId": "559ec06fd0f832f91e27a37d",
+		"username": "jgrummell",
+		"email": "jtgrummell@gmail.com"
+	},
+	"__v": 1,
+	"storyLink": "html color picker",
+	"image": "",
+	"comments": [],
+	"upVotes": [{
+		"upVotedBy": "559ec06fd0f832f91e27a37d",
+		"upVotedByUsername": "jgrummell"
+	}, {
+		"upVotedByUsername": "michael",
+		"upVotedBy": "54fe05dc61db280b0051df92"
+	}],
+	"rank": 2,
+	"originalStoryAuthorEmail": "jtgrummell@gmail.com",
+	"metaDescription": "",
+	"timePosted": 1436977839075
+}, {
+	"_id": "55a65b00a14be28d0db18cc0",
+	"headline": "Challenges with Retrofitting Responsive Design -Telerik Developer Network",
+	"link": "http://developer.telerik.com/products/challenges-with-retrofitting-responsive-design/",
+	"description": "",
+	"author": {
+		"picture": "https://pbs.twimg.com/profile_images/378800000633719904/e83f3f74cae11010d32397e94b8bc09b_400x400.jpeg",
+		"userId": "559c1ec15c8414021fa328bf",
+		"username": "bugron",
+		"email": "bugron@mail.ru"
+	},
+	"__v": 1,
+	"storyLink": "challenges with retrofitting responsive design telerik developer network",
+	"image": "http://developer.telerik.com/wp-content/uploads/2015/06/rwd-retrofit.jpg",
+	"comments": [],
+	"upVotes": [{
+		"upVotedBy": "559c1ec15c8414021fa328bf",
+		"upVotedByUsername": "bugron"
+	}, {
+		"upVotedByUsername": "michael",
+		"upVotedBy": "54fe05dc61db280b0051df92"
+	}],
+	"rank": 2,
+	"originalStoryAuthorEmail": "bugron@mail.ru",
+	"metaDescription": "Retrofitting an existing site with responsive design may seem appealing, but Ed Charbeneau shows that many challenges may prevent this from being effective.",
+	"timePosted": 1436965632603
+}, {
+	"_id": "55a61378a14be28d0db18c65",
+	"headline": "CodeNewbie - Podcasts About Programming",
+	"link": "http://www.codenewbie.org/podcast",
+	"description": "Just something to listen to while coding/driving/whatever. :)",
+	"author": {
+		"picture": "http://i.imgur.com/m9SbBKs.png",
+		"userId": "558dad696788ab3b45d4c9c6",
+		"username": "avambo",
+		"email": "alexanderwulkan@hotmail.com"
+	},
+	"__v": 1,
+	"storyLink": "codenewbie podcasts about programming",
+	"image": "",
+	"comments": [],
+	"upVotes": [{
+		"upVotedBy": "558dad696788ab3b45d4c9c6",
+		"upVotedByUsername": "avambo"
+	}, {
+		"upVotedByUsername": "michael",
+		"upVotedBy": "54fe05dc61db280b0051df92"
+	}],
+	"rank": 2,
+	"originalStoryAuthorEmail": "alexanderwulkan@hotmail.com",
+	"metaDescription": "",
+	"timePosted": 1436947320508
+}, {
+	"_id": "55a5f72d3050bbbe09590283",
+	"headline": "With fresh cash in hand, HackerRank wants to be the 'default resume' for coders | PCWorld",
+	"link": "http://www.pcworld.com/article/2948392/with-fresh-cash-in-hand-hackerrank-wants-to-be-the-default-resume-for-coders.html#tk.rss_all",
+	"description": "",
+	"author": {
+		"picture": "https://lh3.googleusercontent.com/--VtguSWLdek/AAAAAAAAAAI/AAAAAAAAAKQ/zNqfegRHi_M/photo.jpg",
+		"userId": "558707d4c1efe7451e6c325c",
+		"username": "ghander",
+		"email": "cen254@gmail.com"
+	},
+	"__v": 1,
+	"storyLink": "with fresh cash in hand hackerrank wants to be the default resume for coders pcworld",
+	"image": "http://images.techhive.com/images/article/2013/11/pcworld-idgns-primaryimage-100154539-gallery.png",
+	"comments": [],
+	"upVotes": [{
+		"upVotedBy": "558707d4c1efe7451e6c325c",
+		"upVotedByUsername": "ghander"
+	}, {
+		"upVotedByUsername": "michael",
+		"upVotedBy": "54fe05dc61db280b0051df92"
+	}],
+	"rank": 2,
+	"originalStoryAuthorEmail": "cen254@gmail.com",
+	"metaDescription": "The site's coding challenges help the best programmers rise to the top",
+	"timePosted": 1436940077455
+}, {
+	"_id": "55a28120e60c9c5d41a8e78a",
+	"headline": "Koding | Say goodbye to your localhost and code in the cloud.",
+	"link": "https://koding.com/",
+	"description": "This is a great way to get started learning the terminal",
+	"author": {
+		"picture": "https://lh3.googleusercontent.com/-QaLOu4fs8v8/AAAAAAAAAAI/AAAAAAAAAqY/y9mWkIoQzVw/photo.jpg",
+		"userId": "55a27bc1e60c9c5d41a8e783",
+		"username": "lovelyvector",
+		"email": "lovelyvector@gmail.com"
+	},
+	"__v": 46,
+	"storyLink": "koding say goodbye to your localhost and code in the cloud",
+	"image": "http://koding.com/a/site.landing/images/share.fb.jpg?af479ee0",
+	"comments": ["55a38173ad5254ab4dc4e186", "55a38df484045eb44df9b0c4", "55a3e6d6ad5254ab4dc4e27d", "55a4604c6f5465665abd7d3a", "55a4935c28cf57d35ee9dda2", "55a6665823a0ad32166b3c46"],
+	"upVotes": [{
+		"upVotedBy": "55a27bc1e60c9c5d41a8e783",
+		"upVotedByUsername": "lovelyvector"
+	}, {
+		"upVotedByUsername": "jlbalsamo",
+		"upVotedBy": "558383e99d07bf482d854cd0"
+	}, {
+		"upVotedByUsername": "jlormes",
+		"upVotedBy": "559fff893236c8ef05102506"
+	}, {
+		"upVotedByUsername": "dafuloth",
+		"upVotedBy": "559f68773eb191577f54a3b3"
+	}, {
+		"upVotedByUsername": "wyznaga",
+		"upVotedBy": "559f27c5ca9d98e27da15fcf"
+	}, {
+		"upVotedByUsername": "elliescode",
+		"upVotedBy": "54a4baa6975bfc0b0030b667"
+	}, {
+		"upVotedByUsername": "peer2stay",
+		"upVotedBy": "559cf3d9d0f832f91e27a1d9"
+	}, {
+		"upVotedByUsername": "sqamsqam",
+		"upVotedBy": "55a2d58ce60c9c5d41a8e8a3"
+	}, {
+		"upVotedByUsername": "michael",
+		"upVotedBy": "54fe05dc61db280b0051df92"
+	}, {
+		"upVotedByUsername": "jesse2015",
+		"upVotedBy": "55a2afdde60c9c5d41a8e824"
+	}, {
+		"upVotedByUsername": "nmarlowe",
+		"upVotedBy": "554284f9ec657dde23cb95d1"
+	}, {
+		"upVotedByUsername": "tlofgren",
+		"upVotedBy": "55a33c9584045eb44df9b032"
+	}, {
+		"upVotedByUsername": "davidb",
+		"upVotedBy": "55a22a59e60c9c5d41a8e6dd"
+	}, {
+		"upVotedByUsername": "imnasser1994",
+		"upVotedBy": "559fa2ff3eb191577f54a641"
+	}, {
+		"upVotedByUsername": "avambo",
+		"upVotedBy": "558dad696788ab3b45d4c9c6"
+	}, {
+		"upVotedByUsername": "aclbros",
+		"upVotedBy": "55a10111d9e6d9240c6a3741"
+	}, {
+		"upVotedByUsername": "giuturtu",
+		"upVotedBy": "55a3983884045eb44df9b0d2"
+	}, {
+		"upVotedByUsername": "bubuslubu",
+		"upVotedBy": "55043bcd4b1fab0b00390a52"
+	}, {
+		"upVotedByUsername": "cubesuperiority",
+		"upVotedBy": "559fda24dda85b4a7f78c410"
+	}, {
+		"upVotedByUsername": "juliawong",
+		"upVotedBy": "55a3b836ad5254ab4dc4e1f3"
+	}, {
+		"upVotedByUsername": "malyuhu",
+		"upVotedBy": "55a131bcd9e6d9240c6a37e8"
+	}, {
+		"upVotedByUsername": "apoole",
+		"upVotedBy": "55a025318981e72b06c0b6e2"
+	}, {
+		"upVotedByUsername": "carlostorrens",
+		"upVotedBy": "559f8428dda85b4a7f78bf9c"
+	}, {
+		"upVotedByUsername": "ghh0st",
+		"upVotedBy": "55a3aa19ad5254ab4dc4e1d5"
+	}, {
+		"upVotedByUsername": "joejmz",
+		"upVotedBy": "55a3d23584045eb44df9b170"
+	}, {
+		"upVotedByUsername": "mumelmann",
+		"upVotedBy": "55a175c1d9e6d9240c6a38b5"
+	}, {
+		"upVotedByUsername": "ferreret",
+		"upVotedBy": "55a3fcf384045eb44df9b1db"
+	}, {
+		"upVotedByUsername": "felipe_freitas",
+		"upVotedBy": "559f212300f7ee977d1b4764"
+	}, {
+		"upVotedByUsername": "evenstay",
+		"upVotedBy": "55a441936f5465665abd7cfc"
+	}, {
+		"upVotedByUsername": "chrisuk",
+		"upVotedBy": "559417806e7d3b7e314e3882"
+	}, {
+		"upVotedByUsername": "rsalner",
+		"upVotedBy": "559fcf32dda85b4a7f78c34b"
+	}, {
+		"upVotedByUsername": "ohmsainz",
+		"upVotedBy": "55a405c06f5465665abd7c59"
+	}, {
+		"upVotedByUsername": "eleonorsomosot",
+		"upVotedBy": "559f2eb600f7ee977d1b4832"
+	}, {
+		"upVotedByUsername": "akiralaine",
+		"upVotedBy": "553dc6e60cd9d50d775acd4f"
+	}, {
+		"upVotedByUsername": "mathieu_roy",
+		"upVotedBy": "557a697c35ea72e15f9542ee"
+	}, {
+		"upVotedByUsername": "krisvos130",
+		"upVotedBy": "54f5babbbae4d81700f391d1"
+	}, {
+		"upVotedByUsername": "ghander",
+		"upVotedBy": "558707d4c1efe7451e6c325c"
+	}, {
+		"upVotedByUsername": "jibaro009",
+		"upVotedBy": "55a56c62e58f7205652ef507"
+	}, {
+		"upVotedByUsername": "karink",
+		"upVotedBy": "552b5f4c131ef30b004571dd"
+	}, {
+		"upVotedByUsername": "bugron",
+		"upVotedBy": "559c1ec15c8414021fa328bf"
+	}, {
+		"upVotedByUsername": "ialbescu",
+		"upVotedBy": "55a6b06823a0ad32166b3cc3"
+	}],
+	"rank": 41,
+	"originalStoryAuthorEmail": "lovelyvector@gmail.com",
+	"metaDescription": "Koding is a cloud-based development environment complete with free VMs, IDE & sudo enabled terminal where you can learn Ruby, Go, Java, NodeJS, PHP, C, C++, Perl, Python, etc.",
+	"timePosted": 1436713248782
+}, {
+	"_id": "55a3ef5bad5254ab4dc4e29b",
+	"headline": "Text 2 Mind Map - Simple mind mapping online",
+	"link": "https://www.text2mindmap.com",
+	"description": "Pretty quick and easy.",
+	"author": {
+		"picture": "https://pbs.twimg.com/profile_images/378800000861615664/XjsRCwBu.jpeg",
+		"userId": "5480fda9f549e00b000213a5",
+		"username": "stevenkw",
+		"email": "stevenkw@gmail.com"
+	},
+	"__v": 11,
+	"storyLink": "text 2 mind map simple mind mapping online",
+	"image": "http://www.text2mindmap.com/assets/img/display.png",
+	"comments": ["55a4aeac4bc10e8f64383d68", "55a4b8e828cf57d35ee9ddef", "55a568d447815afc643c6db9"],
+	"upVotes": [{
+		"upVotedBy": "5480fda9f549e00b000213a5",
+		"upVotedByUsername": "stevenkw"
+	}, {
+		"upVotedByUsername": "michael",
+		"upVotedBy": "54fe05dc61db280b0051df92"
+	}, {
+		"upVotedByUsername": "capearman",
+		"upVotedBy": "55a4129e6f5465665abd7c85"
+	}, {
+		"upVotedByUsername": "unigiri",
+		"upVotedBy": "55a14f328404cb2b0c43df39"
+	}, {
+		"upVotedByUsername": "jlbalsamo",
+		"upVotedBy": "558383e99d07bf482d854cd0"
+	}, {
+		"upVotedByUsername": "avambo",
+		"upVotedBy": "558dad696788ab3b45d4c9c6"
+	}, {
+		"upVotedByUsername": "karink",
+		"upVotedBy": "552b5f4c131ef30b004571dd"
+	}, {
+		"upVotedByUsername": "jaredmpugh",
+		"upVotedBy": "55a55dece58f7205652ef4f0"
+	}, {
+		"upVotedByUsername": "frown",
+		"upVotedBy": "55083393a87b1e0b0002065d"
+	}],
+	"rank": 9,
+	"originalStoryAuthorEmail": "stevenkw@gmail.com",
+	"metaDescription": "",
+	"timePosted": 1436807003084
+}, {
+	"_id": "55a2b593e60c9c5d41a8e834",
+	"headline": "We NEED  Experienced Older Programmers",
+	"link": "http://blog.cleancoder.com/uncle-bob/2014/06/20/MyLawn.html",
+	"description": "An older programmer, regardless of their originating field,  brings value to a team,  many  qualities discussed are learned in any field",
+	"author": {
+		"picture": "https://lh3.googleusercontent.com/-cd7jZZ06Vig/AAAAAAAAAAI/AAAAAAAAABk/ew4SUdnUxsc/photo.jpg",
+		"userId": "552b5f4c131ef30b004571dd",
+		"username": "karink",
+		"email": "krachtusk@gmail.com"
+	},
+	"__v": 27,
+	"storyLink": "we need experienced older programmers",
+	"image": "",
+	"comments": ["55a3395284045eb44df9b02b", "55a5af7a416d27f97c5a0046", "55a670d523a0ad32166b3c57", "55a820297e19adb178c2e400"],
+	"upVotes": [{
+		"upVotedBy": "552b5f4c131ef30b004571dd",
+		"upVotedByUsername": "karink"
+	}, {
+		"upVotedByUsername": "michael",
+		"upVotedBy": "54fe05dc61db280b0051df92"
+	}, {
+		"upVotedByUsername": "stevenkw",
+		"upVotedBy": "5480fda9f549e00b000213a5"
+	}, {
+		"upVotedByUsername": "hurseyk",
+		"upVotedBy": "559ff9c6dda85b4a7f78c5c0"
+	}, {
+		"upVotedByUsername": "shannonfears",
+		"upVotedBy": "559f8dcd3eb191577f54a55a"
+	}, {
+		"upVotedByUsername": "bwelds",
+		"upVotedBy": "55a0a6b22b4015500bd64afe"
+	}, {
+		"upVotedByUsername": "nmarlowe",
+		"upVotedBy": "554284f9ec657dde23cb95d1"
+	}, {
+		"upVotedByUsername": "slvrsrfr",
+		"upVotedBy": "55a055d50214a74f06fc56f8"
+	}, {
+		"upVotedByUsername": "jlbalsamo",
+		"upVotedBy": "558383e99d07bf482d854cd0"
+	}, {
+		"upVotedByUsername": "jarcelao",
+		"upVotedBy": "55a33ccfad5254ab4dc4e115"
+	}, {
+		"upVotedByUsername": "stacifitz",
+		"upVotedBy": "55a0206f0358222406a6653f"
+	}, {
+		"upVotedByUsername": "browngd",
+		"upVotedBy": "55a2d47ce60c9c5d41a8e89f"
+	}, {
+		"upVotedByUsername": "roadcat",
+		"upVotedBy": "55a23159e60c9c5d41a8e6eb"
+	}, {
+		"upVotedByUsername": "nitramv",
+		"upVotedBy": "559feece3eb191577f54a9af"
+	}, {
+		"upVotedByUsername": "mutantspore",
+		"upVotedBy": "558cb73e593b0cf1293bbc90"
+	}, {
+		"upVotedByUsername": "siriatma",
+		"upVotedBy": "559feb0edda85b4a7f78c505"
+	}, {
+		"upVotedByUsername": "cloverleafbane",
+		"upVotedBy": "559eef8d7c55ed707db7b44b"
+	}, {
+		"upVotedByUsername": "luke_jordan",
+		"upVotedBy": "55a001d33236c8ef0510251f"
+	}, {
+		"upVotedByUsername": "gipsitana",
+		"upVotedBy": "554123d1d89a393f4f8974b5"
+	}, {
+		"upVotedByUsername": "andremw",
+		"upVotedBy": "559fd39e3eb191577f54a89a"
+	}, {
+		"upVotedByUsername": "peer2stay",
+		"upVotedBy": "559cf3d9d0f832f91e27a1d9"
+	}, {
+		"upVotedByUsername": "javierllamas",
+		"upVotedBy": "55a4018a84045eb44df9b1e9"
+	}, {
+		"upVotedByUsername": "wcsltd",
+		"upVotedBy": "559fce80dda85b4a7f78c338"
+	}, {
+		"upVotedByUsername": "dickyw71",
+		"upVotedBy": "55a0eae42b4015500bd64bbc"
+	}],
+	"rank": 24,
+	"originalStoryAuthorEmail": "krachtusk@gmail.com",
+	"metaDescription": "",
+	"timePosted": 1436726675223
+}, {
+	"_id": "55a6405e87bcfb840dc15655",
+	"headline": "Using Node.js with Visual Studio Code",
+	"link": "http://www.microsoftvirtualacademy.com/liveevents/using-node-js-with-visual-studio-code?prid=ut-t",
+	"description": "Free live event, see how to use Visual Studio Code to create sites using Node.js",
+	"author": {
+		"picture": "http://i.imgur.com/PpTeWGE.jpg",
+		"userId": "54ff8231502b5b0b00ab8cf3",
+		"username": "danielraley",
+		"email": "danielraleydev@gmail.com"
+	},
+	"__v": 0,
+	"storyLink": "using nodejs with visual studio code",
+	"image": "http://mvastorage.microsoft.com/public/images/MVA-share-logo.png",
+	"comments": [],
+	"upVotes": [{
+		"upVotedBy": "54ff8231502b5b0b00ab8cf3",
+		"upVotedByUsername": "danielraley"
+	}],
+	"rank": 1,
+	"originalStoryAuthorEmail": "danielraleydev@gmail.com",
+	"metaDescription": "",
+	"timePosted": 1436958814768
+}, {
+	"_id": "55a4584c6f5465665abd7d30",
+	"headline": "9 programming language stereotypes ",
+	"link": "http://www.businessinsider.com/9-programming-language-stereotypes-2015-7",
+	"description": "as someone who LOVES Ruby and Rails I see it. I like the excitment of new things, projects ideas and enviroments.",
+	"author": {
+		"picture": "https://lh3.googleusercontent.com/-cd7jZZ06Vig/AAAAAAAAAAI/AAAAAAAAABk/ew4SUdnUxsc/photo.jpg",
+		"userId": "552b5f4c131ef30b004571dd",
+		"username": "karink",
+		"email": "krachtusk@gmail.com"
+	},
+	"__v": 6,
+	"storyLink": "9 programming language stereotypes",
+	"image": "http://static2.businessinsider.com/image/55a06ca6ecad044b74f7425c/what-your-favorite-programming-language-says-about-you.jpg",
+	"comments": ["55a519b747815afc643c6ceb", "55a5b326a78818927d0edc92"],
+	"upVotes": [{
+		"upVotedBy": "552b5f4c131ef30b004571dd",
+		"upVotedByUsername": "karink"
+	}, {
+		"upVotedByUsername": "michael",
+		"upVotedBy": "54fe05dc61db280b0051df92"
+	}, {
+		"upVotedByUsername": "gsosa",
+		"upVotedBy": "559f53f53eb191577f54a2d1"
+	}, {
+		"upVotedByUsername": "jlbalsamo",
+		"upVotedBy": "558383e99d07bf482d854cd0"
+	}, {
+		"upVotedByUsername": "audreyjean",
+		"upVotedBy": "559f34fdca9d98e27da160b4"
+	}],
+	"rank": 5,
+	"originalStoryAuthorEmail": "krachtusk@gmail.com",
+	"metaDescription": "How computer coders' choice of programming languages reflects upon their personality traits.",
+	"timePosted": 1436833868284
+}, {
+	"_id": "55a4eb5647815afc643c6c70",
+	"headline": "Learn javascript in one picture",
+	"link": "https://github.com/coodict/javascript-in-one-pic",
+	"description": "",
+	"author": {
+		"picture": "https://pbs.twimg.com/profile_images/378800000633719904/e83f3f74cae11010d32397e94b8bc09b_400x400.jpeg",
+		"userId": "559c1ec15c8414021fa328bf",
+		"username": "bugron",
+		"email": "bugron@mail.ru"
+	},
+	"__v": 2,
+	"storyLink": "learn javascript in one picture",
+	"image": "https://avatars2.githubusercontent.com/u/12936068?v=3&s=400",
+	"comments": [],
+	"upVotes": [{
+		"upVotedBy": "559c1ec15c8414021fa328bf",
+		"upVotedByUsername": "bugron"
+	}, {
+		"upVotedByUsername": "michael",
+		"upVotedBy": "54fe05dc61db280b0051df92"
+	}, {
+		"upVotedByUsername": "josediaz",
+		"upVotedBy": "55a9a8ac7e19adb178c2e62d"
+	}],
+	"rank": 3,
+	"originalStoryAuthorEmail": "bugron@mail.ru",
+	"metaDescription": "javascript-in-one-pic - Learn javascript in one picture.",
+	"timePosted": 1436871510455
+}, {
+	"_id": "55a450a26f5465665abd7d1e",
+	"headline": "JavaScript Practices Make Perfect - CodeProject",
+	"link": "http://www.codeproject.com/Articles/1008911/JavaScript-Practices-Make-Perfect",
+	"description": "",
+	"author": {
+		"picture": "https://lh3.googleusercontent.com/-cd7jZZ06Vig/AAAAAAAAAAI/AAAAAAAAABk/ew4SUdnUxsc/photo.jpg",
+		"userId": "552b5f4c131ef30b004571dd",
+		"username": "karink",
+		"email": "krachtusk@gmail.com"
+	},
+	"__v": 4,
+	"storyLink": "javascript practices make perfect codeproject",
+	"image": "",
+	"comments": [],
+	"upVotes": [{
+		"upVotedBy": "552b5f4c131ef30b004571dd",
+		"upVotedByUsername": "karink"
+	}, {
+		"upVotedByUsername": "michael",
+		"upVotedBy": "54fe05dc61db280b0051df92"
+	}, {
+		"upVotedByUsername": "monoxide",
+		"upVotedBy": "55a3cf11ad5254ab4dc4e232"
+	}, {
+		"upVotedByUsername": "cnw18",
+		"upVotedBy": "55a45d1f28cf57d35ee9dcea"
+	}, {
+		"upVotedByUsername": "jlbalsamo",
+		"upVotedBy": "558383e99d07bf482d854cd0"
+	}],
+	"rank": 5,
+	"originalStoryAuthorEmail": "krachtusk@gmail.com",
+	"metaDescription": "",
+	"timePosted": 1436831906349
+}, {
+	"_id": "55a4dd1a47815afc643c6c57",
+	"headline": "Five JavaScript Errors That Attack Without Warning",
+	"link": "http://davidwalsh.name/javascript-errors-attack-warning",
+	"description": "JavaScript errors that impact your apps today, without you even knowing about the problem. ",
+	"author": {
+		"picture": "https://pbs.twimg.com/profile_images/378800000633719904/e83f3f74cae11010d32397e94b8bc09b_400x400.jpeg",
+		"userId": "559c1ec15c8414021fa328bf",
+		"username": "bugron",
+		"email": "bugron@mail.ru"
+	},
+	"__v": 2,
+	"storyLink": "five javascript errors that attack without warning",
+	"image": "http://davidwalsh.name/demo/JavaScriptListImage.png",
+	"comments": [],
+	"upVotes": [{
+		"upVotedBy": "559c1ec15c8414021fa328bf",
+		"upVotedByUsername": "bugron"
+	}, {
+		"upVotedByUsername": "michael",
+		"upVotedBy": "54fe05dc61db280b0051df92"
+	}, {
+		"upVotedByUsername": "yuutakashi",
+		"upVotedBy": "55a5212147815afc643c6d04"
+	}],
+	"rank": 3,
+	"originalStoryAuthorEmail": "bugron@mail.ru",
+	"metaDescription": "TrackJS is an excellent JavaScript error monitoring service. Even better, it's free!",
+	"timePosted": 1436867866961
+}, {
+	"_id": "55a55096e58f7205652ef4da",
+	"headline": "Microsoft Introduction to Bootstrap – A Tutorial | edX",
+	"link": "https://www.edx.org/course/introduction-bootstrap-tutorial-microsoft-dev203x-0",
+	"description": "Learn how to use Bootstrap to implement mobile first web pages with CSS and JavaScript.",
+	"author": {
+		"picture": "https://pbs.twimg.com/profile_images/620213091343667200/oM5qGzLd.png",
+		"userId": "559f6de33eb191577f54a3ee",
+		"username": "afaisalsahar",
+		"email": "fsahar@live.com"
+	},
+	"__v": 1,
+	"storyLink": "microsoft introduction to bootstrap a tutorial edx",
+	"image": "",
+	"comments": [],
+	"upVotes": [{
+		"upVotedBy": "559f6de33eb191577f54a3ee",
+		"upVotedByUsername": "afaisalsahar"
+	}, {
+		"upVotedByUsername": "turtleman",
+		"upVotedBy": "5579907e8d4088434095f18f"
+	}],
+	"rank": 2,
+	"originalStoryAuthorEmail": "fsahar@live.com",
+	"metaDescription": "Learn how to use Bootstrap to implement mobile first web pages with CSS and JavaScript.",
+	"timePosted": 1436897430595
+}, {
+	"_id": "55a4852228cf57d35ee9dd74",
+	"headline": "How Techies Can Volunteer Their Skills To Help Nonprofits - TechRepublic",
+	"link": "http://www.techrepublic.com/article/how-techies-can-volunteer-their-skills-to-help-nonprofits/",
+	"description": "",
+	"author": {
+		"picture": "https://lh5.googleusercontent.com/-TKL87JhXn-g/AAAAAAAAAAI/AAAAAAAACqU/0tVLA-DV-gY/photo.jpg",
+		"userId": "5497f7a1e356230b001acec8",
+		"username": "duttakapil",
+		"email": "kapil.dutta28@gmail.com"
+	},
+	"__v": 3,
+	"storyLink": "how techies can volunteer their skills to help nonprofits techrepublic",
+	"image": "http://tr1.cbsistatic.com/hub/i/2015/07/10/41c8309f-26e6-456a-be7d-07f140fbf4f2/istock000051815258small.jpg",
+	"comments": [],
+	"upVotes": [{
+		"upVotedBy": "5497f7a1e356230b001acec8",
+		"upVotedByUsername": "duttakapil"
+	}, {
+		"upVotedByUsername": "michael",
+		"upVotedBy": "54fe05dc61db280b0051df92"
+	}, {
+		"upVotedByUsername": "blafave",
+		"upVotedBy": "55a57342e58f7205652ef514"
+	}, {
+		"upVotedByUsername": "sadiepants",
+		"upVotedBy": "55a6a97223a0ad32166b3cba"
+	}],
+	"rank": 4,
+	"originalStoryAuthorEmail": "kapil.dutta28@gmail.com",
+	"metaDescription": "Hopefully, we all want to use our talents to give back to our communities and people in need. Here are some ways you can use IT skills to help nonprofits and social good causes.",
+	"timePosted": 1436845346229
+}, {
+	"_id": "55a60c8e87bcfb840dc1561b",
+	"headline": "Free camp for kids, full of fun science activities and adventures led by experts. ",
+	"link": "https://camp.withgoogle.com/",
+	"description": "",
+	"author": {
+		"picture": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg",
+		"userId": "554e353d8c7fd95f26affbac",
+		"username": "ekojsalim",
+		"email": "ekojsalim@gmail.com"
+	},
+	"__v": 0,
+	"storyLink": "free camp for kids full of fun science activities and adventures led by experts",
+	"image": "",
+	"comments": [],
+	"upVotes": [{
+		"upVotedBy": "554e353d8c7fd95f26affbac",
+		"upVotedByUsername": "ekojsalim"
+	}],
+	"rank": 1,
+	"originalStoryAuthorEmail": "ekojsalim@gmail.com",
+	"metaDescription": "",
+	"timePosted": 1436945550231
+}, {
+	"_id": "55a5f2c6416d27f97c5a00a7",
+	"headline": "  Mini Internships for College Students | MindSumo",
+	"link": "https://www.mindsumo.com/",
+	"description": "Solve projects from real companies to gain experience and earn money. Use Promocode: LI14F68B https://www.mindsumo.com/?r=inH&amp;su=109115",
+	"author": {
+		"picture": "https://graph.facebook.com/1185658604781327/picture?type=large",
+		"userId": "55a5dc69416d27f97c5a008c",
+		"username": "livingforgod1991",
+		"email": "readtobuild@gmail.com"
+	},
+	"__v": 0,
+	"storyLink": "mini internships for college students mindsumo",
+	"image": "https://d18qs7yq39787j.cloudfront.net/public/shareimage.jpg",
+	"comments": [],
+	"upVotes": [{
+		"upVotedBy": "55a5dc69416d27f97c5a008c",
+		"upVotedByUsername": "livingforgod1991"
+	}],
+	"rank": 1,
+	"originalStoryAuthorEmail": "readtobuild@gmail.com",
+	"metaDescription": "MindSumo connects college students and companies. Solve challenges to prove your skills, win cash prizes, and land jobs.",
+	"timePosted": 1436938950612
+}, {
+	"_id": "55a4adc84bc10e8f64383d67",
+	"headline": "Interview: How to Join a Major Open Source Project",
+	"link": "http://www.sitepoint.com/interview-join-major-open-source-project/",
+	"description": "",
+	"author": {
+		"picture": "https://lh4.googleusercontent.com/-DpFkNnvd6Uk/AAAAAAAAAAI/AAAAAAAAAEg/YTE7r7JCyak/photo.jpg",
+		"userId": "54a4baa6975bfc0b0030b667",
+		"username": "elliescode",
+		"email": "arttaielli@gmail.com"
+	},
+	"__v": 2,
+	"storyLink": "interview how to join a major open source project",
+	"image": "http://www.sitepoint.com/wp-content/themes/sitepoint/assets/images/icon.javascript.png",
+	"comments": [],
+	"upVotes": [{
+		"upVotedBy": "54a4baa6975bfc0b0030b667",
+		"upVotedByUsername": "elliescode"
+	}, {
+		"upVotedByUsername": "michael",
+		"upVotedBy": "54fe05dc61db280b0051df92"
+	}, {
+		"upVotedByUsername": "yuutakashi",
+		"upVotedBy": "55a5212147815afc643c6d04"
+	}],
+	"rank": 3,
+	"originalStoryAuthorEmail": "arttaielli@gmail.com",
+	"metaDescription": "What's the best way to start contributing to open source? That's the question we asked Aurelio DeRosa, who was recently invited to join the jQuery team.",
+	"timePosted": 1436855752120
+}, {
+	"_id": "55a4ea52e58f7205652ef3f1",
+	"headline": "ES6 Katas - learn ECMAScript6 by doing it",
+	"link": "http://es6katas.org/",
+	"description": "Just learn a bit of ECMAScript6 daily, take one kata a day and fix it away.",
+	"author": {
+		"picture": "https://pbs.twimg.com/profile_images/378800000633719904/e83f3f74cae11010d32397e94b8bc09b_400x400.jpeg",
+		"userId": "559c1ec15c8414021fa328bf",
+		"username": "bugron",
+		"email": "bugron@mail.ru"
+	},
+	"__v": 1,
+	"storyLink": "es6 katas learn ecmascript6 by doing it",
+	"image": "",
+	"comments": [],
+	"upVotes": [{
+		"upVotedBy": "559c1ec15c8414021fa328bf",
+		"upVotedByUsername": "bugron"
+	}, {
+		"upVotedByUsername": "cparrish",
+		"upVotedBy": "559ecb01dd542fe9756c2a40"
+	}],
+	"rank": 2,
+	"originalStoryAuthorEmail": "bugron@mail.ru",
+	"metaDescription": "",
+	"timePosted": 1436871250233
+}, {
+	"_id": "55a46ac86f5465665abd7d51",
+	"headline": "The Disadvantages of Single Page Applications ",
+	"link": "http://adamsilver.io/articles/the-disadvantages-of-single-page-applications/",
+	"description": "",
+	"author": {
+		"picture": "https://lh5.googleusercontent.com/-TKL87JhXn-g/AAAAAAAAAAI/AAAAAAAACqU/0tVLA-DV-gY/photo.jpg",
+		"userId": "5497f7a1e356230b001acec8",
+		"username": "duttakapil",
+		"email": "kapil.dutta28@gmail.com"
+	},
+	"__v": 2,
+	"storyLink": "the disadvantages of single page applications",
+	"image": "",
+	"comments": [],
+	"upVotes": [{
+		"upVotedBy": "5497f7a1e356230b001acec8",
+		"upVotedByUsername": "duttakapil"
+	}, {
+		"upVotedByUsername": "michael",
+		"upVotedBy": "54fe05dc61db280b0051df92"
+	}, {
+		"upVotedByUsername": "jlbalsamo",
+		"upVotedBy": "558383e99d07bf482d854cd0"
+	}],
+	"rank": 3,
+	"originalStoryAuthorEmail": "kapil.dutta28@gmail.com",
+	"metaDescription": "",
+	"timePosted": 1436838600783
+}, {
+	"_id": "55a4e0afe58f7205652ef3e0",
+	"headline": "Simplicity Is Good. Ease Is Better.",
+	"link": "http://mashable.com/2014/09/10/simplicity-its-complicated/",
+	"description": "",
+	"author": {
+		"picture": "http://i.imgur.com/m9SbBKs.png",
+		"userId": "558dad696788ab3b45d4c9c6",
+		"username": "avambo",
+		"email": "alexanderwulkan@hotmail.com"
+	},
+	"__v": 1,
+	"storyLink": "simplicity is good ease is better",
+	"image": "http://rack.1.mshcdn.com/media/ZgkyMDE0LzA5LzEwLzUyL1NpbXBsaWNpdHkuNTUxNGUuanBnCnAJdGh1bWIJMTIwMHg2MjcjCmUJanBn/7dddab47/75b/Simplicity.jpg",
+	"comments": [],
+	"upVotes": [{
+		"upVotedBy": "558dad696788ab3b45d4c9c6",
+		"upVotedByUsername": "avambo"
+	}, {
+		"upVotedByUsername": "crivera76",
+		"upVotedBy": "55a6508d87bcfb840dc1566e"
+	}],
+	"rank": 2,
+	"originalStoryAuthorEmail": "alexanderwulkan@hotmail.com",
+	"metaDescription": "In our enthusiasm for making elements, widgets, and products simple, we need to avoid overshooting the target.",
+	"timePosted": 1436868783718
+}, {
+	"_id": "55a5a5c8416d27f97c5a0041",
+	"headline": "Search for programming languages or frameworks | Techether",
+	"link": "http://techether.com/",
+	"description": "",
+	"author": {
+		"picture": "https://lh5.googleusercontent.com/-TKL87JhXn-g/AAAAAAAAAAI/AAAAAAAACqU/0tVLA-DV-gY/photo.jpg",
+		"userId": "5497f7a1e356230b001acec8",
+		"username": "duttakapil",
+		"email": "kapil.dutta28@gmail.com"
+	},
+	"__v": 0,
+	"storyLink": "search for programming languages or frameworks techether",
+	"image": "",
+	"comments": [],
+	"upVotes": [{
+		"upVotedBy": "5497f7a1e356230b001acec8",
+		"upVotedByUsername": "duttakapil"
+	}],
+	"rank": 1,
+	"originalStoryAuthorEmail": "kapil.dutta28@gmail.com",
+	"metaDescription": "We help you find the best learning material for all programming languages and frameworks. Come contribute to the vast database of technology-learning resources!",
+	"timePosted": 1436919240508
+}, {
+	"_id": "55a4b0f64bc10e8f64383d72",
+	"headline": "Cloud9 - Your development environment, in the cloud",
+	"link": "https://c9.io/",
+	"description": "A great platform if you don't want to utilize an IDE on your machine. Keeps all your files in the cloud to work from any computer.",
+	"author": {
+		"picture": "https://lh4.googleusercontent.com/-0iJPZNKPQ2U/AAAAAAAAAAI/AAAAAAAAQvI/FM7xNvJy4do/photo.jpg",
+		"userId": "5563fd27757f6999283f2b86",
+		"username": "sethalexander",
+		"email": "seth.a.alexander@gmail.com"
+	},
+	"__v": 2,
+	"storyLink": "cloud9 your development environment in the cloud",
+	"image": "",
+	"comments": ["55a5315a47815afc643c6d38"],
+	"upVotes": [{
+		"upVotedBy": "5563fd27757f6999283f2b86",
+		"upVotedByUsername": "sethalexander"
+	}, {
+		"upVotedByUsername": "karink",
+		"upVotedBy": "552b5f4c131ef30b004571dd"
+	}],
+	"rank": 2,
+	"originalStoryAuthorEmail": "seth.a.alexander@gmail.com",
+	"metaDescription": "Cloud9 combines a powerful online code editor with a full Ubuntu workspace in the cloud. Cloud9 supports more than 40 languages, with class A support for PHP, Ruby, Python, JavaScript, Go, and more.",
+	"timePosted": 1436856566731
+}, {
+	"_id": "55a4af3428cf57d35ee9ddda",
+	"headline": "6 Ways to Become a Programmer - wikiHow",
+	"link": "http://www.wikihow.com/Become-a-Programmer",
+	"description": "",
+	"author": {
+		"picture": "https://lh4.googleusercontent.com/-DpFkNnvd6Uk/AAAAAAAAAAI/AAAAAAAAAEg/YTE7r7JCyak/photo.jpg",
+		"userId": "54a4baa6975bfc0b0030b667",
+		"username": "elliescode",
+		"email": "arttaielli@gmail.com"
+	},
+	"__v": 1,
+	"storyLink": "6 ways to become a programmer wikihow",
+	"image": "http://www.wikihow.com/images/7/7d/83-1.jpg",
+	"comments": [],
+	"upVotes": [{
+		"upVotedBy": "54a4baa6975bfc0b0030b667",
+		"upVotedByUsername": "elliescode"
+	}, {
+		"upVotedByUsername": "michael",
+		"upVotedBy": "54fe05dc61db280b0051df92"
+	}],
+	"rank": 2,
+	"originalStoryAuthorEmail": "arttaielli@gmail.com",
+	"metaDescription": "How to Become a Programmer. Becoming a programmer is a cumulative process that builds up your skills day after day and year after year, and programming can be fun and rewarding (mentally, spiritually and financially). This guide does not...",
+	"timePosted": 1436856116966
+}, {
+	"_id": "55a4ae3428cf57d35ee9ddd5",
+	"headline": "HOW TO BECOME A COMPUTER PROGRAMMER: COMPUTER PROGRAMMING CAREERS",
+	"link": "http://www.learnhowtobecome.org/computer-programmer/",
+	"description": "",
+	"author": {
+		"picture": "https://lh4.googleusercontent.com/-DpFkNnvd6Uk/AAAAAAAAAAI/AAAAAAAAAEg/YTE7r7JCyak/photo.jpg",
+		"userId": "54a4baa6975bfc0b0030b667",
+		"username": "elliescode",
+		"email": "arttaielli@gmail.com"
+	},
+	"__v": 1,
+	"storyLink": "how to become a computer programmer computer programming careers",
+	"image": "http://www.learnhowtobecome.org/wp-content/themes/howtobecome/images/career/search-pro-icn.png",
+	"comments": [],
+	"upVotes": [{
+		"upVotedBy": "54a4baa6975bfc0b0030b667",
+		"upVotedByUsername": "elliescode"
+	}, {
+		"upVotedByUsername": "ozymandiez",
+		"upVotedBy": "55aac18757e2f6eb2a760cfb"
+	}],
+	"rank": 2,
+	"originalStoryAuthorEmail": "arttaielli@gmail.com",
+	"metaDescription": "Learn about the education, practical steps, and experience you’ll need to become a Computer Programmer",
+	"timePosted": 1436855860578
+}, {
+	"_id": "55a2efc084045eb44df9af87",
+	"headline": "Forget About Setting Goals, Work On Habits Instead | Blog",
+	"link": "http://blog.crew.co/habits-and-systems-not-goals/",
+	"description": "",
+	"author": {
+		"picture": "https://lh5.googleusercontent.com/-TKL87JhXn-g/AAAAAAAAAAI/AAAAAAAACqU/0tVLA-DV-gY/photo.jpg",
+		"userId": "5497f7a1e356230b001acec8",
+		"username": "duttakapil",
+		"email": "kapil.dutta28@gmail.com"
+	},
+	"__v": 11,
+	"storyLink": "forget about setting goals work on habits instead blog",
+	"image": "http://blog-pickcrew.s3.amazonaws.com/wp-content/uploads/2015/01/dock1.jpeg",
+	"comments": ["55a3ca23ad5254ab4dc4e221", "55a4d3e047815afc643c6c49", "55a8a07ddc345ceb789b5d5e"],
+	"upVotes": [{
+		"upVotedBy": "5497f7a1e356230b001acec8",
+		"upVotedByUsername": "duttakapil"
+	}, {
+		"upVotedByUsername": "stratocaster",
+		"upVotedBy": "559fe152dda85b4a7f78c47b"
+	}, {
+		"upVotedByUsername": "strobbe",
+		"upVotedBy": "55a3b69d84045eb44df9b113"
+	}, {
+		"upVotedByUsername": "ericdouglas",
+		"upVotedBy": "54bb06e2d6f6d40c0067f581"
+	}, {
+		"upVotedByUsername": "davefurneaux",
+		"upVotedBy": "55a402dd6f5465665abd7c4d"
+	}, {
+		"upVotedByUsername": "michael",
+		"upVotedBy": "54fe05dc61db280b0051df92"
+	}, {
+		"upVotedByUsername": "juanjlopez",
+		"upVotedBy": "55a4bb2328cf57d35ee9ddf8"
+	}, {
+		"upVotedByUsername": "therealramona",
+		"upVotedBy": "559fc1f1dda85b4a7f78c27e"
+	}, {
+		"upVotedByUsername": "garysmeade",
+		"upVotedBy": "55a7865fdc345ceb789b5bd0"
+	}],
+	"rank": 9,
+	"originalStoryAuthorEmail": "kapil.dutta28@gmail.com",
+	"metaDescription": "Even if New Year’s Resolutions aren’t your thing the start of a new year is a good time to reflect and evaluate your progress in the past 12 months. But when it comes to making big changes in your life, […]",
+	"timePosted": 1436741568687
+}, {
+	"_id": "55a5563947815afc643c6d8a",
+	"headline": "Danger's rules for working remotely",
+	"link": "https://jdanger.com/danger-s-rules-for-working-remotely.html",
+	"description": "",
+	"author": {
+		"picture": "http://i.imgur.com/MdOzBC3.jpge-placeholder.png",
+		"userId": "54fe05dc61db280b0051df92",
+		"username": "michael",
+		"email": "mkemo8870@yahoo.com"
+	},
+	"__v": 0,
+	"storyLink": "dangers rules for working remotely",
+	"image": "",
+	"comments": [],
+	"upVotes": [{
+		"upVotedBy": "54fe05dc61db280b0051df92",
+		"upVotedByUsername": "michael"
+	}],
+	"rank": 1,
+	"originalStoryAuthorEmail": "mkemo8870@yahoo.com",
+	"metaDescription": "",
+	"timePosted": 1436898873514
+}, {
+	"_id": "55a2ebe784045eb44df9af7f",
+	"headline": "Fixing Interface Issues | ProgrammerHumor",
+	"link": "http://i.imgur.com/NstHDCy.png?1",
+	"description": "",
+	"author": {
+		"picture": "https://lh5.googleusercontent.com/-TKL87JhXn-g/AAAAAAAAAAI/AAAAAAAACqU/0tVLA-DV-gY/photo.jpg",
+		"userId": "5497f7a1e356230b001acec8",
+		"username": "duttakapil",
+		"email": "kapil.dutta28@gmail.com"
+	},
+	"__v": 8,
+	"storyLink": "fixing interface issues programmerhumor",
+	"image": "",
+	"comments": ["55a3b79b84045eb44df9b116"],
+	"upVotes": [{
+		"upVotedBy": "5497f7a1e356230b001acec8",
+		"upVotedByUsername": "duttakapil"
+	}, {
+		"upVotedByUsername": "bobandra",
+		"upVotedBy": "559f359fca9d98e27da160c1"
+	}, {
+		"upVotedByUsername": "tlofgren",
+		"upVotedBy": "55a33c9584045eb44df9b032"
+	}, {
+		"upVotedByUsername": "augustas",
+		"upVotedBy": "559ec15bba85c0db72e1128c"
+	}, {
+		"upVotedByUsername": "michael",
+		"upVotedBy": "54fe05dc61db280b0051df92"
+	}, {
+		"upVotedByUsername": "jlbalsamo",
+		"upVotedBy": "558383e99d07bf482d854cd0"
+	}, {
+		"upVotedByUsername": "luke_jordan",
+		"upVotedBy": "55a001d33236c8ef0510251f"
+	}, {
+		"upVotedByUsername": "russcarroll",
+		"upVotedBy": "55a3cdcead5254ab4dc4e22d"
+	}],
+	"rank": 8,
+	"originalStoryAuthorEmail": "kapil.dutta28@gmail.com",
+	"metaDescription": "",
+	"timePosted": 1436740583135
+}, {
+	"_id": "55a54d70e58f7205652ef4d5",
+	"headline": "9 JavaScript Libraries for Working with Local Storage",
+	"link": "http://www.sitepoint.com/9-javascript-libraries-working-with-local-storage/",
+	"description": "",
+	"author": {
+		"picture": "https://lh4.googleusercontent.com/-DpFkNnvd6Uk/AAAAAAAAAAI/AAAAAAAAAEg/YTE7r7JCyak/photo.jpg",
+		"userId": "54a4baa6975bfc0b0030b667",
+		"username": "elliescode",
+		"email": "arttaielli@gmail.com"
+	},
+	"__v": 0,
+	"storyLink": "9 javascript libraries for working with local storage",
+	"image": "http://www.sitepoint.com/wp-content/themes/sitepoint/assets/images/icon.html-css.png",
+	"comments": [],
+	"upVotes": [{
+		"upVotedBy": "54a4baa6975bfc0b0030b667",
+		"upVotedByUsername": "elliescode"
+	}],
+	"rank": 1,
+	"originalStoryAuthorEmail": "arttaielli@gmail.com",
+	"metaDescription": "HTML5's Local Storage API has fantastic browser support and there are plenty of neat little tools and utilities that ease its use, 9 of which are examined here.",
+	"timePosted": 1436896624789
+}, {
+	"_id": "55a54cf547815afc643c6d79",
+	"headline": "Crash Course | Smarty",
+	"link": "http://www.smarty.net/crash_course",
+	"description": "",
+	"author": {
+		"picture": "https://lh4.googleusercontent.com/-DpFkNnvd6Uk/AAAAAAAAAAI/AAAAAAAAAEg/YTE7r7JCyak/photo.jpg",
+		"userId": "54a4baa6975bfc0b0030b667",
+		"username": "elliescode",
+		"email": "arttaielli@gmail.com"
+	},
+	"__v": 0,
+	"storyLink": "crash course smarty",
+	"image": "",
+	"comments": [],
+	"upVotes": [{
+		"upVotedBy": "54a4baa6975bfc0b0030b667",
+		"upVotedByUsername": "elliescode"
+	}],
+	"rank": 1,
+	"originalStoryAuthorEmail": "arttaielli@gmail.com",
+	"metaDescription": "Learn Smarty quickly.",
+	"timePosted": 1436896501823
+}, {
+	"_id": "55a532e2e58f7205652ef49c",
+	"headline": "Mozilla Firefox temporarily blocks Flash by default | PCWorld",
+	"link": "http://www.pcworld.com/article/2948115/browsers/mozilla-firefox-temporarily-blocks-flash-by-default.html",
+	"description": "",
+	"author": {
+		"picture": "http://i.imgur.com/MdOzBC3.jpge-placeholder.png",
+		"userId": "54fe05dc61db280b0051df92",
+		"username": "michael",
+		"email": "mkemo8870@yahoo.com"
+	},
+	"__v": 0,
+	"storyLink": "mozilla firefox temporarily blocks flash by default pcworld",
+	"image": "http://images.techhive.com/images/article/2013/08/firefox-mac-icon-100051847-gallery.png",
+	"comments": [],
+	"upVotes": [{
+		"upVotedBy": "54fe05dc61db280b0051df92",
+		"upVotedByUsername": "michael"
+	}],
+	"rank": 1,
+	"originalStoryAuthorEmail": "mkemo8870@yahoo.com",
+	"metaDescription": "Mozilla's Firefox has had enough of Flash and its security problems, at least for now.",
+	"timePosted": 1436889826604
+}, {
+	"_id": "55a1d953160558ca0902a3d6",
+	"headline": "The Secret Startup That Saved the Worst Website in America - The Atlantic",
+	"link": "http://www.theatlantic.com/technology/archive/2015/07/the-secret-startup-saved-healthcare-gov-the-worst-website-in-america/397784/",
+	"description": "",
+	"author": {
+		"picture": "https://pbs.twimg.com/profile_images/378800000861615664/XjsRCwBu.jpeg",
+		"userId": "5480fda9f549e00b000213a5",
+		"username": "stevenkw",
+		"email": "stevenkw@gmail.com"
+	},
+	"__v": 17,
+	"storyLink": "the secret startup that saved the worst website in america the atlantic",
+	"image": "http://cdn.theatlantic.com/assets/media/img/mt/2015/07/nava_6/facebook.jpg?GE2DGNRSHE4DEMZQFYYA====",
+	"comments": [],
+	"upVotes": [{
+		"upVotedBy": "5480fda9f549e00b000213a5",
+		"upVotedByUsername": "stevenkw"
+	}, {
+		"upVotedByUsername": "davidgkissinger",
+		"upVotedBy": "55a20f68e60c9c5d41a8e6b1"
+	}, {
+		"upVotedByUsername": "akiralaine",
+		"upVotedBy": "553dc6e60cd9d50d775acd4f"
+	}, {
+		"upVotedByUsername": "krisvos130",
+		"upVotedBy": "54f5babbbae4d81700f391d1"
+	}, {
+		"upVotedByUsername": "hendersoncoder",
+		"upVotedBy": "55a19b18d9e6d9240c6a3919"
+	}, {
+		"upVotedByUsername": "jcarter",
+		"upVotedBy": "55a2aa5ce60c9c5d41a8e814"
+	}, {
+		"upVotedByUsername": "ijosephus",
+		"upVotedBy": "559feed23eb191577f54a9b0"
+	}, {
+		"upVotedByUsername": "michael",
+		"upVotedBy": "54fe05dc61db280b0051df92"
+	}, {
+		"upVotedByUsername": "bwelds",
+		"upVotedBy": "55a0a6b22b4015500bd64afe"
+	}, {
+		"upVotedByUsername": "knoxt",
+		"upVotedBy": "551dfde16d77ad0b005c173b"
+	}, {
+		"upVotedByUsername": "zmason",
+		"upVotedBy": "5591741cc98d0a217b234d1c"
+	}, {
+		"upVotedByUsername": "pamelalucinda",
+		"upVotedBy": "55a0288e0358222406a66573"
+	}, {
+		"upVotedByUsername": "crazypants1234",
+		"upVotedBy": "55a3dde884045eb44df9b18e"
+	}, {
+		"upVotedByUsername": "cc_liecense",
+		"upVotedBy": "55a400ed6f5465665abd7c46"
+	}, {
+		"upVotedByUsername": "katiemiller",
+		"upVotedBy": "55a1901a8404cb2b0c43e001"
+	}, {
+		"upVotedByUsername": "origamisoup",
+		"upVotedBy": "55a3c9fb84045eb44df9b150"
+	}, {
+		"upVotedByUsername": "pete0061",
+		"upVotedBy": "5582f4b185d50e3e5de5a418"
+	}, {
+		"upVotedByUsername": "know2code",
+		"upVotedBy": "54d4fbd135f9990900325127"
+	}],
+	"rank": 18,
+	"originalStoryAuthorEmail": "stevenkw@gmail.com",
+	"metaDescription": "How a team of young people, living in a repurposed McMansion in Maryland, helped rebuild Healthcare.gov",
+	"timePosted": 1436670291011
+}, {
+	"_id": "55a457d128cf57d35ee9dce1",
+	"headline": "These Posters Will Show You How Famous Start-Ups Were ConceivedThese Posters Will Show ...",
+	"link": "http://www.scoopwhoop.com/inothernews/how-famous-start-ups-were-started/",
+	"description": "",
+	"author": {
+		"picture": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAMeAAAAJDA3ZWEwM2RiLTRkNzctNGRiOC04NTUwLWI4NDg5YWY0NGE0Mw.jpg",
+		"userId": "559df810d0f832f91e27a2ae",
+		"username": "francisngo",
+		"email": "francisngo87@gmail.com"
+	},
+	"__v": 1,
+	"storyLink": "these posters will show you how famous startups were conceivedthese posters will show",
+	"image": "http://s4.scoopwhoop.com/shon/just/insta.jpg",
+	"comments": [],
+	"upVotes": [{
+		"upVotedBy": "559df810d0f832f91e27a2ae",
+		"upVotedByUsername": "francisngo"
+	}, {
+		"upVotedByUsername": "michael",
+		"upVotedBy": "54fe05dc61db280b0051df92"
+	}],
+	"rank": 2,
+	"originalStoryAuthorEmail": "francisngo87@gmail.com",
+	"metaDescription": "Start it up already!",
+	"timePosted": 1436833745408
+}, {
+	"_id": "55a453ee28cf57d35ee9dcdc",
+	"headline": "Remove punctuation from string using Javascript | ",
+	"link": "http://jeffkemponoracle.com/2015/07/13/remove-punctuation-from-string-using-javascript/",
+	"description": "",
+	"author": {
+		"picture": "https://lh3.googleusercontent.com/-cd7jZZ06Vig/AAAAAAAAAAI/AAAAAAAAABk/ew4SUdnUxsc/photo.jpg",
+		"userId": "552b5f4c131ef30b004571dd",
+		"username": "karink",
+		"email": "krachtusk@gmail.com"
+	},
+	"__v": 1,
+	"storyLink": "remove punctuation from string using javascript",
+	"image": "http://0.gravatar.com/blavatar/6f6a6311f6d0e3d42cfdbfe19d045bac?s=200&ts=1436832730",
+	"comments": [],
+	"upVotes": [{
+		"upVotedBy": "552b5f4c131ef30b004571dd",
+		"upVotedByUsername": "karink"
+	}, {
+		"upVotedByUsername": "michael",
+		"upVotedBy": "54fe05dc61db280b0051df92"
+	}],
+	"rank": 2,
+	"originalStoryAuthorEmail": "krachtusk@gmail.com",
+	"metaDescription": "I'm a morning person, and my mind is usually sharpest on Monday or Tuesday mornings, so these are the best times for me to work on fiddly javascript stuff. Today was one of those mornings and here are the results, just in case I want to refer back to them later on. I had many…",
+	"timePosted": 1436832750389
+}, {
+	"_id": "55a3da04ad5254ab4dc4e255",
+	"headline": "What Good Is a Hackathon, Really? - The Atlantic",
+	"link": "http://www.theatlantic.com/technology/archive/2015/07/the-secret-lives-of-hackathon-junkies/397895/",
+	"description": "",
+	"author": {
+		"picture": "https://lh5.googleusercontent.com/-TKL87JhXn-g/AAAAAAAAAAI/AAAAAAAACqU/0tVLA-DV-gY/photo.jpg",
+		"userId": "5497f7a1e356230b001acec8",
+		"username": "duttakapil",
+		"email": "kapil.dutta28@gmail.com"
+	},
+	"__v": 2,
+	"storyLink": "what good is a hackathon really the atlantic",
+	"image": "http://cdn.theatlantic.com/assets/media/img/mt/2015/07/22_image/facebook.jpg?GE2DGNRTHAYTMMZYFYYA====",
+	"comments": [],
+	"upVotes": [{
+		"upVotedBy": "5497f7a1e356230b001acec8",
+		"upVotedByUsername": "duttakapil"
+	}, {
+		"upVotedByUsername": "lkeude96",
+		"upVotedBy": "55a8294adc345ceb789b5cd2"
+	}, {
+		"upVotedByUsername": "jlbalsamo",
+		"upVotedBy": "558383e99d07bf482d854cd0"
+	}],
+	"rank": 3,
+	"originalStoryAuthorEmail": "kapil.dutta28@gmail.com",
+	"metaDescription": "I spent three days on a bus with a bunch of hackers. Here’s what I learned.",
+	"timePosted": 1436801540234
+}]
