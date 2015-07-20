@@ -195,6 +195,14 @@ function checkRain(data) {
 	}
 }
 
+function getCardinal(bearing) {
+	bearing = Math.floor(bearing / 45);
+
+	var directions = ["N", "NE", "E", "SE", "S", "SW", "W", "NW", "N"];
+
+	return directions[bearing];
+}
+
 
 /////////////////////////////////////////////////
 // Objects for weather data and geocoding data //
@@ -303,18 +311,18 @@ ForcastIO.prototype.loadWeather = function (self) {
 
 
 	$("#temp").html(self.current.temperature.toFixed(1));
-	var percent = today.precipProbability;
+	var percent = self.current.precipProbability;
 
 	if (percent > 0) {
 
 		var percent = percent * 100;
-		$('#chance').html(percent + "% chance of " + today.precipType);
+		$('#chance').html(percent + "% chance of " + self.current.precipType);
 	} else {
 		$('#chance').html("No percipitation expected");
 	}
 
 	$("#wind").html(self.current.windSpeed);
-	$("#bearing").html(self.current.windBearing + " ");
+	$("#bearing").html(getCardinal(self.current.windBearing) + " ");
 	$("#clouds").html(Number(self.current.cloudCover.toFixed(1)) * 100 + "%");
 	$("#phase").html(today.moonPhase);
 	$("#humid").html(self.current.humidity * 100);
@@ -323,9 +331,8 @@ ForcastIO.prototype.loadWeather = function (self) {
 	$("#low").html(today.temperatureMin);
 	$("#hiTime").html(unixTime(today.temperatureMaxTime));
 	$("#lowTime").html(unixTime(today.temperatureMinTime));
-	$("#sunrise").html(sunrise);
-	$("#sunset").html(sunset);
-	$("#sunset").html(sunset);
+	$("#sunrise").html(this.sunrise);
+	$("#sunset").html(this.sunset);
 
 
 	for (var i = 1; i < 5; i++) {
@@ -339,7 +346,7 @@ ForcastIO.prototype.loadWeather = function (self) {
 	$('.day').filter(':first').addClass('col-md-offset-2');
 
 
-	$('.weatherIcon img').attr('src', self.getIcon(today.icon));
+	$('.weatherIcon img').attr('src', self.getIcon(self.current.icon));
 
 	$('.content').css({
 		'background-image': 'url(' + self.getBackground(self.data.currently.icon) + ')'
