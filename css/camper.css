@@ -14,10 +14,14 @@ ul {
 	min-height: 100vh;
 }
 .injectArea {
+	width: 100%;
 	height: auto;
 	background: #949494;
 	padding-top: 20px;
 	padding-bottom: 20px;
+	padding-left: 0;
+	padding-right: 0;
+	margin: 0;
 }
 .titleBlock {
 	margin-bottom: 10px;

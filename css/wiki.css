@@ -1,0 +1,59 @@
+html {
+	min-height: 100vh;
+	height: auto;
+}
+body {
+	min-height: 100vh;
+	height: auto;
+}
+.wrapper {
+	height: 100%;
+	min-height: 100vh;
+}
+.injectArea {
+	height: 100%;
+	min-height: 100vh;
+	padding-top: 25px;
+	padding-bottom: 25px;
+	background: #2F4F4F;
+}
+.searchBar {
+	width: 30%;
+	margin: 0 auto;
+	border: 1px solid gray;
+	padding: none;
+	background: #778899;
+	border-radius: 5px;
+}
+.searchBar input {
+	height: 40px;
+	width: 88%;
+	border: none;
+	background: #99AABB;
+	padding-left: 5px;
+}
+.searchBar button {
+	margin-top: -2px;
+	height: 40px;
+	width: 10%;
+}
+.wikiLink {
+	padding: 10px;
+	padding-left: 25px;
+	width: 80%;
+	background: white;
+	border: 1px solid black;
+	border-left: 5px solid black;
+	margin: 0 auto;
+	margin-top: 20px;
+}
+.wikiLink:hover {
+	border-left: 5px solid #F00;
+}
+.wikiLink a {
+	color: black;
+	text-decoration: none;
+}
+.wikiLink h2 {
+	text-align: justify;
+}
