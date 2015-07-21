@@ -1,12 +1,12 @@
 <!DOCTYPE html>
-<html lang="en" ng-app='fccApp' ng-controller="mainCtrl">
+<html lang="en" ng-app='wikiApp' ng-controller="wikiCtrl">
 
 <head>
 	<meta charset="utf-8">
 	<link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap.css">
 	<link rel="stylesheet" href="node_modules/font-awesome/css/font-awesome.min.css">
 	<link rel="stylesheet" href="css/index.css">
-	<link rel="stylesheet" href="css/main.css">
+	<link rel="stylesheet" href="css/wiki.css">
 	<script src="node_modules/jquery/dist/jquery.js"></script>
 	<script src="scripts/mediator.js"></script>
 	<script src="scripts/keyRing.js"></script>
@@ -51,7 +51,23 @@
 	<div class="wrapper">
 		<div class="injectArea" ng-view>
 
-			Under Construction
+			<div class="searchBar">
+				<input type="search" ng-model="searchText" placeholder="Type your search or click the button for random" ng-keyup="keyHandler($event)" list="autoSearch">
+				<button class="btn btn-primary" ng-click="search(searchText)"><i class="fa fa-search"></i></button>
+				<datalist id="autoSearch">
+					<option value="{{open}}" ng-repeat="open in opensearch">
+				</datalist>
+			</div>
+
+			<div class="results">
+
+				<div ng-repeat="wiki in wikiList" class="wikiLink">
+					<a ng-href="http://en.wikipedia.org/wiki/{{wiki.title | encode}}">
+						<h2>{{wiki.title}}</h2>
+						<p id="para" ng-bind-html="setTrusted(wiki.snippet)"></p>
+					</a>
+				</div>
+			</div>
 
 		</div>
 		<!--End injectArea-->
@@ -59,11 +75,7 @@
 
 	</div>
 	<!--End wrapper-->
-
-
-
-
-
+	<!--{{wikiList}}-->
 
 	<div class="footer">
 		&copy 2015 Brett Flanders: Developer Artist Human
@@ -77,6 +89,7 @@
 	</div>
 	<script src="node_modules/angular/angular.js"></script>
 	<script src="scripts/app.js"></script>
+	<script src="scripts/wiki.js"></script>
 </body>
 
 </html>
