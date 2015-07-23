@@ -1,0 +1,50 @@
+html {
+	min-height: 100vh;
+}
+body {
+	min-height: 100vh;
+}
+.wrapper {
+	min-height: 100vh;
+}
+.injectArea {
+	height: 100%;
+	min-height: 100vh;
+	background: #002211;
+	padding-top: 2%;
+}
+.injectArea h2 {
+	margin-bottom: 2%;
+}
+.centering {
+	height: 100%;
+	width: 70%;
+	border: 1p solid outset #000;
+}
+#clockFace {
+	margin: 0 auto;
+	border: 3px inset #002211;
+	border-radius: 25px;
+}
+.options {
+	width: 40%;
+	padding: 10px;
+	margin: 0 auto;
+	text-align: center;
+	background: #113322;
+	border: 1px inset #002211
+}
+.options p {
+	display: inline-block;
+	color: white;
+}
+.setting {
+	padding: 10px;
+	border-radius: 50px;
+	background-color: silver;
+	border: none;
+}
+.setting i {
+	text-shadow: 0px, 1px, 1px #4d4d4d;
+	color: #000;
+}

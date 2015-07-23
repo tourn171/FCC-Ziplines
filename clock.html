@@ -1,12 +1,12 @@
 <!DOCTYPE html>
-<html lang="en" ng-app='fccApp' ng-controller="mainCtrl">
+<html lang="en">
 
 <head>
 	<meta charset="utf-8">
 	<link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap.css">
 	<link rel="stylesheet" href="node_modules/font-awesome/css/font-awesome.min.css">
 	<link rel="stylesheet" href="css/index.css">
-	<link rel="stylesheet" href="css/main.css">
+	<link rel="stylesheet" href="css/clock.css">
 	<script src="node_modules/jquery/dist/jquery.js"></script>
 	<script src="scripts/mediator.js"></script>
 	<script src="scripts/keyRing.js"></script>
@@ -50,9 +50,32 @@
 	</div>
 	<div class="wrapper">
 		<div class="injectArea" ng-view>
-
-			Under Construction
-
+			<h2>Pomodoro Clock</h2>
+			<div class="center-block centering">
+				<div class="clock-face">
+					<canvas id="clockFace" class="center-block" style="width:50%;height: 50%;"></canvas>
+				</div>
+			</div>
+			<div class="options container">
+				<div class="row center-block">
+					<div class="settingGroup col-md-4">
+						<button class="setting" id="breakMinus"><i class="fa fa-minus"></i></button>
+						<p>Break</p>
+						<button class="setting" id="breakPlus"><i class="fa fa-plus"></i></button>
+					</div>
+					<div class="settingGroup col-md-4">
+						<button type="button" class="btn btn-success" id="runToggle">Start/Stop</button>
+						<button class="btn btn-danger" id="reset">Reset</button>
+					</div>
+					<div class="settingGroup col-md-4">
+						<button class="setting" id="sessionMinus"><i class="fa fa-minus"></i></button>
+						<p>Session</p>
+						<button class="setting" id="sessionPlus"><i class="fa fa-plus"></i></button>
+					</div>
+				</div>
+				<!--End row-->
+			</div>
+			<!--End options-->
 		</div>
 		<!--End injectArea-->
 
@@ -75,8 +98,8 @@
 			<div></div>
 		</div>
 	</div>
-	<script src="node_modules/angular/angular.js"></script>
 	<script src="scripts/app.js"></script>
+	<script src="scripts/clock.js"></script>
 </body>
 
 </html>
