@@ -1,82 +1,114 @@
 <!DOCTYPE html>
-<html lang="en" ng-app='fccApp' ng-controller="mainCtrl">
+<html lang="en">
 
 <head>
-	<meta charset="utf-8">
-	<link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap.css">
-	<link rel="stylesheet" href="node_modules/font-awesome/css/font-awesome.min.css">
-	<link rel="stylesheet" href="css/index.css">
-	<link rel="stylesheet" href="css/main.css">
-	<script src="node_modules/jquery/dist/jquery.js"></script>
-	<script src="scripts/mediator.js"></script>
-	<script src="scripts/keyRing.js"></script>
+  <meta charset="utf-8">
+  <meta title="FCC-Ziplines: Calculator">
+  <link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap.css">
+  <link rel="stylesheet" href="node_modules/font-awesome/css/font-awesome.min.css">
+  <link rel="stylesheet" href="css/index.css">
+  <link rel="stylesheet" href="css/calc.css">
+  <script src="node_modules/jquery/dist/jquery.js"></script>
 </head>
 
 <body>
-	<div>
-		<div class="container navBar">
-			<div class="row">
-				<div class="col-md-2 col-md-sm-12 title-box"><a href="index.html" class="title-link"><h3>FCC Ziplines</h3></a></div>
-				<ul class="col-md-6 container row" id="test">
-					<a class="col-md-3" href="weather.html">
-						<li>Weather Forecast</li>
-					</a>
-					<a class="col-md-3" href="quote.html">
-						<li>90's Random Quote Generator</li>
-					</a>
-					<a class="col-md-3" href="twitch.html">
-						<li>Twitch.tv JSON API</li>
-					</a>
-					<a class="col-md-3" href="camper.html">
-						<li>Camper News</li>
-					</a>
-					<a class="col-md-3" href="wiki.html">
-						<li>WikiPedia Viewer</li>
-					</a>
-					<a class="col-md-3" href="clock.html">
-						<li>Pomodoro Clock</li>
-					</a>
-					<a class="col-md-3" href="calc.html">
-						<li>Javascipt Calculator</li>
-					</a>
-					<a class="col-md-3" href="game.html">
-						<li>Tic Tac Toe Game</li>
-					</a>
-				</ul>
-			</div>
-			<!--End row-->
-		</div>
-		<!--End navBar-->
-	</div>
-	<div class="wrapper">
-		<div class="injectArea" ng-view>
+  <div>
+    <div class="container navBar" role="navigation">
+      <div class="row">
+        <div class="col-md-2 col-md-sm-12 title-box"><a href="index.html" class="title-link"><h3>FCC Ziplines</h3></a></div>
+        <ul class="col-md-6 container row" id="test">
+          <a class="col-md-3" href="weather.html">
+            <li>Weather Forecast</li>
+          </a>
+          <a class="col-md-3" href="quote.html">
+            <li>90's Random Quote Generator</li>
+          </a>
+          <a class="col-md-3" href="twitch.html">
+            <li>Twitch.tv JSON API</li>
+          </a>
+          <a class="col-md-3" href="camper.html">
+            <li>Camper News</li>
+          </a>
+          <a class="col-md-3" href="wiki.html">
+            <li>WikiPedia Viewer</li>
+          </a>
+          <a class="col-md-3" href="clock.html">
+            <li>Pomodoro Clock</li>
+          </a>
+          <a class="col-md-3" href="calc.html">
+            <li>Javascipt Calculator</li>
+          </a>
+          <a class="col-md-3" href="game.html">
+            <li>Tic Tac Toe Game</li>
+          </a>
+        </ul>
+      </div>
+      <!--End row-->
+    </div>
+    <!--End navBar-->
+  </div>
+  <div class="wrapper">
+    <div class="injectArea">
+      <div class="center-block centering">
+        <h2>FCC Calculator</h2>
+        <div class="calc">
+          <div class="display">
+            <h2></h2>
+          </div>
+          <div class="numpad">
+            <div class="row">
+              <button data-key="MS" class="button">MS</button>
+              <button data-key="MR" class="button">MR</button>
+              <button data-key="MC" class="button">MC</button>
+              <button data-key="CE" class="button">CE</button>
+              <button data-key="C" class="button red">C</button>
+            </div>
+            <div class="row">
+              <button data-key="7" class="button number">7</button>
+              <button data-key="8" class="button number">8</button>
+              <button data-key="9" class="button number">9</button>
+              <button data-key="*" class="button">x</button>
+              <button data-key="/" class="button">/</button>
+            </div>
+            <div class="row">
+              <button data-key="4" class="button number">4</button>
+              <button data-key="5" class="button number">5</button>
+              <button data-key="6" class="button number">6</button>
+              <button data-key="+" class="button">+</button>
+              <button data-key="-" class="button">-</button>
+            </div>
+            <div class="row">
+              <button data-key="1" class="button number">1</button>
+              <button data-key="2" class="button number">2</button>
+              <button data-key="3" class="button number">3</button>
+              <button data-key="sqrt" class="button">&radic;</button>
+              <button data-key="%" class="button">%</button>
+            </div>
+            <div class="row">
+              <button data-key="0" class="button number">0</button>
+              <button data-key="plusmin" class="button">&plusmn;</button>
+              <button data-key="." class="button">.</button>
+              <button data-key="=" class="button wide green">=</button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!--End injectArea-->
 
-			Under Construction
 
-		</div>
-		<!--End injectArea-->
-
-
-	</div>
-	<!--End wrapper-->
+  </div>
+  <!--End wrapper-->
 
 
 
 
 
 
-	<div class="footer">
-		&copy 2015 Brett Flanders: Developer Artist Human
-	</div>
-
-	<div class="box">
-		<div class="info">
-			<button class="close">x</button>
-			<div></div>
-		</div>
-	</div>
-	<script src="node_modules/angular/angular.js"></script>
-	<script src="scripts/app.js"></script>
+  <div class="footer">
+    &copy 2015 Brett Flanders: Developer Artist Human
+  </div>
+  <script src="scripts/calc.js"></script>
 </body>
 
 </html>
