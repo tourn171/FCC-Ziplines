@@ -1,0 +1,90 @@
+html,
+body,
+.wrapper,
+.injectArea {
+  min-height: 100vh;
+}
+.injectArea {
+  background: darkslategray;
+  padding: 10px;
+}
+.centering {
+  width: 80%;
+}
+.calc {
+  border: 3px ridge darkred;
+  border-radius: 25px;
+  width: 30%;
+  height: 400px;
+  margin: 0 auto;
+  margin-top: 20px;
+  background: red;
+  box-shadow: inset 5px 10px 0px rgba(255, 255, 255, 0.5), inset 0px -8px 18px black;
+}
+.display {
+  width: 80%;
+  height: 50px;
+  background: repeating-linear-gradient(285deg, silver, #333 0.5%);
+  margin: 20px auto 25px auto;
+  border: 2px inset gray;
+  border-radius: 25px;
+  box-shadow: inset 0px -2px 5px rgba(200, 200, 200, 0.8);
+}
+.display h2 {
+  text-align: right;
+  color: black;
+  margin: 2px 15px 0px 0px;
+  font-size: 1.5em;
+}
+.numpad {
+  width: 80%;
+  height: 80%;
+  border-top: 3px groove silver;
+  margin: 0 auto;
+  padding-top: 20px;
+}
+.numpad .row {
+  margin: 0;
+  margin-top: 10px;
+}
+.button {
+  width: 35px;
+  height: 35px;
+  border-radius: 25px;
+  margin-left: 6px;
+}
+.wide {
+  width: 80px;
+}
+.red {
+  background: rgb(200, 10, 10);
+  border-color: red;
+}
+.green {
+  background: rgb(10, 200, 10);
+  border-color: green;
+}
+.number {
+  background: silver;
+  border-color: silver;
+}
+@media screen and (max-width: 1200px) {
+  .calc {
+    width: 40%;
+  }
+}
+@media screen and (max-width: 900px) {
+  .calc {
+    width: 50%;
+  }
+}
+@media screen and (max-width: 730px) {
+  .calc {
+    width: 60%;
+  }
+}
+@media screen and (max-width: 620px) {
+  .calc {
+    width: 90%;
+  }
+}
