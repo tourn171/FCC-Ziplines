@@ -34,7 +34,7 @@ var input = {
     if (key === "=") {
       this.total = eval(this.inputStream.join("").toString());
       output.setDisplay(this.total);
-      this.memoryHandler("C");
+      this.inputStream = [];
     } else {
       output.setDisplay(this.inputStream.join(""));
     }
